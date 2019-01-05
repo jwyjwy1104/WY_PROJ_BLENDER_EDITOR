@@ -1,0 +1,71 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.063s
+
+OK
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0001.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0002.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0003.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0004.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0005.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0006.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0007.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0008.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0009.wyo
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading WYMesh from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wymesh\Test0010.wyo
+
+------------------------------------------------------------------------------
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

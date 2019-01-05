@@ -1,0 +1,276 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil triangulate_mesh function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 506 tests in 1.566s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil create_custom_mesh function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1UmnmHb2cJCfrA6ANeQAarFOruqyDoxTdIar3wNTgGpU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.026s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil triangulate_mesh function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 506 tests in 1.898s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil create_custom_mesh function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1UmnmHb2cJCfrA6ANeQAarFOruqyDoxTdIar3wNTgGpU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.004s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil triangulate_mesh function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 506 tests in 1.674s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil create_custom_mesh function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1UmnmHb2cJCfrA6ANeQAarFOruqyDoxTdIar3wNTgGpU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.003s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil triangulate_mesh function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 506 tests in 1.583s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil create_custom_mesh function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1UmnmHb2cJCfrA6ANeQAarFOruqyDoxTdIar3wNTgGpU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.004s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil triangulate_mesh function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 506 tests in 1.458s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil create_custom_mesh function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1UmnmHb2cJCfrA6ANeQAarFOruqyDoxTdIar3wNTgGpU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.003s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil triangulate_mesh function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_triangulate_mesh\WYUtilTestCases_triangulate_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 506 tests in 1.487s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYUtil create_custom_mesh function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1UmnmHb2cJCfrA6ANeQAarFOruqyDoxTdIar3wNTgGpU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYUtilTestCases_create_custom_mesh\WYUtilTestCases_create_custom_mesh.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.004s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+

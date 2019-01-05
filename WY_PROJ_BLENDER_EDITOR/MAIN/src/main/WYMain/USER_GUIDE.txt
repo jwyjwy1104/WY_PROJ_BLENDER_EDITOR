@@ -1,0 +1,55 @@
+================================================================================
+                                    READ ME
+================================================================================
+Project name: 
+    - WY_PROJ_BLENDER_EDITOR.
+    - Project was originally brought from 
+      [ BlenderExporterImporterProj_ver0055 ].
+
+================================================================================
+				User guide
+================================================================================
+(0) WY_PROJ_BLENDER_EDITOR\install_win10_x64.bat must be ran before 
+    using current project.
+
+(1) Double click "wymain.pyw" file.
+
+(1-1) Export:
+	(A) Click "Export" button.
+	(B) Click "Browse" button to browse the ".blend" file to access with
+	    OR prompt the ".blend" file path into the text box and 
+	    Click "Choose" button or key press "Enter" to proceed.
+	(C) Choose model to export:
+	    - Select the model name inside the Blender file to export with.
+	    Choose coordinate system UP axis to export: 
+	    - Select the coordinate system UP axis to export the model with.
+	    Choose coordinate system FORWARD axis to export:
+	    - Select the coordinate system FORWARD axis to export the model with.
+	    (Blender default is Z up Y forward)
+	    Export to:
+	    - Click "Browse" button or prompt the folder file path directly 
+	      onto the text box to choose the folder to export the model 
+	      file onto.
+ 	    Save as file name:
+	    - Prompt the file name of the exporting model file.
+	(D) Click "Export" button to export the 
+	    	WYMesh file (.wyo) 
+		WYMaterial file (.wym)
+
+	    files with provided export directory path and file name.
+	
+(1-2) Import:
+	(A) Click "Import" button.
+
+	(B) Click "Browse" button to browse the ".wyo" file to import with
+	    OR prompt the ".wyo" file path into the text box and 
+	    Click "Choose" button or key press "Enter" to proceed.
+	    Click "Browse" button to browse the ".blend" file to import onto
+	    OR prompt the ".blend" file path into the text box and 
+	    Click "Choose" button or key press "Enter" to proceed.
+
+	(C) Click "Import" button to import the 
+	    	WYMesh file (.wyo) 
+		WYMaterial file (.wym)
+	    files onto the provided Blender file.
+

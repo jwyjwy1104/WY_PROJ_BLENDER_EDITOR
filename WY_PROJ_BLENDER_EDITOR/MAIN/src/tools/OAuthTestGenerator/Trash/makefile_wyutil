@@ -1,0 +1,28 @@
+WYUTIL_TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../../WYUtilTestCaseResult.txt
+
+#===============================================================================
+all:
+#===============================================================================
+#       ========================================================================
+# 	[ WYUtil triangulate_mesh function ] test cases
+#       ========================================================================
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYUtil triangulate_mesh function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	> $(WYUTIL_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+#       ========================================================================
+# 	[ WYUtil create_custom_mesh function ] test cases
+#       ========================================================================
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYUtil create_custom_mesh function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1UmnmHb2cJCfrA6ANeQAarFOruqyDoxTdIar3wNTgGpU/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYUTIL_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+
+
+

@@ -1,0 +1,13 @@
+ann TestArmatureObject0002
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0002
+abc 1
+CU Z
+CF Y
+abn TestArmatureBoneName0002
+kf 0 {
+abh 2.0 0.0 0.0
+abt 0.0 0.0 0.0
+loc 2.0 0.0 0.0
+rotq 1.0 2.0 0.0 0.0
+sca 2.0 0.0 0.0
+}

@@ -1,0 +1,173 @@
+==========================================================================
+	Blender importer & exporter project - Revision history
+==========================================================================
+Project name: 
+	- BlenderExporterImporterProj.
+
+Project directory:
+	- C:\Users\nickj\Desktop\Season2\20170415_[Engine_gameditor_scenemanager]
+	- C:\Users\nickj\Desktop\Season2\20170424_[Engine_blenderexporter_coordincatesystems]
+	- C:\Users\nickj\Desktop\Season2\20170501_[Engine_vertexnormalintro_vertexoptimizationintro]
+
+---------------------------------------------------------------------------
+C:\Users\nickj\Desktop\Season2\20170415_[Engine_gameditor_scenemanager]
+---------------------------------------------------------------------------
+[blenderExport]
+201704211700
+201704211933	ver0001		Calculate triangulated cube vertices, texture coordinates, normals, faces printed tested.
+201704212241	ver0002		Exporting data to file tested, but the order is different then the actual OBJ file exported from Blender.
+
+201704221500
+201704221820	ver0003		Exporting data with correct order failed, using print to debug and have tried everyting i could to match the actual OBJ file exported from Blender.
+
+[blenderExporter]
+201704221922	ver0001		Ignoring the orders, writing vertex indices, texture coordinates, normals to file done.
+201704222004	ver0002		Formatting the file to match the actual OBJ format, formatted faces (v/t/n indices) write to file done.
+201704222020	ver0003		Formatted vertices, texture coordinates and normals done.
+201704230130	ver0004		Loading myOBJ.txt on my engine savepoint.
+201704230230	ver0005		Export material started.	
+
+[blenderImporter]
+201704231600
+201704232029	ver0001		Import myOBJ.txt create mesh with data from myOBJ.txt tested.
+201704230017	ver0002		Loading texture image with texture coordinates from myOBJ.txt rendered all white problem unsolved, vertices read in in format 3,2,1.
+201704240221	ver0003		Import texture image material and texture setup done with texture coordinates data loaded from myOBJ.txt, need to change to material viewport shading mode to see texture, comparing result, the texture is inverted from original
+
+201704241430
+201704241630	ver0004		Texture inverted when imported problem unsolved.
+201704241700	ver0005		Still texture inverted problem unsolved, savepoint before Sam.
+
+---------------------------------------------------------------------------
+C:\Users\nickj\Desktop\Season2\20170424_[Engine_blenderexporter_coordincatesystems]
+---------------------------------------------------------------------------
+[blenderExporter]
+201704251800
+201704252000	ver0006 	Exporter savepoint sent to Sam.
+
+201704262040
+201704260240	ver0007		Exporting vertices value wrong so that the texture is loaded inversely problem solved.
+
+[blenderImporter]
+201704251800
+201704252000	ver0006 	Importer savepoint sent to Sam. Understanding of coordinate systems.
+
+201704262040
+201704260240	ver0007		Code not changed, Importing myOBJ.txt loading texture correctly by fixing exporter side done.
+
+
+[BlenderExporterImporterProj] 
+201704240110	ver0001 	Savepoint, saved [blenderImporter] ver0007 + [blenderExporter] ver0007.
+
+201704271600
+201704271940	ver0002		Export material informations, except illum values, newmtl, Ka, Kd, Ks, Ke, d, Ni, Ns, map_Kd export done.
+201704280100	ver0003		Import material informations with different naming conventions done + commented.
+201704290124	ver0004
+
+201704291500
+201704291903	ver0005		Exporting myOBJ.txt vertex coordinates with different coordinate system options using bool flags done.
+201704292235	ver0006		Importing myOBJ.txt with different coordinate system options always shows same result done.
+201704292303	ver0007		Exporting coordinate system option setting done, eg. Up, forward flag num true > 1 or  == 0 or X up X forward invalid --> Default Z up Y forward exported.
+201704300046	ver0008		Testing DirectX 12 my engine import with different coordinate system exported through Blender.
+
+
+201704301500
+201704301917	ver0009		Importing my blenderExporter exported myOBJ.txt to my DirectX12 engine, manually converting coordinate system for each cases done (commented).
+201704302004	ver0010		Analyzed coodinate system conversion mechanism downloaded + DirectX12 working import savepoint.
+201705010045	ver0011		BlenderExporter draw normal line test, missing 2 normal lines for 2 vertices each problem unsolved.
+
+---------------------------------------------------------------------------
+C:\Users\nickj\Desktop\Season2\20170501_[Engine_vertexnormalintro_vertexoptimizationintro]
+---------------------------------------------------------------------------
+[BlenderExporterImporterProj] 
+201705011800
+201705012000	ver0012		Draw surface normal on each faces done, savepoint with Sam.
+
+
+201705111637	ver0013		Mesh and material importer handling errors when there are no UV coordinate and texture file path to import with.
+201705111911	ver0014		Mesh and material exporter exporting coordinate axis model, coordinate system conversion is needed to load the model onto DirectX project on the exact location shown in Blender.
+
+201705142158	ver0015		Mesh and material exporter exporting camera model with global coordinate and loaded onto DirectX project.
+
+201705150139	ver0016		Mesh and material exporter exporting coordinate axis model texturing done.
+
+---------------------------------------------------------------------------
+C:\Users\nickj\Desktop\Season2\20170515_[Engine_refactoring]
+---------------------------------------------------------------------------
+
+201705151800	ver0017		Save-point.
+
+201705301555	ver0018		Changed exporting camera model into local vertex coordinates to transform the camera properly when loaded in DirectX project.
+201705302303	ver0019		Found out that i will have to duplicate the vertex on DirectX project side in order to load the custom exported model properly.
+
+---------------------------------------------------------------------------
+C:\Users\Nickj\Desktop\Season2\20170701_[Engine_animation_interpolation_and_mechanism]
+---------------------------------------------------------------------------
+
+[BlenderExporterImporterProj]
+201707112200	ver0020		Exporting armature with coordiante system options functionalized tested.
+201707112325	ver0021		Coordinate system onversion function also ported to original custom OBJ exporter.
+201707120023	ver0022		Coordinate system conversion function tested save-point.
+
+201707131530
+201707131700	ver0023		Armature exported with coordinate options UP and FORWARD vectors.
+201707132150	ver0024		Animation exported started, keyframe animation created.
+201707140005	ver0025		Keyframe animation export started.
+
+201707181500
+201707182140	ver0026		Animation exporter imported and tested with console output on my DirectX 12 engine.
+
+201707282130	ver0027		Save-point.
+201707282320	ver0028		Armature bone exporter, vertex group framework started but not done.
+
+---------------------------------------------------------------------------
+C:\Users\Nickj\Desktop\Season2\20170827_[DirectX_animation]
+---------------------------------------------------------------------------
+
+[ BlenderExporterImporterProj ]
+
+201708271500	ver0029		Save-point.
+201708280030	ver0030		Animation exporter exporting animation file format changed to export more animaiton data.
+
+
+201708282210	ver0031		Animation export format changed, imported to DirectX project ver0042.
+
+201708291800	ver0032		Many trials testing the correct animation frame data to export to be imported to DirectX project, closest solution remained in the code.
+201808292310	ver0033		Importing animation frame data to DirectX project 3 trials failed.
+
+201708301800	ver0034		Exporting armature bone head coordinate wrong problem fixed.
+201708310000	ver0035		6 trials on testing correct animation frame data export all failed.
+
+201709011950	ver0036		Decided to load the animation first in Blender before importing to DirectX. To import the animation in Blender i need to first import the armature with mesh and material using vertex group framework.
+201709012030	ver0037		Armature exporter vertex group framework applied, exporting with vertex group information.
+
+201709022200	ver0038		Armature importer start importing the mesh with the armature. So moving the mesh and material export code into a function and port it to the armature exporter.
+201709031700	ver0039		Armature importer importing with the mesh and matreial testing, the mesh is not loaded relative to the corresponding armature bones.
+
+201709031730	ver0040		Armature importer mesh and material is loaded properly with proper armature bones.
+201709032000	ver0041		Armature importer mesh is not mapped correctly onto corresponding armature bones, weight painting is only applied to child bone problem unsolved.
+
+201709041550	ver0042		Armature importer armature bone deform and parenting framework applied, now mesh is mapped onto correct armature bones using vertex group framework. 
+				Animation importer created to start importing the custom exported animation keyframes.
+201709042300	ver0043		Animation exporter exporting "matrix" value to import doesn't work, so i decided to create simpler test codes to find out which values i should be exporting to import correct keyframe animation data to apply proper animation.
+
+201709051640	ver0044		Animation test animationTest.blend and animationTest2.blend are created to test the animation export and import with more simpler codes. Exporting and importing the rotation quaternion value into the keyframes to apply the animation worked.
+201709051800	ver0045		Animation test exported animation imported to Blender shows exact same result animation. Hard coded importing code.
+201709051830 	ver0046		Animation test same strategy applied to not only rotation value but also location and scale value to export and import working.
+201709051850	ver0047		Animation test loc, rot and sca values need to import with ZY-X format even though how they are exported with any coordinate system export options.
+201709051900	ver0048		Animation test save-point before applying to main animation exporter and importer.
+
+201709061800	ver0049		Save-point with Sam discussing problems.
+
+201709101500	ver0050		In order to find out what exactly i should export to load the correct animation on DirectX engine, i first need to implement the parenting framework myself in DirectX project, to solve this problem i will have to figure out how the parenting framework is applied in Blender, because Blender is already did the parenting for us.
+
+201709112250	ver0051		Animation test exporting same loc,rot and sca to import back to Blender but this time without armature bones are child and parent. The child bone now doesn't transform relative to parent.
+201709120010	ver0052		Animation test many trials all failed, closest solution is kept where abstract child bone actually transform relative to parent but not perfectly.
+
+201709121600	ver0053		Animation test, animationTest3.blend and animationTest4.blend are created to test the animation export import without armature bones are connected. 
+				Now this time exporting and importing with "matrix" value does work without parent child connected when importing.
+201709121800	ver0054		Applying exact same logic to main animation exporter and importer doesn't work problem unsolved.
+
+201709142050	ver0055		Save-point before changing project folder to WY_PROJ_BLENDER_EDITOR to start the project from the beginning with unit test cases.
+
+
+

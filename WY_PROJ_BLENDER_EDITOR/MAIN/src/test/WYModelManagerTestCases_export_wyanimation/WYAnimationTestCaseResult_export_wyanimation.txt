@@ -1,0 +1,71 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.104s
+
+OK
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0001.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0002.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0003.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0004.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0005.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0006.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0007.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0008.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0009.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyanimation\TestFile0010.wyan
+
+------------------------------------------------------------------------------
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

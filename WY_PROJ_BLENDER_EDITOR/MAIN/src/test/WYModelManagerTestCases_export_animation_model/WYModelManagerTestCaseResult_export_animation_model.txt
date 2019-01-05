@@ -1,0 +1,131 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.159s
+
+OK
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0001.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0002.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0003.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0004.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0005.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0006.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0007.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0008.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0009.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_animation_model\TestFile0010.wyan
+
+------------------------------------------------------------------------------
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

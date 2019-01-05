@@ -1,0 +1,26 @@
+================================================================================  
+                                 REVISION HISTORY
+================================================================================
+Project name: 
+	- OAuthTestGenerator.
+
+Project directory:
+	- C:\Users\Nickj\Desktop\Season2\20171001_[BlenderNewStart]
+---------------------------------------------------------------------------
+C:\Users\Nickj\Desktop\Season2\20171001_[BlenderNewStart]
+---------------------------------------------------------------------------
+[ OAuthTestGenerator.]
+
+201710021200
+201710030000	ver0001		Retrieving data from Google Spreadsheet WYCoordsys __init__ test cases data loaded printing tested.	
+201710030230	ver0002		Test case for WYCoordsys __init__ function genreated with Pydoc converted to HTML page refactoring neeeded.
+
+201710031700
+201710031850	ver0003		Improving test cases data spreadsheet format so i have better information to generate the test cases, WYCoordsys Pydoc inner document added.
+201710040100	ver0004		Diagrams completed downloaded from Google to local "Documents" folders.
+
+201710110150	ver0005		Save-point.
+
+201710121500
+201710121930	ver0006		Pydoc inner comments added, Makefile adjusted added Pydoc generate code in the makefile for all the scripts for this test case generator tool. Now the Pydoc HTML pages are generated for all the scripts used in this tool.
+

@@ -1,0 +1,35 @@
+================================================================================  
+                                 REVISION HISTORY
+================================================================================
+Project name: 
+	- OAuthTimeReportDashboard.
+
+Project directory:
+	- C:\Users\Nickj\Desktop\Season2\20171001_[BlenderNewStart]
+---------------------------------------------------------------------------
+C:\Users\Nickj\Desktop\Season2\20171001_[BlenderNewStart]
+---------------------------------------------------------------------------
+[ OAuthTimeReportDashboard ] 
+
+201710081500
+201710081950	ver0001		amChart 3 Y axsi value with X axis time stamp values sorted done.
+
+201710091500
+201710091930	ver0002		Trying to separate amChart graph and valuesAxis failed.
+201710100130	ver0003		Generator time report processing Google Spreadsheet data into daily format algorithm applied.
+
+201710101600
+201710102050	ver0004		Generator generates the Javascript code using the processed Python amChart data copy it to the HTML page to debug and test.
+201710102130	ver0005		Makefile done, generating a single dashboard for single spreadsheet URL done.
+201710110130	ver0006		Multiple spreadsheet with same export file path merged into one data by saving and loading the Python lists to and from files to append the new data to the existing data and merge, so enven the time reports same dates are separated in to 2 spreadsheet, i get the amChart value shown merged.
+201710110150	ver0007		Save-point.
+
+201710111600
+201710111800	ver0008		Makefile open up time report dashboard HTML page in web brwoser with "Start" command when generating is finsihed. X axis sorted wrong and merging data error fixed.
+201710112000 	ver0009		Designed new data merge framework much simpler code, merging amChart data for mutiple spreadsheets error fixed.
+201710112100	ver0010		Work efficiency average calculated with more attribute value on each dictionary object, added "average_calculated" flag and "counter" to count the number of values added then i can calculate the average only if it is not calculated yet.
+201710120200	ver0011		Refactoring done, Pydoc inner comments done, amChart can now scroll with mouse scroll.
+
+201710121500
+201710121930	ver0012		Pydoc inner comments added, Makefile adjusted added Pydoc generate code in the makefile for all the scripts for this time report dashboard tool. Now the Pydoc HTML pages are generated for all the scripts used in this tool.
+

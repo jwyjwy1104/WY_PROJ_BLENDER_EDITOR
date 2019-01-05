@@ -1,0 +1,68 @@
+an Armature
+mdllib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\main\WYMain\anim
+bc 2
+CU Z
+CF Y
+bn Bone
+CU Z
+CF Y
+bh -0.4515 0.0 -2.5605
+bt 0.0 0.0 -0.0
+vg {
+vi 8
+v 0.6722 -0.5 -1.9463
+vw 1.0
+vi 9
+v 0.8459 -0.5 -0.9615
+vw 1.0
+vi 10
+v -1.2974 -0.5 -1.599
+vw 1.0
+vi 11
+v -1.1237 -0.5 -0.6142
+vw 1.0
+vi 12
+v 0.6722 0.5 -1.9463
+vw 1.0
+vi 13
+v 0.8459 0.5 -0.9615
+vw 1.0
+vi 14
+v -1.2974 0.5 -1.599
+vw 1.0
+vi 15
+v -1.1237 0.5 -0.6142
+vw 1.0
+}
+bn Bone.001
+pbn Bone
+CU Z
+CF Y
+bh 0.0 0.0 -0.0
+bt 0.0 0.0 2.5
+vg {
+vi 0
+v 0.5 -0.5 2.5
+vw 1.0
+vi 1
+v -0.5 -0.5 2.5
+vw 1.0
+vi 2
+v 0.5 -0.5 0.5
+vw 1.0
+vi 3
+v -0.5 -0.5 0.5
+vw 1.0
+vi 4
+v 0.5 0.5 2.5
+vw 1.0
+vi 5
+v -0.5 0.5 2.5
+vw 1.0
+vi 6
+v 0.5 0.5 0.5
+vw 1.0
+vi 7
+v -0.5 0.5 0.5
+vw 1.0
+}

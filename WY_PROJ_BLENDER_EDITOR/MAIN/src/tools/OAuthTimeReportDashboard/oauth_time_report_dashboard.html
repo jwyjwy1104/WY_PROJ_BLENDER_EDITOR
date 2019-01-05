@@ -1,0 +1,456 @@
+<!--Resources --> 
+    <script src="https://www.amcharts.com/lib/3/amcharts.js"></script> 
+    <script src="https://www.amcharts.com/lib/3/serial.js"></script> 
+    <script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script> 
+    <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />  
+    <script src="https://www.amcharts.com/lib/3/themes/light.js"></script> 
+    <script src="moment.js"></script> 
+    <!-- Chart code --> 
+    <script> 
+        var chartData = generateChartData(); 
+        var chart = AmCharts.makeChart( 
+            "chartdiv", { 
+            "type": "serial", "theme": "light", 
+            "legend": { "useGraphSettings": true },  
+            "dataProvider": chartData, 
+            "valueAxes": [{ 
+                "id": "v1",  
+                "axisColor": "#33AAFF", "axisThickness": 10, 
+                "gridAlpha": 0, "axisAlpha": 1, 
+                "position": "left", "tickLength":0, 
+                "autoOffset": true, "offset": 120, 
+                "autoGridCount": false, "gridCount": 15, 
+                "unit": "hrs", "maximum": 15, "minimum": 0 
+                }, { 
+                "id": "v2", 
+                "axisColor": "#FCD202", "axisThickness": 10, 
+                "gridAlpha": 0, "axisAlpha": 1, 
+                "position": "left", "tickLength":0, 
+                "autoOffset": true, "offset": 60, 
+                "autoGridCount": false, "gridCount": 15, 
+                "unit": "hrs", "maximum": 15, "minimum": 0 
+                }, { 
+                "id": "v3", 
+                "axisColor": "#B0DE09", "axisThickness": 10, 
+                "gridAlpha": 0, "axisAlpha": 1, 
+                "tickLength":0, "position": "left", 
+                "autoOffset": true, "offset": 0, 
+                "autoGridCount": false, "gridCount": 20, 
+                "unit": "%", "maximum": 200, "minimum": 0 
+                }], 
+            "mouseWheelScrollEnabled": true, 
+            "graphs": [{ 
+                "valueAxis": "v1", 
+                "lineColor": "#33AAFF", 
+                "alphaField": "alpha", 
+                "balloonText": "<span style='font-size:12px;'>[[title]] on \n[[category]]:<br><span style='font-size:20px;'>[[value]]</span> [[additional]]</span>", 
+                "fillAlphas": 1, 
+                "title": "Final Work Time", 
+                "type": "column", 
+                "valueField": "wyday_final_work_time", 
+                "dashLengthField": "dashLengthColumn" 
+                }, { 
+                "valueAxis": "v2", 
+                "balloonText": "<span style='font-size:12px;'>[[title]] on \n[[category]]:<br><span style='font-size:20px;'>[[value]]</span> [[additional]]</span>", 
+                "lineColor": "#FCD202", 
+                "bullet": "square", 
+                "bulletBorderThickness": 1, 
+                "hideBulletsCount": 30, 
+                "title": "Total Work Time", 
+                "valueField": "wyday_total_work_time", 
+                "fillAlphas": 0 
+                }, { 
+                "valueAxis": "v3", 
+                "balloonText": "<span style='font-size:12px;'>[[title]] on \n[[category]]:<br><span style='font-size:20px;'>[[value]]</span> [[additional]]</span>", 
+                "lineColor": "#B0DE09", 
+                "bullet": "triangleUp", 
+                "bulletBorderThickness": 1, 
+                "hideBulletsCount": 30, 
+                "title": "Work Efficiency", 
+                "valueField": "wyday_work_efficiency", 
+                "fillAlphas": 0 
+                }], 
+            "chartScrollbar": {}, 
+            "chartCursor": { 
+                "cursorPosition": "mouse" 
+                }, 
+            "categoryField": "date", 
+            "categoryAxis": { 
+                "labelRotation": 45,             
+                //"parseDates": true, 
+                "axisColor": "#DADADA", 
+                "minorGridEnabled": true 
+                }, 
+            "export": { 
+                "enabled": true, 
+                "position": "bottom-right" 
+                } 
+            }); 
+        chart.addListener("dataUpdated", zoomChart); 
+        zoomChart(); 
+        function convertUTCDateToLocalDate(date) { 
+            var newDate = new Date(date.getTime() + date.getTimezoneOffset() * 60 * 1000); 
+            var offset = date.getTimezoneOffset() / 60; 
+            var hours = date.getHours(); 
+            newDate.setHours(hours - offset); 
+            return newDate; 
+        } 
+        function generateChartData() { 
+            var chartData = [];
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/07"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "2.0",
+                "wyday_total_work_time": "2.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/08"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "5.4",
+                "wyday_total_work_time": "5.5",
+                "wyday_work_efficiency": "98.18"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/09"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "5.0",
+                "wyday_total_work_time": "5.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/10"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "7.75",
+                "wyday_total_work_time": "8.0",
+                "wyday_work_efficiency": "96.88"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/11"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "10.5",
+                "wyday_total_work_time": "10.5",
+                "wyday_work_efficiency": "80.95"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/04"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "7.0",
+                "wyday_total_work_time": "7.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/05"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "10.5",
+                "wyday_total_work_time": "10.5",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/06"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "4.5",
+                "wyday_total_work_time": "4.5",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/01"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "3.0",
+                "wyday_total_work_time": "3.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/02"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "11.0",
+                "wyday_total_work_time": "11.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/03"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "10.5",
+                "wyday_total_work_time": "10.5",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/28"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "4.0",
+                "wyday_total_work_time": "4.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/29"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "4.5",
+                "wyday_total_work_time": "4.5",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/30"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "6.5",
+                "wyday_total_work_time": "6.5",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/26"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "12.5",
+                "wyday_total_work_time": "12.5",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/27"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "8.0",
+                "wyday_total_work_time": "8.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/13"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "3.0",
+                "wyday_total_work_time": "3.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/14"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "6.0",
+                "wyday_total_work_time": "6.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/15"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "7.65",
+                "wyday_total_work_time": "8.5",
+                "wyday_work_efficiency": "90.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/16"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "7.833333333333333",
+                "wyday_total_work_time": "7.833333333333333",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/17"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "8.1",
+                "wyday_total_work_time": "9.0",
+                "wyday_work_efficiency": "90.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/18"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "7.5",
+                "wyday_total_work_time": "7.5",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/09/19"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "11.666666666666666",
+                "wyday_total_work_time": "11.666666666666666",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            var newDate = convertUTCDateToLocalDate(new Date("2017/10/12"));
+            newDate.setMonth(newDate.getUTCMonth());
+            newDate.setDate(newDate.getUTCDate());
+            newDate.setFullYear(newDate.getUTCFullYear());
+            newDate.setHours(newDate.getUTCHours());
+            newDate.setMinutes(newDate.getUTCMinutes());
+            newDate.setSeconds(newDate.getUTCSeconds());
+            chartDataElem = { 
+                "date": AmCharts.formatDate(newDate, "DD-MMM-YYYY"),
+                "wyday_final_work_time": "14.0",
+                "wyday_total_work_time": "14.0",
+                "wyday_work_efficiency": "100.0"
+            }
+            chartData.push(chartDataElem);
+            chartData.sort(compare); 
+            chartData.splice(-1, 1); 
+            for (var i = 0; i < chartData.length; i++) { 
+                chartData[i].date = moment(chartData[i].date, "DD-MMM-YYYY").format("DD-MMM-YYYY[\n]dddd") 
+            } 
+            return chartData; 
+        } 
+        function compare(a, b) { 
+            if (!moment(a.date).isAfter(b.date)) 
+                return -1; 
+            if (moment(a.date).isAfter(b.date)) 
+                return 1; 
+            return 0; 
+        } 
+        function zoomChart() { 
+            chart.zoomToIndexes(chart.dataProvider.length - 20, chart.dataProvider.length - 1); 
+        } 
+    </script> 
+    <!-- HTML --> 
+    <div id="chartdiv"></div> 
+    

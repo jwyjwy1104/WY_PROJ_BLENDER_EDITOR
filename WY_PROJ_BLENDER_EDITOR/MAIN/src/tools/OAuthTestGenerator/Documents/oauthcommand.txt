@@ -1,0 +1,5 @@
+python oauth_test_case_generator.py -app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT -ssurl https://docs.google.com/spreadsheets/d/1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA/edit#gid=0 -feed Sheet1
+
+python -m pydoc -w  WYCoordsysTestCases___init__
+
+python oauth_test_case_generator_manager.py -app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT -ssurl https://docs.google.com/spreadsheets/d/1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA/edit#gid=0 -feed Sheet1

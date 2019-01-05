@@ -1,0 +1,444 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module oauth_time_report_dashboard_generator</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>oauth_time_report_dashboard_generator</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Cnickj%5Cdesktop%5Cwy_proj_blender_directx%5Cwy_proj_blender_editor%5Cmesh_mat_exporter%5Coauthtimereportdashboard%5Coauth_time_report_dashboard_generator.py">c:\users\nickj\desktop\wy_proj_blender_directx\wy_proj_blender_editor\mesh_mat_exporter\oauthtimereportdashboard\oauth_time_report_dashboard_generator.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="oauth2client.client.html">oauth2client.client</a><br>
+<a href="googleapiclient.discovery.html">googleapiclient.discovery</a><br>
+<a href="errno.html">errno</a><br>
+</td><td width="25%" valign=top><a href="httplib2.html">httplib2</a><br>
+<a href="os.html">os</a><br>
+<a href="pickle.html">pickle</a><br>
+</td><td width="25%" valign=top><a href="re.html">re</a><br>
+<a href="sys.html">sys</a><br>
+<a href="time.html">time</a><br>
+</td><td width="25%" valign=top><a href="oauth2client.tools.html">oauth2client.tools</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-find_element_in_list_with_key_in_lists"><strong>find_element_in_list_with_key_in_lists</strong></a>(lists, finding_elem, key)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;help&nbsp;processing&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;into&nbsp;<br>
+Python&nbsp;list&nbsp;format.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::<a href="#-process_google_spreadsheet_time_report_data_into_amchart_data">process_google_spreadsheet_time_report_data_into_amchart_data</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;iterates&nbsp;through&nbsp;the&nbsp;provided&nbsp;list&nbsp;and&nbsp;finds&nbsp;the&nbsp;provided&nbsp;<br>
+element&nbsp;with&nbsp;provided&nbsp;key&nbsp;and&nbsp;return&nbsp;the&nbsp;found&nbsp;element&nbsp;else&nbsp;return&nbsp;None.<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;used&nbsp;to&nbsp;find&nbsp;the&nbsp;same&nbsp;time&nbsp;report&nbsp;data&nbsp;which&nbsp;has&nbsp;the&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;same&nbsp;date&nbsp;so&nbsp;the&nbsp;data&nbsp;won't&nbsp;be&nbsp;duplicated&nbsp;in&nbsp;the&nbsp;data&nbsp;structure.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-find_element_in_list_with_key_in_lists">find_element_in_list_with_key_in_lists</a>([{date:"10/07"},{date:"10/08"},{date:"10/09"}],&nbsp;{date:&nbsp;"10/17"},&nbsp;"date")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;--&gt;&nbsp;Return&nbsp;{date:"10/07"}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-find_element_in_list_with_key_in_lists">find_element_in_list_with_key_in_lists</a>([{date:"10/07"},{date:"10/08"},{date:"10/09"}],&nbsp;{date:&nbsp;"10/17"},"date")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;--&gt;&nbsp;Return&nbsp;None<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;lists:&nbsp;Main&nbsp;data&nbsp;structure&nbsp;to&nbsp;find&nbsp;the&nbsp;element&nbsp;with.<br>
+:type&nbsp;&nbsp;lists:&nbsp;[{},{},{}&nbsp;...&nbsp;]<br>
+:param&nbsp;finding_elem:&nbsp;Element&nbsp;value&nbsp;to&nbsp;find&nbsp;inside&nbsp;the&nbsp;data&nbsp;structure.<br>
+:type&nbsp;&nbsp;finding_elem:&nbsp;{}<br>
+:param&nbsp;key:&nbsp;String&nbsp;key&nbsp;value&nbsp;to&nbsp;find&nbsp;the&nbsp;matching&nbsp;element.<br>
+:type&nbsp;&nbsp;key:&nbsp;String<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;None:&nbsp;If&nbsp;element&nbsp;is&nbsp;not&nbsp;found&nbsp;in&nbsp;the&nbsp;list&nbsp;with&nbsp;provided&nbsp;key.<br>
+:rtype&nbsp;&nbsp;None:&nbsp;None<br>
+:return&nbsp;list_elem:&nbsp;The&nbsp;element&nbsp;found&nbsp;in&nbsp;the&nbsp;list&nbsp;with&nbsp;provided&nbsp;key.<br>
+:rtype&nbsp;&nbsp;list_elem:&nbsp;{}</tt></dd></dl>
+ <dl><dt><a name="-generate_time_report_dashboard_amchart_data_generate_str"><strong>generate_time_report_dashboard_amchart_data_generate_str</strong></a>(python_amchart_data)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Sub&nbsp;function&nbsp;to&nbsp;process&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;into&nbsp;Python&nbsp;list&nbsp;format<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::<a href="#-oauth_time_report_dashboard_generator">oauth_time_report_dashboard_generator</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;is&nbsp;one&nbsp;of&nbsp;the&nbsp;sub&nbsp;functions&nbsp;to&nbsp;help&nbsp;processing&nbsp;the&nbsp;data&nbsp;to&nbsp;generate&nbsp;<br>
+the&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;HTML&nbsp;page&nbsp;which&nbsp;generates&nbsp;the&nbsp;amChart&nbsp;Javasccript&nbsp;<br>
+code&nbsp;string&nbsp;from&nbsp;the&nbsp;Python&nbsp;amChart&nbsp;data&nbsp;passed&nbsp;in&nbsp;as&nbsp;parameter&nbsp;return&nbsp;the&nbsp;<br>
+list&nbsp;of&nbsp;dictionary&nbsp;objects&nbsp;which&nbsp;contains&nbsp;all&nbsp;the&nbsp;time&nbsp;report&nbsp;spreadsheet&nbsp;<br>
+data&nbsp;values&nbsp;organized.<br>
+&nbsp;<br>
+This&nbsp;function&nbsp;generates&nbsp;the&nbsp;funtion&nbsp;body&nbsp;of&nbsp;the&nbsp;Javascript&nbsp;function&nbsp;<br>
+generateChartData()&nbsp;for&nbsp;the&nbsp;main&nbsp;HTML&nbsp;dashboard&nbsp;page,&nbsp;which&nbsp;is&nbsp;called&nbsp;very&nbsp;<br>
+at&nbsp;the&nbsp;top&nbsp;of&nbsp;HTML&nbsp;code&nbsp;to&nbsp;generate&nbsp;the&nbsp;data&nbsp;to&nbsp;be&nbsp;pushed&nbsp;into&nbsp;the&nbsp;amChart,<br>
+then&nbsp;if&nbsp;i&nbsp;use&nbsp;this&nbsp;function&nbsp;i&nbsp;can&nbsp;just&nbsp;simply&nbsp;append&nbsp;the&nbsp;Javascript&nbsp;code&nbsp;to<br>
+the&nbsp;main&nbsp;HTML&nbsp;code&nbsp;to&nbsp;push&nbsp;the&nbsp;data&nbsp;values&nbsp;i&nbsp;retrieved&nbsp;from&nbsp;Google&nbsp;<br>
+Spreadsheet.<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;python_amchart_data:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Python&nbsp;format&nbsp;amChart&nbsp;data&nbsp;list&nbsp;data&nbsp;structure&nbsp;generated&nbsp;using&nbsp;the&nbsp;data<br>
+&nbsp;&nbsp;&nbsp;&nbsp;retrieved&nbsp;from&nbsp;time&nbsp;report&nbsp;Google&nbsp;Spreadsheet.<br>
+:type&nbsp;&nbsp;python_amchart_data:&nbsp;[{},{},{},{}&nbsp;...&nbsp;]&nbsp;<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;javacscript_amchart_push_code_str:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript&nbsp;code&nbsp;generate&nbsp;amChart&nbsp;data&nbsp;code&nbsp;string&nbsp;generated&nbsp;with&nbsp;Python&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;amChart&nbsp;data&nbsp;to&nbsp;be&nbsp;appended&nbsp;to&nbsp;the&nbsp;main&nbsp;HTML&nbsp;code.<br>
+:rtype&nbsp;&nbsp;javacscript_amchart_push_code_str:&nbsp;String</tt></dd></dl>
+ <dl><dt><a name="-generate_time_report_dashboard_html_file_str"><strong>generate_time_report_dashboard_html_file_str</strong></a>(javacscript_amchart_push_code_str)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Sub&nbsp;function&nbsp;to&nbsp;process&nbsp;the&nbsp;final&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;HTML&nbsp;code&nbsp;string<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::<a href="#-oauth_time_report_dashboard_generator">oauth_time_report_dashboard_generator</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;is&nbsp;one&nbsp;of&nbsp;the&nbsp;sub&nbsp;functions&nbsp;which&nbsp;generates&nbsp;and&nbsp;returns&nbsp;the&nbsp;final&nbsp;time&nbsp;<br>
+report&nbsp;HTML&nbsp;code&nbsp;string&nbsp;to&nbsp;be&nbsp;exported.&nbsp;Where&nbsp;the&nbsp;amChart&nbsp;generate&nbsp;data<br>
+Javascript&nbsp;function&nbsp;body&nbsp;code&nbsp;where&nbsp;all&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;is&nbsp;<br>
+pushed&nbsp;into&nbsp;the&nbsp;amChart&nbsp;are&nbsp;already&nbsp;generated&nbsp;by&nbsp;another&nbsp;sub&nbsp;function&nbsp;and&nbsp;<br>
+is&nbsp;passed&nbsp;into&nbsp;this&nbsp;function&nbsp;as&nbsp;paramter,&nbsp;so&nbsp;i&nbsp;can&nbsp;just&nbsp;simply&nbsp;append&nbsp;the&nbsp;<br>
+Javascript&nbsp;code&nbsp;to&nbsp;the&nbsp;proper&nbsp;place.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;javacscript_amchart_push_code_str:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Javascript&nbsp;generateChartData()&nbsp;function&nbsp;body&nbsp;code&nbsp;string&nbsp;where&nbsp;all&nbsp;the<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;values&nbsp;are&nbsp;pushed&nbsp;into&nbsp;the&nbsp;amChart.<br>
+:type&nbsp;&nbsp;python_amchart_data:&nbsp;String<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;time_report_dashboard_html_str:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Final&nbsp;time&nbsp;report&nbsp;HTML&nbsp;page&nbsp;code&nbsp;string&nbsp;combined&nbsp;with&nbsp;the&nbsp;amChart&nbsp;data<br>
+&nbsp;&nbsp;&nbsp;&nbsp;pushing&nbsp;code&nbsp;passed&nbsp;in&nbsp;as&nbsp;parameter.<br>
+:rtype&nbsp;&nbsp;time_report_dashboard_html_str:&nbsp;String</tt></dd></dl>
+ <dl><dt><a name="-get_credentials"><strong>get_credentials</strong></a>(scopes, oauth_client_application_name, oauth_client_secret_json_file)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Gets&nbsp;valid&nbsp;user&nbsp;credentials&nbsp;from&nbsp;storage.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_get_spreadsheet_data::<a href="#-oauth_time_report_dashboard_get_spreadsheet_data">oauth_time_report_dashboard_get_spreadsheet_data</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;authenticates&nbsp;OAuth&nbsp;client&nbsp;with&nbsp;Google&nbsp;to&nbsp;get&nbsp;the&nbsp;access<br>
+to&nbsp;the&nbsp;private&nbsp;Google&nbsp;Spreadsheets.<br>
+&nbsp;<br>
+If&nbsp;nothing&nbsp;has&nbsp;been&nbsp;stored,&nbsp;or&nbsp;if&nbsp;the&nbsp;stored&nbsp;credentials&nbsp;are&nbsp;invalid,<br>
+the&nbsp;OAuth2&nbsp;flow&nbsp;is&nbsp;completed&nbsp;to&nbsp;obtain&nbsp;the&nbsp;new&nbsp;credentials.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from:&nbsp;https://developers.google.com/sheets/api/quickstart/python<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;scopes:&nbsp;Modifying&nbsp;scopes.<br>
+:type&nbsp;&nbsp;scopes:&nbsp;string<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Example:&nbsp;scopes&nbsp;=&nbsp;'https://www.googleapis.com/auth/spreadsheets.readonly'<br>
+:param&nbsp;oauth_client_application_name:&nbsp;OAuth&nbsp;client&nbsp;application&nbsp;name.<br>
+:type&nbsp;&nbsp;oauth_client_application_name:&nbsp;string<br>
+:param&nbsp;oauth_client_secret_json_file:&nbsp;OAuth&nbsp;client&nbsp;secret&nbsp;JSON&nbsp;file&nbsp;path.<br>
+:type&nbsp;&nbsp;oauth_client_secret_json_file:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;credentials:&nbsp;Credentials,&nbsp;the&nbsp;obtained&nbsp;credential.<br>
+:rtype&nbsp;&nbsp;credentials:&nbsp;Credentials</tt></dd></dl>
+ <dl><dt><a name="-load_list_from_file"><strong>load_list_from_file</strong></a>(file_path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;load&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;from&nbsp;the&nbsp;text&nbsp;file&nbsp;with&nbsp;<br>
+byte&nbsp;codes.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;with&nbsp;the&nbsp;file&nbsp;path&nbsp;given&nbsp;and&nbsp;load&nbsp;the&nbsp;list&nbsp;<br>
+data&nbsp;structure&nbsp;read&nbsp;as&nbsp;byte&nbsp;code&nbsp;from&nbsp;the&nbsp;file&nbsp;path&nbsp;provided,&nbsp;the&nbsp;file&nbsp;is<br>
+opened&nbsp;up&nbsp;with&nbsp;"rb"&nbsp;where&nbsp;'b'&nbsp;indicates&nbsp;"byte"&nbsp;and&nbsp;"r"&nbsp;indicates&nbsp;"read".<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;created&nbsp;to&nbsp;merge&nbsp;the&nbsp;multiple&nbsp;list&nbsp;data&nbsp;structure&nbsp;data&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;generating&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;for&nbsp;multiple&nbsp;Google&nbsp;Spreadsheet&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;time&nbsp;reports,&nbsp;so&nbsp;I&nbsp;can&nbsp;merge&nbsp;the&nbsp;data&nbsp;with&nbsp;2&nbsp;different&nbsp;execution&nbsp;call.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;file_path:&nbsp;File&nbsp;path&nbsp;to&nbsp;load&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;byte&nbsp;codes&nbsp;from.<br>
+:type&nbsp;&nbsp;file_path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-mkdir_p"><strong>mkdir_p</strong></a>(path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Sub&nbsp;function&nbsp;to&nbsp;create&nbsp;the&nbsp;directory&nbsp;if&nbsp;given&nbsp;file&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_util::<a href="#-safe_open_w">safe_open_w</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;a&nbsp;file&nbsp;with&nbsp;provided&nbsp;file&nbsp;path,&nbsp;but&nbsp;if&nbsp;the&nbsp;directory<br>
+containing&nbsp;current&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;i&nbsp;create&nbsp;the&nbsp;directory&nbsp;and&nbsp;then&nbsp;<br>
+opens&nbsp;up&nbsp;the&nbsp;file.<br>
+&nbsp;<br>
+In&nbsp;this&nbsp;way,&nbsp;I&nbsp;can&nbsp;safely&nbsp;open&nbsp;up&nbsp;any&nbsp;file&nbsp;path&nbsp;given&nbsp;even&nbsp;though&nbsp;the&nbsp;<br>
+directory&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from&nbsp;https://stackoverflow.com/a/600612/119527<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;path:&nbsp;File&nbsp;path&nbsp;to&nbsp;open&nbsp;with.<br>
+:type&nbsp;&nbsp;path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-oauth_time_report_dashboard_generator"><strong>oauth_time_report_dashboard_generator</strong></a>(google_spreadsheet_url, scopes, oauth_client_application_name, oauth_client_secret_json_file, feed_name, feed_range, time_report_dashboard_html_file_path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;is&nbsp;to&nbsp;generate&nbsp;the&nbsp;Python&nbsp;amChart&nbsp;data&nbsp;list&nbsp;data&nbsp;structure&nbsp;to&nbsp;<br>
+hold&nbsp;all&nbsp;the&nbsp;information&nbsp;retrieved&nbsp;from&nbsp;time&nbsp;report&nbsp;Google&nbsp;Spreadsheet&nbsp;to&nbsp;<br>
+organize&nbsp;the&nbsp;data&nbsp;in&nbsp;a&nbsp;trivial&nbsp;way.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;spreadsheetData:<br>
+:type&nbsp;spreadsheetData:<br>
+&nbsp;<br>
+IMPORTANT:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;is&nbsp;the&nbsp;main&nbsp;algorithm&nbsp;where&nbsp;i&nbsp;calculate&nbsp;the&nbsp;time&nbsp;report&nbsp;data&nbsp;for&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;daily&nbsp;format,&nbsp;means&nbsp;that&nbsp;automatically&nbsp;sums&nbsp;up&nbsp;the&nbsp;values&nbsp;from&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;multiple&nbsp;rows&nbsp;of&nbsp;time&nbsp;reports&nbsp;in&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;or&nbsp;even&nbsp;multiple&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Google&nbsp;Spreadsheet&nbsp;time&nbsp;reports.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Algorithm:<br>
+------------------------------------------------------------------------<br>
+1.&nbsp;Load&nbsp;byte&nbsp;code&nbsp;lists&nbsp;from&nbsp;file,&nbsp;if&nbsp;exists:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Process&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;<br>
+2.&nbsp;Find&nbsp;the&nbsp;element&nbsp;in&nbsp;the&nbsp;existing&nbsp;list&nbsp;with&nbsp;key:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;If&nbsp;found&nbsp;then&nbsp;add&nbsp;the&nbsp;data&nbsp;(work&nbsp;time,&nbsp;duration,&nbsp;efficiency)&nbsp;to&nbsp;the&nbsp;existing&nbsp;element&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;If&nbsp;not&nbsp;found&nbsp;then&nbsp;add&nbsp;the&nbsp;new&nbsp;element&nbsp;to&nbsp;the&nbsp;existing&nbsp;list.<br>
+3.&nbsp;If&nbsp;the&nbsp;byte&nbsp;code&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;proceed&nbsp;to&nbsp;make&nbsp;one<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Process&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Set&nbsp;list&nbsp;data&nbsp;contains&nbsp;the&nbsp;time&nbsp;report&nbsp;informations&nbsp;&nbsp;(work&nbsp;time,&nbsp;duration,&nbsp;efficiency)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Append&nbsp;to&nbsp;empty&nbsp;list<br>
+4.&nbsp;Save&nbsp;byte&nbsp;code&nbsp;lists&nbsp;to&nbsp;file<br>
+5.&nbsp;Go&nbsp;back&nbsp;to&nbsp;step&nbsp;1&nbsp;for&nbsp;merging&nbsp;second&nbsp;spreadsheet&nbsp;data&nbsp;into&nbsp;one&nbsp;dashboard.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;python_amchart_data_arr:&nbsp;Python&nbsp;amChart&nbsp;data&nbsp;main&nbsp;data&nbsp;structure&nbsp;list<br>
+:rtype&nbsp;&nbsp;python_amchart_data_arr:&nbsp;[{},{},{}&nbsp;...]</tt></dd></dl>
+ <dl><dt><a name="-oauth_time_report_dashboard_get_spreadsheet_data"><strong>oauth_time_report_dashboard_get_spreadsheet_data</strong></a>(google_spreadsheet_url, scopes, oauth_client_application_name, oauth_client_secret_json_file, feed_name, feed_range)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Gets&nbsp;valid&nbsp;user&nbsp;credentials&nbsp;from&nbsp;storage.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator_generator::oauth_time_report_dashboard_generator_generator()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;authenticates&nbsp;OAuth&nbsp;client&nbsp;with&nbsp;Google&nbsp;to&nbsp;get&nbsp;the&nbsp;access<br>
+to&nbsp;the&nbsp;private&nbsp;Google&nbsp;Spreadsheets&nbsp;and&nbsp;retrieved&nbsp;the&nbsp;data&nbsp;from&nbsp;the&nbsp;Google<br>
+Spreadsheet&nbsp;and&nbsp;organize&nbsp;them&nbsp;into&nbsp;list&nbsp;data&nbsp;structure&nbsp;for&nbsp;further&nbsp;<br>
+processsing.<br>
+&nbsp;<br>
+Creates&nbsp;a&nbsp;Sheets&nbsp;API&nbsp;service&nbsp;object&nbsp;and&nbsp;return&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;<br>
+containing&nbsp;all&nbsp;the&nbsp;data&nbsp;values&nbsp;stored&nbsp;in&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;being&nbsp;<br>
+accessed.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from:&nbsp;https://developers.google.com/sheets/api/quickstart/python<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;google_spreadsheet_url:&nbsp;Googel&nbsp;Spreadsheet&nbsp;URL&nbsp;to&nbsp;retrieve&nbsp;the&nbsp;data&nbsp;from.<br>
+:type&nbsp;&nbsp;google_spreadsheet_url:&nbsp;string<br>
+:param&nbsp;scopes:&nbsp;Modifying&nbsp;scopes.<br>
+:type&nbsp;&nbsp;scopes:&nbsp;string<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Example:&nbsp;scopes&nbsp;=&nbsp;'https://www.googleapis.com/auth/spreadsheets.readonly'<br>
+:param&nbsp;oauth_client_application_name:&nbsp;OAuth&nbsp;client&nbsp;application&nbsp;name.<br>
+:type&nbsp;&nbsp;oauth_client_application_name:&nbsp;string<br>
+:param&nbsp;oauth_client_secret_json_file:&nbsp;OAuth&nbsp;client&nbsp;secret&nbsp;JSON&nbsp;file&nbsp;path.<br>
+:type&nbsp;&nbsp;oauth_client_secret_json_file:&nbsp;string<br>
+:param&nbsp;feed_name:&nbsp;Name&nbsp;of&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;feed&nbsp;to&nbsp;retrieved&nbsp;data&nbsp;from.<br>
+:type&nbsp;&nbsp;feed_name:&nbsp;string<br>
+:param&nbsp;feed_range:&nbsp;Range&nbsp;of&nbsp;the&nbsp;feed&nbsp;data&nbsp;cells&nbsp;to&nbsp;retrieve&nbsp;with.<br>
+:type&nbsp;&nbsp;feed_range:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;spreadsheetData:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containg&nbsp;all&nbsp;the&nbsp;data&nbsp;retrieved&nbsp;from&nbsp;provided&nbsp;Google&nbsp;Spreadsheet&nbsp;URL&nbsp;and&nbsp;provided&nbsp;feed&nbsp;name&nbsp;with&nbsp;provided&nbsp;feed&nbsp;range.<br>
+:rtype&nbsp;&nbsp;spreadsheetData:&nbsp;[]</tt></dd></dl>
+ <dl><dt><a name="-process_google_spreadsheet_time_report_data_into_amchart_data"><strong>process_google_spreadsheet_time_report_data_into_amchart_data</strong></a>(spreadsheetData, time_report_dashboard_html_file_path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Sub&nbsp;function&nbsp;to&nbsp;process&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;into&nbsp;Python&nbsp;amChart&nbsp;<br>
+data&nbsp;format&nbsp;which&nbsp;is&nbsp;the&nbsp;list&nbsp;of&nbsp;dictionary&nbsp;objects.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::<a href="#-oauth_time_report_dashboard_generator">oauth_time_report_dashboard_generator</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;is&nbsp;to&nbsp;generate&nbsp;the&nbsp;Python&nbsp;amChart&nbsp;data&nbsp;list&nbsp;data&nbsp;structure&nbsp;to&nbsp;<br>
+hold&nbsp;all&nbsp;the&nbsp;information&nbsp;retrieved&nbsp;from&nbsp;time&nbsp;report&nbsp;Google&nbsp;Spreadsheet&nbsp;to&nbsp;<br>
+organize&nbsp;the&nbsp;data&nbsp;in&nbsp;a&nbsp;trivial&nbsp;way.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;spreadsheetData:<br>
+:type&nbsp;spreadsheetData:<br>
+&nbsp;<br>
+IMPORTANT:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;is&nbsp;the&nbsp;main&nbsp;algorithm&nbsp;where&nbsp;i&nbsp;calculate&nbsp;the&nbsp;time&nbsp;report&nbsp;data&nbsp;for&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;daily&nbsp;format,&nbsp;means&nbsp;that&nbsp;automatically&nbsp;sums&nbsp;up&nbsp;the&nbsp;values&nbsp;from&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;multiple&nbsp;rows&nbsp;of&nbsp;time&nbsp;reports&nbsp;in&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;or&nbsp;even&nbsp;multiple&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Google&nbsp;Spreadsheet&nbsp;time&nbsp;reports.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Algorithm:<br>
+------------------------------------------------------------------------<br>
+1.&nbsp;Load&nbsp;byte&nbsp;code&nbsp;lists&nbsp;from&nbsp;file,&nbsp;if&nbsp;exists:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Process&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;<br>
+2.&nbsp;Find&nbsp;the&nbsp;element&nbsp;in&nbsp;the&nbsp;existing&nbsp;list&nbsp;with&nbsp;key:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;If&nbsp;found&nbsp;then&nbsp;add&nbsp;the&nbsp;data&nbsp;(work&nbsp;time,&nbsp;duration,&nbsp;efficiency)&nbsp;to&nbsp;the&nbsp;existing&nbsp;element&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;If&nbsp;not&nbsp;found&nbsp;then&nbsp;add&nbsp;the&nbsp;new&nbsp;element&nbsp;to&nbsp;the&nbsp;existing&nbsp;list.<br>
+3.&nbsp;If&nbsp;the&nbsp;byte&nbsp;code&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;proceed&nbsp;to&nbsp;make&nbsp;one<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Process&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Set&nbsp;list&nbsp;data&nbsp;contains&nbsp;the&nbsp;time&nbsp;report&nbsp;informations&nbsp;&nbsp;(work&nbsp;time,&nbsp;duration,&nbsp;efficiency)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Append&nbsp;to&nbsp;empty&nbsp;list<br>
+4.&nbsp;Save&nbsp;byte&nbsp;code&nbsp;lists&nbsp;to&nbsp;file<br>
+5.&nbsp;Go&nbsp;back&nbsp;to&nbsp;step&nbsp;1&nbsp;for&nbsp;merging&nbsp;second&nbsp;spreadsheet&nbsp;data&nbsp;into&nbsp;one&nbsp;dashboard.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;python_amchart_data_arr:&nbsp;Python&nbsp;amChart&nbsp;data&nbsp;main&nbsp;data&nbsp;structure&nbsp;list<br>
+:rtype&nbsp;&nbsp;python_amchart_data_arr:&nbsp;[{},{},{}&nbsp;...]</tt></dd></dl>
+ <dl><dt><a name="-safe_open_w"><strong>safe_open_w</strong></a>(path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;create&nbsp;the&nbsp;directory&nbsp;if&nbsp;given&nbsp;file&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;a&nbsp;file&nbsp;with&nbsp;provided&nbsp;file&nbsp;path,&nbsp;but&nbsp;if&nbsp;the&nbsp;directory<br>
+containing&nbsp;current&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;i&nbsp;create&nbsp;the&nbsp;directory&nbsp;and&nbsp;then&nbsp;<br>
+opens&nbsp;up&nbsp;the&nbsp;file.<br>
+&nbsp;<br>
+In&nbsp;this&nbsp;way,&nbsp;I&nbsp;can&nbsp;safely&nbsp;open&nbsp;up&nbsp;any&nbsp;file&nbsp;path&nbsp;given&nbsp;even&nbsp;though&nbsp;the&nbsp;<br>
+directory&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from&nbsp;https://stackoverflow.com/a/600612/119527<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;path:&nbsp;File&nbsp;path&nbsp;to&nbsp;open&nbsp;with.<br>
+:type&nbsp;&nbsp;path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-save_list_to_file"><strong>save_list_to_file</strong></a>(file_path, saving_list)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;save&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;into&nbsp;text&nbsp;file&nbsp;with&nbsp;<br>
+byte&nbsp;codes.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;with&nbsp;the&nbsp;file&nbsp;path&nbsp;given&nbsp;and&nbsp;write&nbsp;the&nbsp;provided&nbsp;list&nbsp;<br>
+data&nbsp;structure&nbsp;into&nbsp;the&nbsp;file&nbsp;as&nbsp;byte&nbsp;code&nbsp;opened&nbsp;up&nbsp;with&nbsp;"wb"&nbsp;where&nbsp;'b'&nbsp;<br>
+indicates&nbsp;"byte"&nbsp;and&nbsp;"w"&nbsp;indicates&nbsp;"write".<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;created&nbsp;to&nbsp;merge&nbsp;the&nbsp;multiple&nbsp;list&nbsp;data&nbsp;structure&nbsp;data&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;generating&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;for&nbsp;multiple&nbsp;Google&nbsp;Spreadsheet&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;time&nbsp;reports,&nbsp;so&nbsp;i&nbsp;can&nbsp;merge&nbsp;the&nbsp;data&nbsp;with&nbsp;2&nbsp;different&nbsp;execution&nbsp;call.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;file_path:&nbsp;File&nbsp;path&nbsp;to&nbsp;export&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;into&nbsp;byte&nbsp;codes.<br>
+:type&nbsp;&nbsp;file_path:&nbsp;string<br>
+:param&nbsp;saving_list:&nbsp;List&nbsp;data&nbsp;structure&nbsp;to&nbsp;save&nbsp;as&nbsp;byte&nbsp;code&nbsp;into&nbsp;a&nbsp;text&nbsp;file.<br>
+:type&nbsp;&nbsp;saving_list:&nbsp;[]</tt></dd></dl>
+ <dl><dt><a name="-validate_date_string_format"><strong>validate_date_string_format</strong></a>(date_text)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;help&nbsp;validating&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;cell&nbsp;string&nbsp;is<br>
+matching&nbsp;date&nbsp;value&nbsp;format&nbsp;"0000/00/00"<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::<a href="#-process_google_spreadsheet_time_report_data_into_amchart_data">process_google_spreadsheet_time_report_data_into_amchart_data</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;checks&nbsp;whether&nbsp;the&nbsp;string&nbsp;value&nbsp;passed&nbsp;in&nbsp;as&nbsp;parameter&nbsp;is&nbsp;<br>
+matching&nbsp;date&nbsp;value&nbsp;format&nbsp;"0000/00/00"<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017/10/11")&nbsp;--&gt;&nbsp;Return&nbsp;True<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017/10-11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017-10-11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017.10.11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;date_text:&nbsp;String&nbsp;value&nbsp;to&nbsp;test&nbsp;the&nbsp;format&nbsp;with.<br>
+:type&nbsp;&nbsp;date_text:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return:&nbsp;True&nbsp;if&nbsp;string&nbsp;matches&nbsp;the&nbsp;date&nbsp;format&nbsp;"0000/00/00".<br>
+:return:&nbsp;False&nbsp;if&nbsp;string&nbsp;does&nbsp;not&nbsp;matches&nbsp;the&nbsp;date&nbsp;format&nbsp;"0000/00/00".</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>__warningregistry__</strong> = {'version': 0, ("unclosed file &lt;_io.TextIOWrapper name='oauth_tim...rt_dashboard_util.py' mode='r' encoding='cp1252'&gt;", &lt;class 'ResourceWarning'&gt;, 10): True, ("unclosed file &lt;_io.TextIOWrapper name='oauth_tim..._spreadsheet_data.py' mode='r' encoding='cp1252'&gt;", &lt;class 'ResourceWarning'&gt;, 13): True}<br>
+<strong>filename</strong> = 'oauth_time_report_dashboard_get_spreadsheet_data.py'<br>
+<strong>print_function</strong> = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), 65536)</td></tr></table>
+</body></html>

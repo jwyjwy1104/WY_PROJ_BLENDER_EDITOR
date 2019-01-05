@@ -1,0 +1,231 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.185s
+
+OK
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0001.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0001
+
+abc : 1
+
+abn : TestAnimationBoneName0001
+
+abh (1.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (1.0, 0.0, 0.0)
+
+rotq (1.0, 1.0, 0.0, 0.0)
+
+sca (1.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0002.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0002
+
+abc : 1
+
+abn : TestAnimationBoneName0002
+
+abh (2.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (2.0, 0.0, 0.0)
+
+rotq (2.0, 2.0, 0.0, 0.0)
+
+sca (2.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0003.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0003
+
+abc : 1
+
+abn : TestAnimationBoneName0003
+
+abh (3.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (3.0, 0.0, 0.0)
+
+rotq (3.0, 3.0, 0.0, 0.0)
+
+sca (3.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0004.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0004
+
+abc : 1
+
+abn : TestAnimationBoneName0004
+
+abh (4.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (4.0, 0.0, 0.0)
+
+rotq (4.0, 4.0, 0.0, 0.0)
+
+sca (4.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0005.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0005
+
+abc : 1
+
+abn : TestAnimationBoneName0005
+
+abh (5.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (5.0, 0.0, 0.0)
+
+rotq (5.0, 5.0, 0.0, 0.0)
+
+sca (5.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0006.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0006
+
+abc : 1
+
+abn : TestAnimationBoneName0006
+
+abh (6.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (6.0, 0.0, 0.0)
+
+rotq (6.0, 6.0, 0.0, 0.0)
+
+sca (6.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0007.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0007
+
+abc : 1
+
+abn : TestAnimationBoneName0007
+
+abh (7.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (7.0, 0.0, 0.0)
+
+rotq (7.0, 7.0, 0.0, 0.0)
+
+sca (7.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0008.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0008
+
+abc : 1
+
+abn : TestAnimationBoneName0008
+
+abh (8.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (8.0, 0.0, 0.0)
+
+rotq (8.0, 8.0, 0.0, 0.0)
+
+sca (8.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0009.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0009
+
+abc : 1
+
+abn : TestAnimationBoneName0009
+
+abh (9.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (9.0, 0.0, 0.0)
+
+rotq (9.0, 9.0, 0.0, 0.0)
+
+sca (9.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_wyanimation\TestFile0010.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0010
+
+abc : 1
+
+abn : TestAnimationBoneName0010
+
+abh (10.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (10.0, 0.0, 0.0)
+
+rotq (10.0, 10.0, 0.0, 0.0)
+
+sca (10.0, 0.0, 0.0)
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

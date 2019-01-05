@@ -1,0 +1,190 @@
+all:
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial __init__ function                      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1b4wf7Bpjh4j4RmA0YPii7QcmcjmF3vzUKUee6sDGyYQ/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial __init__ function                      ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial __eq__ function                        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/13doaZ2b6QitiIUgBu4eHXeUWwCVNGxitJNbx_Og_tLs/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial __eq__ function                        ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial __str__ function                       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1-c_8Lh4sFkJCpFEiuPo8rexv9vkrjwG3PN7_ICxmVCs/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial __str__ function                       ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_data function            ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1bQrfijaN0pUaUe3CO7AQme0F4AJyvB5CtT1fmBlwqCc/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_data function            ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_wymaterial_elements function      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Vy9YW79FP3NzQ63EeunDDJT_HNCzHGzWsdD-qkUCams/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_wymaterial_elements function      ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_name function            ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1pWbdlMtAEYohM5HQLUOKH221ZR-sT-zVxdplD1VMK7Q/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_name function            ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_ambient function         ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1qCyL8rPgETZDqWEEqpGCdGHYmlGc6LQx80mfi9-Fmm4/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_ambient function         ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_diffuse function         ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Vr5-_gb1_xoC34JWm8QTC-WA4l0Vk4sRxMOTfY2-LKo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_diffuse function         ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_specular function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1ldWQnD665ScmMam1RHXJcyLnEXibd1zuNpw3Yl1x5Vk/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_specular function        ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_emissive function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Vp2UGkT8i6fh60-6zsNG40vYC2mMKSI4sT6jbqOvfB4/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_emissive function        ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_alpha function           ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1699mLoMJONU7O5vEIn4xZ_CK43IbPskiIKe5C5s4bmM/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_alpha function           ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_refraction function      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1eI78VGIWRM0ErYjhKSXrIzrOpKGCvlDDhfic-Tn78X8/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_refraction function      ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial init_material_texture function         ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/19rEKC7Mcvm5ctldWl7M5yx8uZNnqsYcK6TlWBc4U_B4/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial init_material_texture function         ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_maerialt_name_str function         ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1zY_AuLBpdqHf9ur4C0EhxJGgNPoxa3rn34OZA2HrX9c/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_maerialt_name_str function         ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_material_ambient_str function      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1cO0EpPBcJFwJpBtGdF__dHmQBkXNM4HNWXbw0A1eBwo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_material_ambient_str function      ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_material_specular_str function     ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/11p0t1IfWH2F5DMSXc5ngnLX3GM-lBjAo6bEaXHIAOmY/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_material_specular_str function     ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_material_diffuse_str function      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1L6sWg9uRNYPVXU_pB9x3rw6ANBtiHEZYwHuRye9XoX0/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_material_diffuse_str function      ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_material_emissive_str function     ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1gCR81w3mobxnGNHDKsA18EYe_sS4QHrP2JFF8uTwOcM/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_material_emissive_str function     ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_material_alpha_str function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1jUQtw2HH7THxro7hvP_LNE1wed283qofpzFLKOwkXQQ/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_material_alpha_str function        ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_material_refraction_str function   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1uOEhITpvVhV5of0FEqoMOOVXVcIGGYiPbezR1frui_E/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_material_refraction_str function   ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMaterial get_material_texture_str function      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1PlyAbGJOqGUaIyfb-fOdjfqu_FYohpwU6KbJ294Np00/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMaterialTestCaseResults.txt
+	@echo [ WYMaterial get_material_texture_str function      ] >> data_generated_WYMaterial.txt
+	if exist data_terminated.txt (exit 1)
+	

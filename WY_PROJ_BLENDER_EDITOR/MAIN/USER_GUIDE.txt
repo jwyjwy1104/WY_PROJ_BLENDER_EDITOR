@@ -1,0 +1,53 @@
+================================================================================
+                                   USER GUIDE
+================================================================================
+Project name: 
+	- mesh_mat_exporter.
+
+Objectives:
+	- Export Blender mesh object along with material object using my custom Python scripts.
+
+Staff:
+	- Lead programmer   : Samil Chai.
+	- Junior programmer : Nick Jang.
+	
+	- Copy right to Samil Chai.
+
+Start date: 2017-09-20
+End date  :
+
+Environment:
+	- Blender version: 2.78 (sub 0), branch: master, commit date: 2017-02-24.
+	- Microsoft Windows 10 Boot Camp with Macbook:
+		- MacBook Pro 12,1 (Retina, 13-inch, Early 2015):
+			- System type 	: 64-bit operating system, x64-based processor.
+			- Processor 	: Intel(R) Core(TM) i5-5287U CPU @ 2.90GHz 2.90.
+			- Installed RAM : 8.00 GB.
+			- Graphics card : Intel(R0 Iris(TM) Graphics 6100.
+		- Boot Camp assistant version:
+			- Version:		Boot Camp Assistant 6.1.0, Copyright © 2016 Apple Inc. All rights reserved.
+			- Created: 		Friday, July 15, 2016 at 11:04 PM.
+			- Capacity: 		250GB.
+	- Bootcamp Microsoft Windows 10 64 bits Home.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+				User guide
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(0) How to generate Pydoc HTML pages for all the .py files inside a 
+    given folder:
+	(A) Double click pydoc_iterator.bat
+	(B) Input or browse the folder path to iterate with to generate 
+	    the Pydoc HTML web pages.
+	(C) Double check the result of the generation through 
+	    pydoc_iterator_result.txt.
+
+
+
+
+
+
+
+
+
+
+

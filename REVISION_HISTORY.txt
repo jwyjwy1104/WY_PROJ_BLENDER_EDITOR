@@ -1,0 +1,314 @@
+================================================================================  
+                                 REVISION HISTORY
+================================================================================
+Project name: 
+    - WY_PROJ_BLENDER_EDITOR.
+    - Project was originally brought from 
+      [ BlenderExporterImporterProj_ver0055 ].
+
+Project directory:
+	- C:\Users\Nickj\Desktop\Season2\20170913_[Blender3DPythonTestcase]
+	- C:\Users\Nickj\Desktop\Season2\20171204_[TestFrameworkServer]
+--------------------------------------------------------------------------------
+C:\Users\Nickj\Desktop\Season2\20170913_[Blender3DPythonTestcase]
+--------------------------------------------------------------------------------
+[ WY_PROJ_BLENDER_EDITOR ]
+
+201709160020	ver0001		
+	Refactoring mesh and material exporter into classes. 
+	WyModel, WYMesh and WyMaterial classes created.
+201709162010	ver0002		
+	WYMesh needed export coordinate system conversion code so created 
+	WyCoordsys to hold the boolean values and start refactoring the 
+	conversion function, reducing if statements.
+201709162050	ver0003		
+	WYMesh compiled, implementing WYMaterial class compiled.
+201709162100	ver0004		
+	WYMesh and WyMaterial tostring function working. WYModel 
+	ready to export to files.
+201709162120	ver0005		
+	WYFileManager created to manage the writing to files operations. 
+	Relative path to current project folder is implemented. 
+	Need to set the relative material file path onto WYMesh object.
+201709162300	ver0006		
+
+201709172315	ver0007		
+	WYCoordsys class test cases started, __init__ and __str__ 
+	test cases implemented with test plan.
+201709190020	ver0008		
+	WYCoordsys class testing export_xu_yf function, 
+	boundary case subtracting float with integer not working properly.
+201709191720	ver0009		
+	WYCoordsys class boundary case problem unsolved going onto 
+	WYMesh class.
+201709200030	ver0010		
+	WYMesh test cases started, test plan rotation WXYZ not implemented. 
+	Test case generator trial done.
+201709201740	ver0011		
+	Solving WYCoordsys boundary cases problem subtracting 
+	sys.maxsize with integer value now working.
+
+201709221940	ver0012		
+	Savepoint before combining with WY_PROJ_DIRECTX_12_WIN32 
+	in one project folder
+
+201710042230	ver0013		
+	Test case generator complete in folder 
+	"mesh_mat_exporter\OAuthTestGenerator" can now generate and execute 
+	the test case using test case data from Google Spreadsheet and 
+	print the result output to the local text file and also generate the 
+	Pydoc API document before executing the unit test cases complete.
+201710050100	ver0014		
+	Organizing local documents, readme, user guide and revision history files.
+201710052030	ver0015		
+	WYCoordsys::__init__, WYCoordsys::__str__ and WYCoordsys::export_xu_yf
+	function tested with my custom OAuth test case generator tool.
+201710051430
+201710060230 	ver0016 	
+	OAuth test case generator tool finished, WYCoordsys unit test cases 
+	generated and executed with the OAuth test case generator tool.
+201710061630	ver0017		
+	Local documents organized + Savepoint before Sam.
+201710062250	ver0018		
+	Savepoint with Sam.
+201710121940	ver0019		
+	OAuth time report dashboard generator sub project savepoint.
+201710131700	ver0020		
+	OAuth time report dashbaord and test case generator errors fixed improved.
+201710140050	ver0021		
+	Local documents adjusted to 80 characters per line except revision history.
+201710162300	ver0022		
+	Savepoint before adding install.bat file.
+201710170130	ver0023		
+	Install.bat file importing Blender as Python module done.
+201710171900	ver0024		
+	Install.bat file download and generating Blender as a standard Python 
+	module imported but "cycles" module missing error occured, fixed by 
+	downloading lib/win64_14/zlib folder independently.
+201710172210	ver0025
+	Install.bat file download zlib folder first separately to fix the error.
+201710180000	ver0026
+	Install.bat file more features added, checking Python, CMake installed 
+	if not then alert the user with messges, EXTRA folder added to keep the 
+	extra installation file.
+201710181730 	ver0027
+	Install.bat file SVN and Git installation checking code added.
+2017101817800	ver0028
+	Install.bat file check Python, SVN, Git, CMake missing, so when the 
+	program is missing then ask user to decide whether to install the 
+	missing program to set up project environment with the installation file
+	inside EXTRA folder, if not then terminate because cannot proceed 
+	without these programs installed in the system.
+201710191830	ver0029
+	Install.bat Visual Studio 2017 installation checking code added.
+201710182145	ver0030
+	Install.bat wrong Python installation file, need 64 bits Python in 
+	order to proceed with installations.
+201710182330	ver0031
+	Install.bat error fixed savepoint.
+201710192000	ver0032
+	Install.bat separating to multiple sub install.bat file to organize.
+201710192130	ver0033
+	install_win10_x64.bat created to separate the platform compatible 
+	install.bat files, since currently created install.bat is compatible 
+	for Windows 10 64 bits only.
+201710192300	ver0034
+	Setup.bat created to separate the installation processes and 
+	Blender import main project setup process. This is because the system
+	doesn't recognize the installation if external program is installed 
+	during the main install.bat, so i had to run install.bat twice to 
+	install them properly even though the environment PATH is refreshed 
+	in the batch file.
+201710221830	ver0035
+	Install_win10_x64.bat complete, the PATH refresh code working, it 
+	didn't work before because of small syntax error. Now install work in 
+	single batch file double click.
+201710221950	ver0036
+	Savepoint before separating "src" and "test" folder to start testing
+	WYMesh class, but the unit test case cannot find the WYMesh class
+	import relative path files, so i needed to move the test cases which 
+	has the same relative path to the importing files.
+201710231710	ver0037
+	OAuth test case generator added "full code" feature, so if i have this
+	"full code" section implemented then the generator generates the test 
+	cases with the "full code" section only and other cell values are used
+	for the Pydoc documenatations.
+201710261600	ver0038	
+	WYMesh class testing almost done, texture coordinate testing left.
+	
+201710262230	ver0039
+	Main project setup.exe with ALZip self extractor executing the main 
+	install_win10_x64.bat file when extracted done.
+201710270130	ver0040
+	Setup.exe self extractor with ALZip work on Bootcamp Windows, but 
+	crashes when executed in my SONY laptop in refresh environment PATH 
+	code.
+201710271700	ver0041
+	Savepoint before solving install batch file environment PATH 
+	refresh crashing problem with Sam.
+201710302240	ver0042
+	New install batch file environment PATH refresh code to solve the 
+	crashing problem when executed in SONY laptop. Now the install.bat	
+	works properly on SONY laptop.
+
+201710311740	ver0043
+	Install batch file need to add MinGW path after installation
+	manually, so install batch need the admin priviledge to add 
+	MinGW/bin folder to environment variable directly with SETX command
+	, to do this I needed to create a shortcut to the install batch 
+	file and change the shortcut file property to start in admin mode.
+	But if the shortcut file executed with admin mode, the directory
+	changes automatically to C:/Windows/System32, so I needed to 
+	change the shortcut property target value into a simple change
+	directory command to open in current working directory even if
+	executed in admin mode. Detail explained in EXTRA/GUIDE_INSTALL.txt
+201711020010	ver0044
+	Created local project document in project folder but found that 
+	I cannot show the project progress in a nice way with text editor.
+	So I stopped implementing PROJECT_DOCUMENT.txt and started 
+	implementing a PROJECT_TRACKER in Google Docs.
+201711031800	ver0045
+	Save-point before Sam.
+201711061450	ver0046
+	Run batch file in admin mode error fixed, no more shortcut needed
+	used "runas" command to solved the problem but user need to input 
+	the admin password for the priviledge.
+201711090000	ver0047
+	WYMaterial testing done.
+201711100050	ver0048
+	WYMain, WYModel, WYModelManager, implemented to test them I needed
+	__eq__ function for all the classes WYModel, WYMesh, WYMaterial, 
+	WYCoordsys, WYUtil to compare them. __eq__ function implemented and 
+	tested.
+201711101500	ver0049
+	Save-point before Sam.
+201711152130	ver0050
+	Export mesh and material fully tested working. Started implemented 
+	import.
+201711160230	ver0051
+	Tkinter GUI automation started, creating and saving Blender file 
+	on current working directory with just providing file name 
+	tkinter app done.
+201711162130	ver0052
+	Tkinter GUI automation exporting models from provided Blender file
+	app implmented done.
+
+201711200230	ver0053
+	Tkinter GUI atutomation importing and exporting feature working.
+201711202000	ver0054
+	Save-point before testing import features.
+201711231400	ver0055
+	Save-point before Sam. Import feature tested done. GUI import 
+	export models from Blender file done.
+201711270000	ver0056
+	Install batch file check Blender bpy module exist inside Python 
+	root directory using the XML config file so the installation
+	won't be repeated when already exist.
+	Run test batch file alert user when test cases are generated 
+	and finisihed testing, also let the user decide whether to open
+	up the file explorer to show the unit test case results and
+	test cases.
+201711271800	ver0057
+	More automation on batch files, install.bat now skips the Blender
+	setup process if the files are properly imported, and run_test.bat
+	now alerts the user when done to let the user decide whether to 
+	view the unit test cases results through file explorer.
+
+201711280050	ver0058
+	OAuthTestGenerator data_config_generate_make.bat batch file 
+	created to use data.config XML file to generate the makefile 
+	for each classes data indicated in the XML file. So the user
+	is easy to implement the unit test cases.
+
+
+201711290300	ver0059
+	OAuthTestGenerator makefile Tkinter progress bar executed in
+	parallel cannot terminate the parallel makefile job when 
+	progress bar is terminated.
+
+201711301700	ver0060
+	Save-point before Sam.
+
+--------------------------------------------------------------------------------
+C:\Users\Nickj\Desktop\Season2\20171204_[TestFrameworkServer]
+--------------------------------------------------------------------------------
+
+201712141700	ver0061
+	WYArmatureBone started implementing.
+
+201712200000	ver0062
+	WYArmatureBone implement done. Progress bar terminates 
+	the parallel makefile process when progress bar is 
+	terminated by user. Now run_test.bat also checks the Blender 
+	module is properly imported to Python root directory because
+	there were problem that the test is ran even though 
+	bpy.pyd doesn't exist.
+
+201712200000 	ver0063
+	Coding convention matching for each classes WYMesh, 
+	WYMaterial, WYArmature and WYArmatureBone.
+	Added new functions on WYMesh and WYMaterial to match to coding 
+	conventions, need testing.
+	WYArmature and WYArmatureBone implementation done need testing.
+	FuncDefRetriever tool created to view the function definition 
+	for each class files to view the difference between code 
+	conventions.
+
+201712282030	ver0064 
+	Provide user input to let the user decide whether to fresh 
+	download blender-git folder or decompress from ZIP file inside
+	EXTRA folder instead to save the time to download the files.
+
+201712290030	ver0065 
+	Project uninstall_win10_x64.bat tested. SlikSVN and Python can 
+	be uninstalled through its installer exe, but others i needed to
+	delete the root directory manually, so the environment variable 
+	are the problem but decided to ignore them because it will take
+	too long to handle them.
+
+201801022040	ver0065
+	WYArmature + WYArmatueBone implement done, not tested.
+	WYArmature import export through WYModelManager working 
+	without any mesh mapped onto them, tested through
+	WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\
+	src\main\WYMain\test.blend
+
+201801022040	ver0066
+	Implementing WYArmature import in WYModelManager by hands 
+	working, not tested.
+
+201801081900	ver0067
+	Implementing WYArmature export in WYModelManager by hands 
+	working, not tested.
+	OAuthTestCaseGenerator main.bat has changed 
+	OAuthTestCaseGenerator user interface implemented to let the 
+	user choose the classes indicated inside data.config to test 
+	with. Progress bar now calculates the size properly also can
+	now load prorgess bar for each class operation not reading
+	data.config directly.
+	OAuthTestCaseGenerator each class operation is implemented 
+	by passing the class name as command line arguments, 
+	if nothing is passed then everything is ran by default.
+	Ready for testing WYArmature.
+
+201801090100	ver0068
+	Fixed some errors occurred on code changes in WYMesh, 
+	WYArmatureBone and WYModel.
+	Final ready to test WYArmature.
+	
+201801232330	ver0069
+	WYArmature import and export implemented and tested.
+
+201802010400	ver0070
+	WYAnimation implemented and tested.
+	WYAnimation export implemented.
+
+201802212030	ver0071
+	WYModelManager animation export import testing done.
+
+201803050030	ver0072
+	BlenderTestPanel custom side panel tool script added to 
+	WYMain folder to merge the project to test export import 
+	codes with custom addons for automation.
+	
+

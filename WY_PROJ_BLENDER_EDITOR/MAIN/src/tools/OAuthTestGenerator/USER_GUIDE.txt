@@ -1,0 +1,270 @@
+================================================================================
+                                   USER GUIDE
+================================================================================
+Project name: 
+    - OAuthTestGenerator.
+
+Objectives:
+    - To generate the standard test cases which has a lot of redundant or 
+      works and duplication of the test case codes and data values, I needed 
+      a test case generator tool to save my time of implementing redundant 
+      codes and duplicated unit test cases.
+
+Staff:
+    - Lead programmer   : Samil Chai.
+    - Junior programmer : Nick Jang.
+    - [ Copy right to Samil Chai ]
+
+Start date: 2017-10-02
+End date  : 2017-10-04
+
+Environment:
+    - Python version	    : 3.6.2
+    - Python pip version    : 9.0.1
+    - Blender version: 2.78 (sub 0), branch: master, commit date: 2017-02-24.
+    - Microsoft Windows 10 Boot Camp with Macbook:
+	- MacBook Pro 12,1 (Retina, 13-inch, Early 2015):
+	    - System type   : 64-bit operating system, x64-based processor.
+	    - Processor     : Intel(R) Core(TM) i5-5287U CPU @ 2.90GHz 2.90.
+	    - Installed RAM : 8.00 GB.
+	    - Graphics card : Intel(R0 Iris(TM) Graphics 6100.
+    - Boot Camp assistant version:	
+	- Version  : Boot Camp Assistant 6.1.0, Copyright © 2016 Apple Inc. 
+		     All rights reserved.
+	- Created  : Friday, July 15, 2016 at 11:04 PM.
+	- Capacity : 250GB.
+	- Bootcamp Microsoft Windows 10 64 bits Home.
+
+Techique used:
+    - Python/Argparse/Python subprocess/
+    - Pydoc/OAuth 2.0/Google Developer Console/
+
+Project documents Google Drive folder:
+    - Google drive : [ https://drive.google.com/drive/folders/
+		       0B8vIEi2xiwB4RGxkVHhxWlIzMTQ ].
+
+Project document headquarter:
+    - Google docs : [ https://docs.google.com/document/d/
+		      1cJZ_oUeUo8GUkbYIRbQfX-5pHTvovKU1wq_U0l9Lelw/edit# ]. 
+
+################################################################################
+				New User guide
+################################################################################
+(0) This tool is for developers. 
+    This tool is connected with Google Developer API which i need the 
+    credential + client_secret.json file to connect the Google Developer 
+    Console to access the private Google Spreadsheet which has the test 
+    cases data to generate the unit test cases.
+(1) Open data.config file.
+(2) Append data to the data.config file following the format:
+    eg. <title="[ WYCoordsys __init__ function                      ]"
+         url_id="1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA"
+         sheetname="Sheet1" 
+         class="WYCoordsys" 
+         result_filepath="..\..\WYCoordsysTestCaseResults.txt"/>
+(3) Provide the data for the testing function:
+    title		: Title description of the testing function.
+       eg.
+	 WYCoordsys __init__ function
+    url_id		: Google Spreadsheet URL ID which testing function test 
+	 	 	  case data is implemented.
+        eg. 
+         URL	: https://docs.google.com/spreadsheets/d/1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA/edit#gid=0
+         URL ID	: 1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA
+
+    sheetname		: Name of the Google Spreadsheet sheet name to be used
+			  for retrieving test case data.
+    class		: Name of the class which current testing function is 
+			  implemented.
+    result_filepath	: Relative file path which current testing function's
+			  unit test case result will be kept.
+
+(4) Double click "data_config_generate_make.bat" file to generate the makefile
+
+(5) Double click "make.bat" file.
+
+
+
+
+
+================================================================================
+				Old User Guide
+================================================================================
+(0) This tool is for developers. 
+    This tool is connected with Google Developer API which i need the 
+    credential + client_secret.json file to connect the Google Developer 
+    Console to access the private Google Spreadsheet which has the test 
+    cases data to generate the unit test cases.
+
+(1) Open command prompt:
+	Caution: These are sample commands, which means the file path 
+	         need to be adjusted when ported.
+	$ cd C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_DIRECTX\
+		WY_PROJ_BLENDER_EDITOR\mesh_mat_exporter\OAuthTestGenerator	
+	$ make
+
+	*****All the Google Spreadsheet test case data URL will be organized 
+	     here inside the makefile and are executed to 
+	     perform following processes:
+		Generate unit test case.
+		Generate unit test case Pydoc HTML page.
+		Execute  unit test case.
+		Generate unit test case result output file.
+		Generate unit test case makefile for current function.
+(2) Implement the test cases data inside Google Spreadsheet must 
+    matching the test case data spreadsheet template format:
+	[ oauth_test_case_generator_spreadsheet_sample_template.xlsx ]
+
+(3) Add the test case generator code into the "./makefile" file providing 
+    the followings as command line arguments:
+	- OAuth client application name
+	- OAuth client secret JSON file path
+	- Google Spreadsheet URL just created
+
+    This is the sample code:
+	WYCOORDSYS_TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../
+				WYCoordsys/WYCoordsysTestCaseResults.txt
+	all:
+		python oauth_test_case_generator_manager.py \
+		-title "[ WYCoordsys __str__ function                   ]" \
+		-ssurl https://docs.google.com/spreadsheets/d/
+		       1qaKGTW1wKdC7k4qASe1gIVy-WVNbQVIGq50hbtE3SJk/edit#gid=0 \
+		-feed Sheet1 \
+		-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+		>> $(WYCOORDSYS_TESTCASE_FINAL_RESULT_FILE_PATH)
+    Note:
+	Make sure the indentation 
+	    "\t" tab characters ,
+	    " " space characters and
+            "/" proceed to next line characters
+	are properly prompted since makefile is sensitive 
+	on these characters.
+
+	">" is used for overwriting the text to the file.
+	">>" is used for appending the text to the file.
+
+	Command line arguments:
+	"-title" This is the title for current unit test cases.
+	"-ssurl" This is the Google Spreadsheet URL to generate 
+	 	 the unit test cases with.
+	"-feed"  This is the name of the feed which contains all 
+	  	 the test cases data in the Google Spreadsheet URL
+		 provided.
+	"-app"	 This is the OAuth client application name used to 
+		 authorize the Google Developer Console 
+		 credential with.
+	""
+
+    What is this command doing:
+	This command let you connect to the Google Developer Console 
+	authorizing the credential using the OAuth application name 
+	and the OAuth client secret file to access the private 
+	Google Spreadsheet.
+	
+	Then generate the unit test cases using the data indicated 
+	in the Google Spreadsheet URL, also generate the unit 
+	test cases Pydoc HTML page to view the API through 
+	web browser.
+	
+	Finally execute the unit test cases generated and write the 
+	result output to a text file.	
+
+(4) Check the test case files, Pydoc HTML document, spreadsheet 
+    data log file and execution result output file and makefile 
+    file are generated like this:
+	Current directory 	: \mesh_mat_exporter\OAuthTestGenerator
+	Naviaget to	  	: .\..\WYCoordsys\WYCoordsysTestCases
+	Final test cases directory structure:
+	    WYCoordsysTestCases___init__/
+	    WYCoordsysTestCases___str__/
+	    WYCoordsysTestCases_export_m_xu_m_yf/
+	    WYCoordsysTestCases_export_m_xu_m_zf/
+	Final per function test cases directory structure:
+	    WYCoordsysTestCases___init__/
+		makefile
+		WYCoordsysTestCaseData___init__.txt
+		WYCoordsysTestCaseResult___init__.txt
+		WYCoordsysTestCases___init__.html
+		WYCoordsysTestCases___init__.py
+
+(Summary) 
+    These are the summarized steps which I need to generate the 
+    test cases using the main OAuth test case generator:
+	(a) Go to [ OAuthTestGenerator/ ]
+	    Example:
+	    	$ cd C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_DIRECTX\
+			WY_PROJ_BLENDER_EDITOR\mesh_mat_exporter\
+			OAuthTestGenerator
+	(b) Adjust or append the compiling code to the makefile
+	    and give the proper Google Spreadsheet URL, OAuth 
+	    client application name and OAuth client secret to 
+	    proper command line arugment options at the end 
+	    of the code:
+
+	    Open "makefile" [ makefile ]
+	    --> Using notepad or $ nano makefile
+	    --> Add this line of code to the end of file and match the 
+		indentation:
+		(Following 4 lines of code must be in 1 line)
+	    Example:
+		python oauth_test_case_generator_manager.py 
+		-title "Unit test case tite"
+		-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT 
+		-ssurl https://docs.google.com/spreadsheets/d/
+		       1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA/edit#gid=0 
+		-feed Sheet1
+
+	(Or can use "\" to continue on next line which commands are in 4 lines)
+		python oauth_test_case_generator_manager.py \
+		-title "Unit test case tite" \
+		-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+		-ssurl https://docs.google.com/spreadsheets/d/
+		       1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA/edit#gid=0 \
+		-feed Sheet1 \
+
+	(c) Create and implement the Google Spreadsheet to 
+	    complete the test case data to be used to generate the
+	    unit test cases with:
+	    Example URL:
+		https://docs.google.com/spreadsheets/d/
+			1FAibaRk-by5_1UbVad9Nhmu_QPOuBZDEeZidoQqIxFA/edit#gid=0 
+	(d) Compile and run the OAuth test case generator:
+	    Example:
+		$ make
+
+	(e) Check the files are properlly generated to each correct 
+	    destinations:
+	    For example, the main testing class file name is "WYCoordsys.py" 
+	    which is in "WYCoordsys" folder
+	    The unit test case related files will be generated under 
+	    "WYCoordsys/WYCoordsysTestCases" folder:
+		- Unit test case data file will be named 
+		  "WYCoordsysTestCaseData_testingfuncname.txt"
+		- Unit test case file will be named 
+		  "WYCoordsysTestCase_testingfuncname.py"
+		- Unit test case Pydoc document HTML file will be named 
+		  "WYCoordsysTestCase_testingfuncname.html"
+		- Unit test case execution result output log file will be named 
+		  "WYCoordsysTestCaseResult_testingfuncname.txt"
+	    ====================================================================
+	    Main project directory:
+		----------------------------------------------------------------
+		WYCoordsys/
+		    WYCoordsys.py
+		    WYCoordsysTestCases/
+			WYCoordsysTestCaseData___init__.txt
+			WYCoordsysTestCaseResult___init__.txt
+			WYCoordsysTestCases___init__.html
+			WYCoordsysTestCases___init__.py
+		----------------------------------------------------------------
+		WYMain/
+		WYMaterial/
+		WYMesh/
+		WYModel/
+		WYModelManager/
+		WYUtil/
+	    ====================================================================
+
+
+
+

@@ -1,0 +1,297 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0001
+
+bc : 1
+
+bn : TestArmatureBoneName0001
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0001
+
+TestArmatureObject0001.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0002
+
+bc : 1
+
+bn : TestArmatureBoneName0002
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0002
+
+TestArmatureObject0002.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0003
+
+bc : 1
+
+bn : TestArmatureBoneName0003
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0003
+
+TestArmatureObject0003.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0004
+
+bc : 1
+
+bn : TestArmatureBoneName0004
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0004
+
+TestArmatureObject0004.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0005
+
+bc : 1
+
+bn : TestArmatureBoneName0005
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0005
+
+TestArmatureObject0005.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0006
+
+bc : 1
+
+bn : TestArmatureBoneName0006
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0006
+
+TestArmatureObject0006.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0007
+
+bc : 1
+
+bn : TestArmatureBoneName0007
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0007
+
+TestArmatureObject0007.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0008
+
+bc : 1
+
+bn : TestArmatureBoneName0008
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0008
+
+TestArmatureObject0008.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0009
+
+bc : 1
+
+bn : TestArmatureBoneName0009
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0009
+
+TestArmatureObject0009.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0010
+
+bc : 1
+
+bn : TestArmatureBoneName0010
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0010
+
+TestArmatureObject0010.001
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0011.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------.
+
+----------------------------------------------------------------------
+
+Ran 11 tests in 0.057s
+
+OK
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_armature_model\TestFile0011.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0011
+
+bc : 1
+
+bn : TestArmatureBoneName0011
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+TestArmatureObject0011
+
+TestArmatureObject0011.001
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

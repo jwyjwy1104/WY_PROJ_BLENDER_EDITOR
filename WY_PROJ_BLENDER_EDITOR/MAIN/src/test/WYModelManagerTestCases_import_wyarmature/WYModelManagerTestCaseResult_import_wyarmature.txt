@@ -1,0 +1,4547 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+................
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0001
+
+mdllib : TestModelFile0001
+
+bc : 1
+
+bn : TestArmatureBoneName0001
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0002
+
+mdllib : TestModelFile0002
+
+bc : 1
+
+bn : TestArmatureBoneName0002
+
+bh : (0.1, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0003
+
+mdllib : TestModelFile0003
+
+bc : 1
+
+bn : TestArmatureBoneName0003
+
+bh : (0.001, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0004
+
+mdllib : TestModelFile0004
+
+bc : 1
+
+bn : TestArmatureBoneName0004
+
+bh : (0.0001, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0005
+
+mdllib : TestModelFile0005
+
+bc : 1
+
+bn : TestArmatureBoneName0005
+
+bh : (2.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0006
+
+mdllib : TestModelFile0006
+
+bc : 1
+
+bn : TestArmatureBoneName0006
+
+bh : (3.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0007
+
+mdllib : TestModelFile0007
+
+bc : 1
+
+bn : TestArmatureBoneName0007
+
+bh : (10.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0008
+
+mdllib : TestModelFile0008
+
+bc : 1
+
+bn : TestArmatureBoneName0008
+
+bh : (20.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0009
+
+mdllib : TestModelFile0009
+
+bc : 1
+
+bn : TestArmatureBoneName0009
+
+bh : (30.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0010
+
+mdllib : TestModelFile0010
+
+bc : 1
+
+bn : TestArmatureBoneName0010
+
+bh : (100.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0011.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0011
+
+mdllib : TestModelFile0011
+
+bc : 1
+
+bn : TestArmatureBoneName0011
+
+bh : (200.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0012.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0012
+
+mdllib : TestModelFile0012
+
+bc : 1
+
+bn : TestArmatureBoneName0012
+
+bh : (300.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0013.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0013
+
+mdllib : TestModelFile0013
+
+bc : 1
+
+bn : TestArmatureBoneName0013
+
+bh : (10000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0014.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0014
+
+mdllib : TestModelFile0014
+
+bc : 1
+
+bn : TestArmatureBoneName0014
+
+bh : (20000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0015.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0015
+
+mdllib : TestModelFile0015
+
+bc : 1
+
+bn : TestArmatureBoneName0015
+
+bh : (30000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0016.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0016
+
+mdllib : TestModelFile0016
+
+bc : 1
+
+bn : TestArmatureBoneName0016
+
+bh : (1000000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0017.wya
+
+------------------------------------------------------------------------------.................
+
+an : TestArmatureObject0017
+
+mdllib : TestModelFile0017
+
+bc : 1
+
+bn : TestArmatureBoneName0017
+
+bh : (2000000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0018.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0018
+
+mdllib : TestModelFile0018
+
+bc : 1
+
+bn : TestArmatureBoneName0018
+
+bh : (3000000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0019.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0019
+
+mdllib : TestModelFile0019
+
+bc : 1
+
+bn : TestArmatureBoneName0019
+
+bh : (0.0, 1.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0020.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0020
+
+mdllib : TestModelFile0020
+
+bc : 1
+
+bn : TestArmatureBoneName0020
+
+bh : (0.0, 0.1, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0021.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0021
+
+mdllib : TestModelFile0021
+
+bc : 1
+
+bn : TestArmatureBoneName0021
+
+bh : (0.0, 0.001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0022.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0022
+
+mdllib : TestModelFile0022
+
+bc : 1
+
+bn : TestArmatureBoneName0022
+
+bh : (0.0, 0.0001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0023.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0023
+
+mdllib : TestModelFile0023
+
+bc : 1
+
+bn : TestArmatureBoneName0023
+
+bh : (0.0, 2.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0024.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0024
+
+mdllib : TestModelFile0024
+
+bc : 1
+
+bn : TestArmatureBoneName0024
+
+bh : (0.0, 3.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0025.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0025
+
+mdllib : TestModelFile0025
+
+bc : 1
+
+bn : TestArmatureBoneName0025
+
+bh : (0.0, 10.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0026.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0026
+
+mdllib : TestModelFile0026
+
+bc : 1
+
+bn : TestArmatureBoneName0026
+
+bh : (0.0, 20.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0027.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0027
+
+mdllib : TestModelFile0027
+
+bc : 1
+
+bn : TestArmatureBoneName0027
+
+bh : (0.0, 30.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0028.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0028
+
+mdllib : TestModelFile0028
+
+bc : 1
+
+bn : TestArmatureBoneName0028
+
+bh : (0.0, 100.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0029.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0029
+
+mdllib : TestModelFile0029
+
+bc : 1
+
+bn : TestArmatureBoneName0029
+
+bh : (0.0, 200.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0030.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0030
+
+mdllib : TestModelFile0030
+
+bc : 1
+
+bn : TestArmatureBoneName0030
+
+bh : (0.0, 300.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0031.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0031
+
+mdllib : TestModelFile0031
+
+bc : 1
+
+bn : TestArmatureBoneName0031
+
+bh : (0.0, 10000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0032.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0032
+
+mdllib : TestModelFile0032
+
+bc : 1
+
+bn : TestArmatureBoneName0032
+
+bh : (0.0, 20000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0033.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0033
+
+mdllib : TestModelFile0033
+
+bc : 1
+
+bn : TestArmatureBoneName0033
+
+bh : (0.0, 30000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0034.wya.................
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0034
+
+mdllib : TestModelFile0034
+
+bc : 1
+
+bn : TestArmatureBoneName0034
+
+bh : (0.0, 1000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0035.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0035
+
+mdllib : TestModelFile0035
+
+bc : 1
+
+bn : TestArmatureBoneName0035
+
+bh : (0.0, 2000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0036.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0036
+
+mdllib : TestModelFile0036
+
+bc : 1
+
+bn : TestArmatureBoneName0036
+
+bh : (0.0, 3000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0037.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0037
+
+mdllib : TestModelFile0037
+
+bc : 1
+
+bn : TestArmatureBoneName0037
+
+bh : (0.0, 0.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0038.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0038
+
+mdllib : TestModelFile0038
+
+bc : 1
+
+bn : TestArmatureBoneName0038
+
+bh : (0.0, 0.0, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0039.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0039
+
+mdllib : TestModelFile0039
+
+bc : 1
+
+bn : TestArmatureBoneName0039
+
+bh : (0.0, 0.0, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0040.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0040
+
+mdllib : TestModelFile0040
+
+bc : 1
+
+bn : TestArmatureBoneName0040
+
+bh : (0.0, 0.0, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0041.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0041
+
+mdllib : TestModelFile0041
+
+bc : 1
+
+bn : TestArmatureBoneName0041
+
+bh : (0.0, 0.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0042.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0042
+
+mdllib : TestModelFile0042
+
+bc : 1
+
+bn : TestArmatureBoneName0042
+
+bh : (0.0, 0.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0043.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0043
+
+mdllib : TestModelFile0043
+
+bc : 1
+
+bn : TestArmatureBoneName0043
+
+bh : (0.0, 0.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0044.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0044
+
+mdllib : TestModelFile0044
+
+bc : 1
+
+bn : TestArmatureBoneName0044
+
+bh : (0.0, 0.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0045.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0045
+
+mdllib : TestModelFile0045
+
+bc : 1
+
+bn : TestArmatureBoneName0045
+
+bh : (0.0, 0.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0046.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0046
+
+mdllib : TestModelFile0046
+
+bc : 1
+
+bn : TestArmatureBoneName0046
+
+bh : (0.0, 0.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0047.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0047
+
+mdllib : TestModelFile0047
+
+bc : 1
+
+bn : TestArmatureBoneName0047
+
+bh : (0.0, 0.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0048.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0048
+
+mdllib : TestModelFile0048
+
+bc : 1
+
+bn : TestArmatureBoneName0048
+
+bh : (0.0, 0.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0049.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0049
+
+mdllib : TestModelFile0049
+
+bc : 1
+
+bn : TestArmatureBoneName0049
+
+bh : (0.0, 0.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0050.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0050
+
+mdllib : TestModelFile0050
+
+bc : 1
+
+bn : TestArmatureBoneName0050
+
+bh : (0.0, 0.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------................
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0051.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0051
+
+mdllib : TestModelFile0051
+
+bc : 1
+
+bn : TestArmatureBoneName0051
+
+bh : (0.0, 0.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0052.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0052
+
+mdllib : TestModelFile0052
+
+bc : 1
+
+bn : TestArmatureBoneName0052
+
+bh : (0.0, 0.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0053.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0053
+
+mdllib : TestModelFile0053
+
+bc : 1
+
+bn : TestArmatureBoneName0053
+
+bh : (0.0, 0.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0054.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0054
+
+mdllib : TestModelFile0054
+
+bc : 1
+
+bn : TestArmatureBoneName0054
+
+bh : (0.0, 0.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0055.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0055
+
+mdllib : TestModelFile0055
+
+bc : 1
+
+bn : TestArmatureBoneName0055
+
+bh : (1.0, 1.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0056.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0056
+
+mdllib : TestModelFile0056
+
+bc : 1
+
+bn : TestArmatureBoneName0056
+
+bh : (0.1, 0.1, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0057.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0057
+
+mdllib : TestModelFile0057
+
+bc : 1
+
+bn : TestArmatureBoneName0057
+
+bh : (0.001, 0.001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0058.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0058
+
+mdllib : TestModelFile0058
+
+bc : 1
+
+bn : TestArmatureBoneName0058
+
+bh : (0.0001, 0.0001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0059.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0059
+
+mdllib : TestModelFile0059
+
+bc : 1
+
+bn : TestArmatureBoneName0059
+
+bh : (2.0, 2.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0060.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0060
+
+mdllib : TestModelFile0060
+
+bc : 1
+
+bn : TestArmatureBoneName0060
+
+bh : (3.0, 3.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0061.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0061
+
+mdllib : TestModelFile0061
+
+bc : 1
+
+bn : TestArmatureBoneName0061
+
+bh : (10.0, 10.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0062.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0062
+
+mdllib : TestModelFile0062
+
+bc : 1
+
+bn : TestArmatureBoneName0062
+
+bh : (20.0, 20.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0063.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0063
+
+mdllib : TestModelFile0063
+
+bc : 1
+
+bn : TestArmatureBoneName0063
+
+bh : (30.0, 30.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0064.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0064
+
+mdllib : TestModelFile0064
+
+bc : 1
+
+bn : TestArmatureBoneName0064
+
+bh : (100.0, 100.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0065.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0065
+
+mdllib : TestModelFile0065
+
+bc : 1
+
+bn : TestArmatureBoneName0065
+
+bh : (200.0, 200.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0066.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0066
+
+mdllib : TestModelFile0066
+
+bc : 1
+
+bn : TestArmatureBoneName0066
+
+bh : (300.0, 300.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0067.wya
+
+------------------------------------------------------------------------------
+
+.................an : TestArmatureObject0067
+
+mdllib : TestModelFile0067
+
+bc : 1
+
+bn : TestArmatureBoneName0067
+
+bh : (10000.0, 10000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0068.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0068
+
+mdllib : TestModelFile0068
+
+bc : 1
+
+bn : TestArmatureBoneName0068
+
+bh : (20000.0, 20000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0069.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0069
+
+mdllib : TestModelFile0069
+
+bc : 1
+
+bn : TestArmatureBoneName0069
+
+bh : (30000.0, 30000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0070.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0070
+
+mdllib : TestModelFile0070
+
+bc : 1
+
+bn : TestArmatureBoneName0070
+
+bh : (1000000.0, 1000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0071.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0071
+
+mdllib : TestModelFile0071
+
+bc : 1
+
+bn : TestArmatureBoneName0071
+
+bh : (2000000.0, 2000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0072.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0072
+
+mdllib : TestModelFile0072
+
+bc : 1
+
+bn : TestArmatureBoneName0072
+
+bh : (3000000.0, 3000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0073.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0073
+
+mdllib : TestModelFile0073
+
+bc : 1
+
+bn : TestArmatureBoneName0073
+
+bh : (1.0, 0.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0074.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0074
+
+mdllib : TestModelFile0074
+
+bc : 1
+
+bn : TestArmatureBoneName0074
+
+bh : (0.1, 0.0, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0075.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0075
+
+mdllib : TestModelFile0075
+
+bc : 1
+
+bn : TestArmatureBoneName0075
+
+bh : (0.001, 0.0, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0076.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0076
+
+mdllib : TestModelFile0076
+
+bc : 1
+
+bn : TestArmatureBoneName0076
+
+bh : (0.0001, 0.0, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0077.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0077
+
+mdllib : TestModelFile0077
+
+bc : 1
+
+bn : TestArmatureBoneName0077
+
+bh : (2.0, 0.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0078.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0078
+
+mdllib : TestModelFile0078
+
+bc : 1
+
+bn : TestArmatureBoneName0078
+
+bh : (3.0, 0.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0079.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0079
+
+mdllib : TestModelFile0079
+
+bc : 1
+
+bn : TestArmatureBoneName0079
+
+bh : (10.0, 0.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0080.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0080
+
+mdllib : TestModelFile0080
+
+bc : 1
+
+bn : TestArmatureBoneName0080
+
+bh : (20.0, 0.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0081.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0081
+
+mdllib : TestModelFile0081
+
+bc : 1
+
+bn : TestArmatureBoneName0081
+
+bh : (30.0, 0.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0082.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0082
+
+mdllib : TestModelFile0082
+
+bc : 1
+
+bn : TestArmatureBoneName0082
+
+bh : (100.0, 0.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0083.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0083
+
+mdllib : TestModelFile0083
+
+bc : 1
+
+bn : TestArmatureBoneName0083
+
+bh : (200.0, 0.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0084.wya.................
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0084
+
+mdllib : TestModelFile0084
+
+bc : 1
+
+bn : TestArmatureBoneName0084
+
+bh : (300.0, 0.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0085.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0085
+
+mdllib : TestModelFile0085
+
+bc : 1
+
+bn : TestArmatureBoneName0085
+
+bh : (10000.0, 0.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0086.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0086
+
+mdllib : TestModelFile0086
+
+bc : 1
+
+bn : TestArmatureBoneName0086
+
+bh : (20000.0, 0.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0087.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0087
+
+mdllib : TestModelFile0087
+
+bc : 1
+
+bn : TestArmatureBoneName0087
+
+bh : (30000.0, 0.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0088.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0088
+
+mdllib : TestModelFile0088
+
+bc : 1
+
+bn : TestArmatureBoneName0088
+
+bh : (1000000.0, 0.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0089.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0089
+
+mdllib : TestModelFile0089
+
+bc : 1
+
+bn : TestArmatureBoneName0089
+
+bh : (2000000.0, 0.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0090.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0090
+
+mdllib : TestModelFile0090
+
+bc : 1
+
+bn : TestArmatureBoneName0090
+
+bh : (3000000.0, 0.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0091.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0091
+
+mdllib : TestModelFile0091
+
+bc : 1
+
+bn : TestArmatureBoneName0091
+
+bh : (0.0, 1.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0092.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0092
+
+mdllib : TestModelFile0092
+
+bc : 1
+
+bn : TestArmatureBoneName0092
+
+bh : (0.0, 0.1, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0093.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0093
+
+mdllib : TestModelFile0093
+
+bc : 1
+
+bn : TestArmatureBoneName0093
+
+bh : (0.0, 0.01, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0094.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0094
+
+mdllib : TestModelFile0094
+
+bc : 1
+
+bn : TestArmatureBoneName0094
+
+bh : (0.0, 0.0001, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0095.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0095
+
+mdllib : TestModelFile0095
+
+bc : 1
+
+bn : TestArmatureBoneName0095
+
+bh : (0.0, 2.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0096.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0096
+
+mdllib : TestModelFile0096
+
+bc : 1
+
+bn : TestArmatureBoneName0096
+
+bh : (0.0, 3.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0097.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0097
+
+mdllib : TestModelFile0097
+
+bc : 1
+
+bn : TestArmatureBoneName0097
+
+bh : (0.0, 10.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0098.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0098
+
+mdllib : TestModelFile0098
+
+bc : 1
+
+bn : TestArmatureBoneName0098
+
+bh : (0.0, 20.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0099.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0099
+
+mdllib : TestModelFile0099
+
+bc : 1
+
+bn : TestArmatureBoneName0099
+
+bh : (0.0, 30.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0100.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0100
+
+mdllib : TestModelFile0100
+
+bc : 1
+
+bn : TestArmatureBoneName0100
+
+bh : (0.0, 100.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------................
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0101.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0101
+
+mdllib : TestModelFile0101
+
+bc : 1
+
+bn : TestArmatureBoneName0101
+
+bh : (0.0, 200.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0102.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0102
+
+mdllib : TestModelFile0102
+
+bc : 1
+
+bn : TestArmatureBoneName0102
+
+bh : (0.0, 300.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0103.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0103
+
+mdllib : TestModelFile0103
+
+bc : 1
+
+bn : TestArmatureBoneName0103
+
+bh : (0.0, 10000.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0104.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0104
+
+mdllib : TestModelFile0104
+
+bc : 1
+
+bn : TestArmatureBoneName0104
+
+bh : (0.0, 20000.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0105.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0105
+
+mdllib : TestModelFile0105
+
+bc : 1
+
+bn : TestArmatureBoneName0105
+
+bh : (0.0, 30000.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0106.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0106
+
+mdllib : TestModelFile0106
+
+bc : 1
+
+bn : TestArmatureBoneName0106
+
+bh : (0.0, 1000000.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0107.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0107
+
+mdllib : TestModelFile0107
+
+bc : 1
+
+bn : TestArmatureBoneName0107
+
+bh : (0.0, 2000000.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0108.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0108
+
+mdllib : TestModelFile0108
+
+bc : 1
+
+bn : TestArmatureBoneName0108
+
+bh : (0.0, 3000000.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0109.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0109
+
+mdllib : TestModelFile0109
+
+bc : 1
+
+bn : TestArmatureBoneName0109
+
+bh : (1.0, 1.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0110.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0110
+
+mdllib : TestModelFile0110
+
+bc : 1
+
+bn : TestArmatureBoneName0110
+
+bh : (0.1, 0.1, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0111.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0111
+
+mdllib : TestModelFile0111
+
+bc : 1
+
+bn : TestArmatureBoneName0111
+
+bh : (0.001, 0.01, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0112.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0112
+
+mdllib : TestModelFile0112
+
+bc : 1
+
+bn : TestArmatureBoneName0112
+
+bh : (0.0001, 0.0001, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0113.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0113
+
+mdllib : TestModelFile0113
+
+bc : 1
+
+bn : TestArmatureBoneName0113
+
+bh : (2.0, 2.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0114.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0114
+
+mdllib : TestModelFile0114
+
+bc : 1
+
+bn : TestArmatureBoneName0114
+
+bh : (3.0, 3.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0115.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0115
+
+mdllib : TestModelFile0115
+
+bc : 1
+
+bn : TestArmatureBoneName0115
+
+bh : (10.0, 10.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0116.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0116
+
+mdllib : TestModelFile0116
+
+bc : 1
+
+bn : TestArmatureBoneName0116
+
+bh : (20.0, 20.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0117.wya
+
+------------------------------------------------------------------------------.................
+
+an : TestArmatureObject0117
+
+mdllib : TestModelFile0117
+
+bc : 1
+
+bn : TestArmatureBoneName0117
+
+bh : (30.0, 30.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0118.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0118
+
+mdllib : TestModelFile0118
+
+bc : 1
+
+bn : TestArmatureBoneName0118
+
+bh : (100.0, 100.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0119.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0119
+
+mdllib : TestModelFile0119
+
+bc : 1
+
+bn : TestArmatureBoneName0119
+
+bh : (200.0, 200.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0120.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0120
+
+mdllib : TestModelFile0120
+
+bc : 1
+
+bn : TestArmatureBoneName0120
+
+bh : (300.0, 300.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0121.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0121
+
+mdllib : TestModelFile0121
+
+bc : 1
+
+bn : TestArmatureBoneName0121
+
+bh : (10000.0, 10000.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0122.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0122
+
+mdllib : TestModelFile0122
+
+bc : 1
+
+bn : TestArmatureBoneName0122
+
+bh : (20000.0, 20000.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0123.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0123
+
+mdllib : TestModelFile0123
+
+bc : 1
+
+bn : TestArmatureBoneName0123
+
+bh : (30000.0, 30000.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0124.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0124
+
+mdllib : TestModelFile0124
+
+bc : 1
+
+bn : TestArmatureBoneName0124
+
+bh : (1000000.0, 1000000.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0125.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0125
+
+mdllib : TestModelFile0125
+
+bc : 1
+
+bn : TestArmatureBoneName0125
+
+bh : (2000000.0, 2000000.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0126.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0126
+
+mdllib : TestModelFile0126
+
+bc : 1
+
+bn : TestArmatureBoneName0126
+
+bh : (3000000.0, 3000000.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0127.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0127
+
+mdllib : TestModelFile0127
+
+bc : 1
+
+bn : TestArmatureBoneName0127
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0128.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0128
+
+mdllib : TestModelFile0128
+
+bc : 1
+
+bn : TestArmatureBoneName0128
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0129.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0129
+
+mdllib : TestModelFile0129
+
+bc : 1
+
+bn : TestArmatureBoneName0129
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0130.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0130
+
+mdllib : TestModelFile0130
+
+bc : 1
+
+bn : TestArmatureBoneName0130
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0131.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0131
+
+mdllib : TestModelFile0131
+
+bc : 1
+
+bn : TestArmatureBoneName0131
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0132.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0132
+
+mdllib : TestModelFile0132
+
+bc : 1
+
+bn : TestArmatureBoneName0132
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0133.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0133
+
+mdllib : TestModelFile0133
+
+bc : 1
+
+bn : TestArmatureBoneName0133
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------................
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0134.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0134
+
+mdllib : TestModelFile0134
+
+bc : 1
+
+bn : TestArmatureBoneName0134
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0135.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0135
+
+mdllib : TestModelFile0135
+
+bc : 1
+
+bn : TestArmatureBoneName0135
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0136.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0136
+
+mdllib : TestModelFile0136
+
+bc : 1
+
+bn : TestArmatureBoneName0136
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0137.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0137
+
+mdllib : TestModelFile0137
+
+bc : 1
+
+bn : TestArmatureBoneName0137
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0138.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0138
+
+mdllib : TestModelFile0138
+
+bc : 1
+
+bn : TestArmatureBoneName0138
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0139.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0139
+
+mdllib : TestModelFile0139
+
+bc : 1
+
+bn : TestArmatureBoneName0139
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0140.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0140
+
+mdllib : TestModelFile0140
+
+bc : 1
+
+bn : TestArmatureBoneName0140
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0141.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0141
+
+mdllib : TestModelFile0141
+
+bc : 1
+
+bn : TestArmatureBoneName0141
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0142.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0142
+
+mdllib : TestModelFile0142
+
+bc : 1
+
+bn : TestArmatureBoneName0142
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0143.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0143
+
+mdllib : TestModelFile0143
+
+bc : 1
+
+bn : TestArmatureBoneName0143
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0144.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0144
+
+mdllib : TestModelFile0144
+
+bc : 1
+
+bn : TestArmatureBoneName0144
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0145.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0145
+
+mdllib : TestModelFile0145
+
+bc : 1
+
+bn : TestArmatureBoneName0145
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0146.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0146
+
+mdllib : TestModelFile0146
+
+bc : 1
+
+bn : TestArmatureBoneName0146
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.1, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0147.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0147
+
+mdllib : TestModelFile0147
+
+bc : 1
+
+bn : TestArmatureBoneName0147
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.001, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0148.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0148
+
+mdllib : TestModelFile0148
+
+bc : 1
+
+bn : TestArmatureBoneName0148
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0001, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0149.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0149
+
+mdllib : TestModelFile0149
+
+bc : 1
+
+bn : TestArmatureBoneName0149
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0150.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0150.................
+
+mdllib : TestModelFile0150
+
+bc : 1
+
+bn : TestArmatureBoneName0150
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0151.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0151
+
+mdllib : TestModelFile0151
+
+bc : 1
+
+bn : TestArmatureBoneName0151
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0152.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0152
+
+mdllib : TestModelFile0152
+
+bc : 1
+
+bn : TestArmatureBoneName0152
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0153.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0153
+
+mdllib : TestModelFile0153
+
+bc : 1
+
+bn : TestArmatureBoneName0153
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0154.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0154
+
+mdllib : TestModelFile0154
+
+bc : 1
+
+bn : TestArmatureBoneName0154
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 100.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0155.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0155
+
+mdllib : TestModelFile0155
+
+bc : 1
+
+bn : TestArmatureBoneName0155
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 200.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0156.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0156
+
+mdllib : TestModelFile0156
+
+bc : 1
+
+bn : TestArmatureBoneName0156
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 300.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0157.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0157
+
+mdllib : TestModelFile0157
+
+bc : 1
+
+bn : TestArmatureBoneName0157
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0158.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0158
+
+mdllib : TestModelFile0158
+
+bc : 1
+
+bn : TestArmatureBoneName0158
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0159.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0159
+
+mdllib : TestModelFile0159
+
+bc : 1
+
+bn : TestArmatureBoneName0159
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0160.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0160
+
+mdllib : TestModelFile0160
+
+bc : 1
+
+bn : TestArmatureBoneName0160
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1000000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0161.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0161
+
+mdllib : TestModelFile0161
+
+bc : 1
+
+bn : TestArmatureBoneName0161
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2000000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0162.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0162
+
+mdllib : TestModelFile0162
+
+bc : 1
+
+bn : TestArmatureBoneName0162
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3000000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0163.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0163
+
+mdllib : TestModelFile0163
+
+bc : 1
+
+bn : TestArmatureBoneName0163
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 1.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0164.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0164
+
+mdllib : TestModelFile0164
+
+bc : 1
+
+bn : TestArmatureBoneName0164
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.1)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0165.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0165
+
+mdllib : TestModelFile0165
+
+bc : 1
+
+bn : TestArmatureBoneName0165
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0166.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0166
+
+mdllib : TestModelFile0166
+
+bc : 1
+
+bn : TestArmatureBoneName0166
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0167.wya.................
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0167
+
+mdllib : TestModelFile0167
+
+bc : 1
+
+bn : TestArmatureBoneName0167
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 2.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0168.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0168
+
+mdllib : TestModelFile0168
+
+bc : 1
+
+bn : TestArmatureBoneName0168
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 3.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0169.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0169
+
+mdllib : TestModelFile0169
+
+bc : 1
+
+bn : TestArmatureBoneName0169
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 10.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0170.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0170
+
+mdllib : TestModelFile0170
+
+bc : 1
+
+bn : TestArmatureBoneName0170
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 20.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0171.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0171
+
+mdllib : TestModelFile0171
+
+bc : 1
+
+bn : TestArmatureBoneName0171
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 30.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0172.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0172
+
+mdllib : TestModelFile0172
+
+bc : 1
+
+bn : TestArmatureBoneName0172
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 100.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0173.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0173
+
+mdllib : TestModelFile0173
+
+bc : 1
+
+bn : TestArmatureBoneName0173
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 200.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0174.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0174
+
+mdllib : TestModelFile0174
+
+bc : 1
+
+bn : TestArmatureBoneName0174
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 300.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0175.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0175
+
+mdllib : TestModelFile0175
+
+bc : 1
+
+bn : TestArmatureBoneName0175
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 10000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0176.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0176
+
+mdllib : TestModelFile0176
+
+bc : 1
+
+bn : TestArmatureBoneName0176
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 20000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0177.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0177
+
+mdllib : TestModelFile0177
+
+bc : 1
+
+bn : TestArmatureBoneName0177
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 30000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0178.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0178
+
+mdllib : TestModelFile0178
+
+bc : 1
+
+bn : TestArmatureBoneName0178
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 1000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0179.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0179
+
+mdllib : TestModelFile0179
+
+bc : 1
+
+bn : TestArmatureBoneName0179
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 2000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0180.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0180
+
+mdllib : TestModelFile0180
+
+bc : 1
+
+bn : TestArmatureBoneName0180
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 3000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0181.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0181
+
+mdllib : TestModelFile0181
+
+bc : 1
+
+bn : TestArmatureBoneName0181
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 1.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0182.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0182
+
+mdllib : TestModelFile0182
+
+bc : 1
+
+bn : TestArmatureBoneName0182
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.1, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0183.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0183
+
+mdllib : TestModelFile0183
+
+bc : 1
+
+bn : TestArmatureBoneName0183
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.001, 0.0)
+
+------------------------------------------------------------------------------................
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0184.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0184
+
+mdllib : TestModelFile0184
+
+bc : 1
+
+bn : TestArmatureBoneName0184
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0001, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0185.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0185
+
+mdllib : TestModelFile0185
+
+bc : 1
+
+bn : TestArmatureBoneName0185
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 2.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0186.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0186
+
+mdllib : TestModelFile0186
+
+bc : 1
+
+bn : TestArmatureBoneName0186
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 3.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0187.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0187
+
+mdllib : TestModelFile0187
+
+bc : 1
+
+bn : TestArmatureBoneName0187
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 10.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0188.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0188
+
+mdllib : TestModelFile0188
+
+bc : 1
+
+bn : TestArmatureBoneName0188
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 20.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0189.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0189
+
+mdllib : TestModelFile0189
+
+bc : 1
+
+bn : TestArmatureBoneName0189
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 30.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0190.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0190
+
+mdllib : TestModelFile0190
+
+bc : 1
+
+bn : TestArmatureBoneName0190
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 100.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0191.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0191
+
+mdllib : TestModelFile0191
+
+bc : 1
+
+bn : TestArmatureBoneName0191
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 200.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0192.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0192
+
+mdllib : TestModelFile0192
+
+bc : 1
+
+bn : TestArmatureBoneName0192
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 300.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0193.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0193
+
+mdllib : TestModelFile0193
+
+bc : 1
+
+bn : TestArmatureBoneName0193
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 10000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0194.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0194
+
+mdllib : TestModelFile0194
+
+bc : 1
+
+bn : TestArmatureBoneName0194
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 20000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0195.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0195
+
+mdllib : TestModelFile0195
+
+bc : 1
+
+bn : TestArmatureBoneName0195
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 30000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0196.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0196
+
+mdllib : TestModelFile0196
+
+bc : 1
+
+bn : TestArmatureBoneName0196
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 1000000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0197.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0197
+
+mdllib : TestModelFile0197
+
+bc : 1
+
+bn : TestArmatureBoneName0197
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 2000000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0198.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0198
+
+mdllib : TestModelFile0198
+
+bc : 1
+
+bn : TestArmatureBoneName0198
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 3000000.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0199.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0199
+
+mdllib : TestModelFile0199
+
+bc : 1
+
+bn : TestArmatureBoneName0199
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 0.0, 1.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0200.wya
+
+------------------------------------------------------------------------------.................
+
+an : TestArmatureObject0200
+
+mdllib : TestModelFile0200
+
+bc : 1
+
+bn : TestArmatureBoneName0200
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.0, 0.1)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0201.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0201
+
+mdllib : TestModelFile0201
+
+bc : 1
+
+bn : TestArmatureBoneName0201
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.0, 0.001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0202.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0202
+
+mdllib : TestModelFile0202
+
+bc : 1
+
+bn : TestArmatureBoneName0202
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0, 0.0001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0203.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0203
+
+mdllib : TestModelFile0203
+
+bc : 1
+
+bn : TestArmatureBoneName0203
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 0.0, 2.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0204.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0204
+
+mdllib : TestModelFile0204
+
+bc : 1
+
+bn : TestArmatureBoneName0204
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 0.0, 3.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0205.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0205
+
+mdllib : TestModelFile0205
+
+bc : 1
+
+bn : TestArmatureBoneName0205
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 0.0, 10.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0206.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0206
+
+mdllib : TestModelFile0206
+
+bc : 1
+
+bn : TestArmatureBoneName0206
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 0.0, 20.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0207.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0207
+
+mdllib : TestModelFile0207
+
+bc : 1
+
+bn : TestArmatureBoneName0207
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 0.0, 30.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0208.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0208
+
+mdllib : TestModelFile0208
+
+bc : 1
+
+bn : TestArmatureBoneName0208
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 0.0, 100.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0209.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0209
+
+mdllib : TestModelFile0209
+
+bc : 1
+
+bn : TestArmatureBoneName0209
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 0.0, 200.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0210.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0210
+
+mdllib : TestModelFile0210
+
+bc : 1
+
+bn : TestArmatureBoneName0210
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 0.0, 300.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0211.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0211
+
+mdllib : TestModelFile0211
+
+bc : 1
+
+bn : TestArmatureBoneName0211
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 0.0, 10000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0212.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0212
+
+mdllib : TestModelFile0212
+
+bc : 1
+
+bn : TestArmatureBoneName0212
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 0.0, 20000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0213.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0213
+
+mdllib : TestModelFile0213
+
+bc : 1
+
+bn : TestArmatureBoneName0213
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 0.0, 30000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0214.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0214
+
+mdllib : TestModelFile0214
+
+bc : 1
+
+bn : TestArmatureBoneName0214
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 0.0, 1000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0215.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0215
+
+mdllib : TestModelFile0215
+
+bc : 1
+
+bn : TestArmatureBoneName0215
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 0.0, 2000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0216.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0216
+
+mdllib : TestModelFile0216
+
+bc : 1
+
+bn : TestArmatureBoneName0216
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 0.0, 3000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0217.wya.................
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0217
+
+mdllib : TestModelFile0217
+
+bc : 1
+
+bn : TestArmatureBoneName0217
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1.0, 1.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0218.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0218
+
+mdllib : TestModelFile0218
+
+bc : 1
+
+bn : TestArmatureBoneName0218
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.1, 0.1)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0219.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0219
+
+mdllib : TestModelFile0219
+
+bc : 1
+
+bn : TestArmatureBoneName0219
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.01, 0.001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0220.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0220
+
+mdllib : TestModelFile0220
+
+bc : 1
+
+bn : TestArmatureBoneName0220
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0001, 0.0001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0221.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0221
+
+mdllib : TestModelFile0221
+
+bc : 1
+
+bn : TestArmatureBoneName0221
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2.0, 2.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0222.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0222
+
+mdllib : TestModelFile0222
+
+bc : 1
+
+bn : TestArmatureBoneName0222
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3.0, 3.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0223.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0223
+
+mdllib : TestModelFile0223
+
+bc : 1
+
+bn : TestArmatureBoneName0223
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10.0, 10.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0224.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0224
+
+mdllib : TestModelFile0224
+
+bc : 1
+
+bn : TestArmatureBoneName0224
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20.0, 20.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0225.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0225
+
+mdllib : TestModelFile0225
+
+bc : 1
+
+bn : TestArmatureBoneName0225
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30.0, 30.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0226.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0226
+
+mdllib : TestModelFile0226
+
+bc : 1
+
+bn : TestArmatureBoneName0226
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 100.0, 100.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0227.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0227
+
+mdllib : TestModelFile0227
+
+bc : 1
+
+bn : TestArmatureBoneName0227
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 200.0, 200.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0228.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0228
+
+mdllib : TestModelFile0228
+
+bc : 1
+
+bn : TestArmatureBoneName0228
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 300.0, 300.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0229.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0229
+
+mdllib : TestModelFile0229
+
+bc : 1
+
+bn : TestArmatureBoneName0229
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10000.0, 10000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0230.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0230
+
+mdllib : TestModelFile0230
+
+bc : 1
+
+bn : TestArmatureBoneName0230
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20000.0, 20000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0231.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0231
+
+mdllib : TestModelFile0231
+
+bc : 1
+
+bn : TestArmatureBoneName0231
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30000.0, 30000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0232.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0232
+
+mdllib : TestModelFile0232
+
+bc : 1
+
+bn : TestArmatureBoneName0232
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1000000.0, 1000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0233.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0233
+
+mdllib : TestModelFile0233
+
+bc : 1
+
+bn : TestArmatureBoneName0233
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2000000.0, 2000000.0)
+
+------------------------------------------------------------------------------................
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0234.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0234
+
+mdllib : TestModelFile0234
+
+bc : 1
+
+bn : TestArmatureBoneName0234
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3000000.0, 3000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0235.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0235
+
+mdllib : TestModelFile0235
+
+bc : 1
+
+bn : TestArmatureBoneName0235
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 1.0, 1.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0236.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0236
+
+mdllib : TestModelFile0236
+
+bc : 1
+
+bn : TestArmatureBoneName0236
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.1, 0.1)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0237.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0237
+
+mdllib : TestModelFile0237
+
+bc : 1
+
+bn : TestArmatureBoneName0237
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.01, 0.001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0238.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0238
+
+mdllib : TestModelFile0238
+
+bc : 1
+
+bn : TestArmatureBoneName0238
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0001, 0.0001)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0239.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0239
+
+mdllib : TestModelFile0239
+
+bc : 1
+
+bn : TestArmatureBoneName0239
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 2.0, 2.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0240.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0240
+
+mdllib : TestModelFile0240
+
+bc : 1
+
+bn : TestArmatureBoneName0240
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 3.0, 3.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0241.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0241
+
+mdllib : TestModelFile0241
+
+bc : 1
+
+bn : TestArmatureBoneName0241
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 10.0, 10.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0242.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0242
+
+mdllib : TestModelFile0242
+
+bc : 1
+
+bn : TestArmatureBoneName0242
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 20.0, 20.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0243.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0243
+
+mdllib : TestModelFile0243
+
+bc : 1
+
+bn : TestArmatureBoneName0243
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 30.0, 30.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0244.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0244
+
+mdllib : TestModelFile0244
+
+bc : 1
+
+bn : TestArmatureBoneName0244
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 100.0, 100.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0245.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0245
+
+mdllib : TestModelFile0245
+
+bc : 1
+
+bn : TestArmatureBoneName0245
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 200.0, 200.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0246.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0246
+
+mdllib : TestModelFile0246
+
+bc : 1
+
+bn : TestArmatureBoneName0246
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 300.0, 300.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0247.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0247
+
+mdllib : TestModelFile0247
+
+bc : 1
+
+bn : TestArmatureBoneName0247
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 10000.0, 10000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0248.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0248
+
+mdllib : TestModelFile0248
+
+bc : 1
+
+bn : TestArmatureBoneName0248
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 20000.0, 20000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0249.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0249
+
+mdllib : TestModelFile0249
+
+bc : 1
+
+bn : TestArmatureBoneName0249
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 30000.0, 30000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0250.wya
+
+------------------------------------------------------------------------------...
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 1.115s
+
+OK
+
+an : TestArmatureObject0250
+
+mdllib : TestModelFile0250
+
+bc : 1
+
+bn : TestArmatureBoneName0250
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 1000000.0, 1000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0251.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0251
+
+mdllib : TestModelFile0251
+
+bc : 1
+
+bn : TestArmatureBoneName0251
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 2000000.0, 2000000.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_wyarmature\TestFile0252.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0252
+
+mdllib : TestModelFile0252
+
+bc : 1
+
+bn : TestArmatureBoneName0252
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 3000000.0, 3000000.0)
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

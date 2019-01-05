@@ -1,0 +1,1 @@
+runas /noprofile /user:%computername%\%username% "cmd /k cd %cd% && install_win10_x64.bat"

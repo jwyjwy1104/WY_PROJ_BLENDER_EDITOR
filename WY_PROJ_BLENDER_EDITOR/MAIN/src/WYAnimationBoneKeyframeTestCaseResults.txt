@@ -1,0 +1,2758 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe ___init__ function                                              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1lY88EJYqNgdzirkx9cfzeaysJ4ZWumaSIWE0E0e_BIs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.039s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe __eq__ function                                                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tNZG78cmKOiKCQE-df0aCL8dNS6DBtX07BDDMJ2R9io/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.266s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe __str__ function                                                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tNZG78cmKOiKCQE-df0aCL8dNS6DBtX07BDDMJ2R9io/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.297s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_data function                      ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/13FiUD2X_WNqwIJlq5f9P5-4vHosPTJUW8pG5o5ppbg0/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.278s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_head_data function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FoJPlWFqnWv7L2-sxPdXfPKGEAiZFpP85tmhDWZDgG8/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_head_data\WYAnimationBoneKeyframeTestCases_init_head_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_head_data\WYAnimationBoneKeyframeTestCases_init_head_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.367s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_tail_data function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1h3LS8Dghx-eUTjPC9saGU3I2eXAEkqk_eIMLYYOgJFU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_tail_data\WYAnimationBoneKeyframeTestCases_init_tail_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_tail_data\WYAnimationBoneKeyframeTestCases_init_tail_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.150s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_location_data function             ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1e1x9o9nYw0Ac41DDSR9yjOvBgXh5GBg23E438ejPA9Y/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_location_data\WYAnimationBoneKeyframeTestCases_init_location_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_location_data\WYAnimationBoneKeyframeTestCases_init_location_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.194s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_rotation_quaternion_data function  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1oyPPIkextjbhlZ52olWHGATza8kBWKk-aLK-ELLRGVk/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+........................................................................
+
+----------------------------------------------------------------------
+
+Ran 72 tests in 0.049s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_abh_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FsYYLSpOPcMn_jN7qhz76nvLHxKVcTfN_b5Sf8ih8Jg/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abh_str\WYAnimationBoneKeyframeTestCases_get_abh_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abh_str\WYAnimationBoneKeyframeTestCases_get_abh_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.182s
+
+OK
+
+abh 1.0 0.0 0.0
+
+abh 0.1 0.0 0.0
+
+abh 0.001 0.0 0.0
+
+abh 0.0001 0.0 0.0
+
+abh 2.0 0.0 0.0
+
+abh 3.0 0.0 0.0
+
+abh 10.0 0.0 0.0
+
+abh 20.0 0.0 0.0
+
+abh 30.0 0.0 0.0
+
+abh 100.0 0.0 0.0
+
+abh 200.0 0.0 0.0
+
+abh 300.0 0.0 0.0
+
+abh 10000.0 0.0 0.0
+
+abh 20000.0 0.0 0.0
+
+abh 30000.0 0.0 0.0
+
+abh 1000000.0 0.0 0.0
+
+abh 2000000.0 0.0 0.0
+
+abh 3000000.0 0.0 0.0
+
+abh -1.0 0.0 0.0
+
+abh -0.1 0.0 0.0
+
+abh -0.001 0.0 0.0
+
+abh -0.0001 0.0 0.0
+
+abh -2.0 0.0 0.0
+
+abh -3.0 0.0 0.0
+
+abh -10.0 0.0 0.0
+
+abh -20.0 0.0 0.0
+
+abh -30.0 0.0 0.0
+
+abh -100.0 0.0 0.0
+
+abh -200.0 0.0 0.0
+
+abh -300.0 0.0 0.0
+
+abh -10000.0 0.0 0.0
+
+abh -20000.0 0.0 0.0
+
+abh -30000.0 0.0 0.0
+
+abh -1000000.0 0.0 0.0
+
+abh -2000000.0 0.0 0.0
+
+abh -3000000.0 0.0 0.0
+
+abh 0.0 1.0 0.0
+
+abh 0.0 0.1 0.0
+
+abh 0.0 0.001 0.0
+
+abh 0.0 0.0001 0.0
+
+abh 0.0 2.0 0.0
+
+abh 0.0 3.0 0.0
+
+abh 0.0 10.0 0.0
+
+abh 0.0 20.0 0.0
+
+abh 0.0 30.0 0.0
+
+abh 0.0 100.0 0.0
+
+abh 0.0 200.0 0.0
+
+abh 0.0 300.0 0.0
+
+abh 0.0 10000.0 0.0
+
+abh 0.0 20000.0 0.0
+
+abh 0.0 30000.0 0.0
+
+abh 0.0 1000000.0 0.0
+
+abh 0.0 2000000.0 0.0
+
+abh 0.0 3000000.0 0.0
+
+abh 0.0 -1.0 0.0
+
+abh 0.0 -0.1 0.0
+
+abh 0.0 -0.001 0.0
+
+abh 0.0 -0.0001 0.0
+
+abh 0.0 -2.0 0.0
+
+abh 0.0 -3.0 0.0
+
+abh 0.0 -10.0 0.0
+
+abh 0.0 -20.0 0.0
+
+abh 0.0 -30.0 0.0
+
+abh 0.0 -100.0 0.0
+
+abh 0.0 -200.0 0.0
+
+abh 0.0 -300.0 0.0
+
+abh 0.0 -10000.0 0.0
+
+abh 0.0 -20000.0 0.0
+
+abh 0.0 -30000.0 0.0
+
+abh 0.0 -1000000.0 0.0
+
+abh 0.0 -2000000.0 0.0
+
+abh 0.0 -3000000.0 0.0
+
+abh 0.0 0.0 1.0
+
+abh 0.0 0.0 0.1
+
+abh 0.0 0.0 0.001
+
+abh 0.0 0.0 0.0001
+
+abh 0.0 0.0 2.0
+
+abh 0.0 0.0 3.0
+
+abh 0.0 0.0 10.0
+
+abh 0.0 0.0 20.0
+
+abh 0.0 0.0 30.0
+
+abh 0.0 0.0 100.0
+
+abh 0.0 0.0 200.0
+
+abh 0.0 0.0 300.0
+
+abh 0.0 0.0 10000.0
+
+abh 0.0 0.0 20000.0
+
+abh 0.0 0.0 30000.0
+
+abh 0.0 0.0 1000000.0
+
+abh 0.0 0.0 2000000.0
+
+abh 0.0 0.0 3000000.0
+
+abh 0.0 0.0 -1.0
+
+abh 0.0 0.0 -0.1
+
+abh 0.0 0.0 -0.001
+
+abh 0.0 0.0 -0.0001
+
+abh 0.0 0.0 -2.0
+
+abh 0.0 0.0 -3.0
+
+abh 0.0 0.0 -10.0
+
+abh 0.0 0.0 -20.0
+
+abh 0.0 0.0 -30.0
+
+abh 0.0 0.0 -100.0
+
+abh 0.0 0.0 -200.0
+
+abh 0.0 0.0 -300.0
+
+abh 0.0 0.0 -10000.0
+
+abh 0.0 0.0 -20000.0
+
+abh 0.0 0.0 -30000.0
+
+abh 0.0 0.0 -1000000.0
+
+abh 0.0 0.0 -2000000.0
+
+abh 0.0 0.0 -3000000.0
+
+abh 1.0 1.0 0.0
+
+abh 0.1 0.1 0.0
+
+abh 0.001 0.001 0.0
+
+abh 0.0001 0.0001 0.0
+
+abh 2.0 2.0 0.0
+
+abh 3.0 3.0 0.0
+
+abh 10.0 10.0 0.0
+
+abh 20.0 20.0 0.0
+
+abh 30.0 30.0 0.0
+
+abh 100.0 100.0 0.0
+
+abh 200.0 200.0 0.0
+
+abh 300.0 300.0 0.0
+
+abh 10000.0 10000.0 0.0
+
+abh 20000.0 20000.0 0.0
+
+abh 30000.0 30000.0 0.0
+
+abh 1000000.0 1000000.0 0.0
+
+abh 2000000.0 2000000.0 0.0
+
+abh 3000000.0 3000000.0 0.0
+
+abh -1.0 -1.0 0.0
+
+abh -0.1 -0.1 0.0
+
+abh -0.001 -0.001 0.0
+
+abh -0.0001 -0.0001 0.0
+
+abh -2.0 -2.0 0.0
+
+abh -3.0 -3.0 0.0
+
+abh -10.0 -10.0 0.0
+
+abh -20.0 -20.0 0.0
+
+abh -30.0 -30.0 0.0
+
+abh -100.0 -100.0 0.0
+
+abh -200.0 -200.0 0.0
+
+abh -300.0 -300.0 0.0
+
+abh -10000.0 -10000.0 0.0
+
+abh -20000.0 -20000.0 0.0
+
+abh -30000.0 -30000.0 0.0
+
+abh -1000000.0 -1000000.0 0.0
+
+abh -2000000.0 -2000000.0 0.0
+
+abh -3000000.0 -3000000.0 0.0
+
+abh 1.0 0.0 1.0
+
+abh 0.1 0.0 0.1
+
+abh 0.001 0.0 0.001
+
+abh 0.0001 0.0 0.0001
+
+abh 2.0 0.0 2.0
+
+abh 3.0 0.0 3.0
+
+abh 10.0 0.0 10.0
+
+abh 20.0 0.0 20.0
+
+abh 30.0 0.0 30.0
+
+abh 100.0 0.0 100.0
+
+abh 200.0 0.0 200.0
+
+abh 300.0 0.0 300.0
+
+abh 10000.0 0.0 10000.0
+
+abh 20000.0 0.0 20000.0
+
+abh 30000.0 0.0 30000.0
+
+abh 1000000.0 0.0 1000000.0
+
+abh 2000000.0 0.0 2000000.0
+
+abh 3000000.0 0.0 3000000.0
+
+abh -1.0 0.0 -1.0
+
+abh -0.1 0.0 -0.1
+
+abh -0.001 0.0 -0.001
+
+abh -0.0001 0.0 -0.0001
+
+abh -2.0 0.0 -2.0
+
+abh -3.0 0.0 -3.0
+
+abh -10.0 0.0 -10.0
+
+abh -20.0 0.0 -20.0
+
+abh -30.0 0.0 -30.0
+
+abh -100.0 0.0 -100.0
+
+abh -200.0 0.0 -200.0
+
+abh -300.0 0.0 -300.0
+
+abh -10000.0 0.0 -10000.0
+
+abh -20000.0 0.0 -20000.0
+
+abh -30000.0 0.0 -30000.0
+
+abh -1000000.0 0.0 -1000000.0
+
+abh -2000000.0 0.0 -2000000.0
+
+abh -3000000.0 0.0 -3000000.0
+
+abh 0.0 1.0 1.0
+
+abh 0.0 0.1 0.1
+
+abh 0.0 0.01 0.001
+
+abh 0.0 0.0001 0.0001
+
+abh 0.0 2.0 2.0
+
+abh 0.0 3.0 3.0
+
+abh 0.0 10.0 10.0
+
+abh 0.0 20.0 20.0
+
+abh 0.0 30.0 30.0
+
+abh 0.0 100.0 100.0
+
+abh 0.0 200.0 200.0
+
+abh 0.0 300.0 300.0
+
+abh 0.0 10000.0 10000.0
+
+abh 0.0 20000.0 20000.0
+
+abh 0.0 30000.0 30000.0
+
+abh 0.0 1000000.0 1000000.0
+
+abh 0.0 2000000.0 2000000.0
+
+abh 0.0 3000000.0 3000000.0
+
+abh 0.0 -1.0 -1.0
+
+abh 0.0 -0.1 -0.1
+
+abh 0.0 -0.001 -0.001
+
+abh 0.0 -0.0001 -0.0001
+
+abh 0.0 -2.0 -2.0
+
+abh 0.0 -3.0 -3.0
+
+abh 0.0 -10.0 -10.0
+
+abh 0.0 -20.0 -20.0
+
+abh 0.0 -30.0 -30.0
+
+abh 0.0 -100.0 -100.0
+
+abh 0.0 -200.0 -200.0
+
+abh 0.0 -300.0 -300.0
+
+abh 0.0 -10000.0 -10000.0
+
+abh 0.0 -20000.0 -20000.0
+
+abh 0.0 -30000.0 -30000.0
+
+abh 0.0 -1000000.0 -1000000.0
+
+abh 0.0 -2000000.0 -2000000.0
+
+abh 0.0 -3000000.0 -3000000.0
+
+abh 1.0 1.0 1.0
+
+abh 0.1 0.1 0.1
+
+abh 0.001 0.01 0.001
+
+abh 0.0001 0.0001 0.0001
+
+abh 2.0 2.0 2.0
+
+abh 3.0 3.0 3.0
+
+abh 10.0 10.0 10.0
+
+abh 20.0 20.0 20.0
+
+abh 30.0 30.0 30.0
+
+abh 100.0 100.0 100.0
+
+abh 200.0 200.0 200.0
+
+abh 300.0 300.0 300.0
+
+abh 10000.0 10000.0 10000.0
+
+abh 20000.0 20000.0 20000.0
+
+abh 30000.0 30000.0 30000.0
+
+abh 1000000.0 1000000.0 1000000.0
+
+abh 2000000.0 2000000.0 2000000.0
+
+abh 3000000.0 3000000.0 3000000.0
+
+abh -1.0 -1.0 -1.0
+
+abh -0.1 -0.1 -0.1
+
+abh -0.001 -0.001 -0.001
+
+abh -0.0001 -0.0001 -0.0001
+
+abh -2.0 -2.0 -2.0
+
+abh -3.0 -3.0 -3.0
+
+abh -10.0 -10.0 -10.0
+
+abh -20.0 -20.0 -20.0
+
+abh -30.0 -30.0 -30.0
+
+abh -100.0 -100.0 -100.0
+
+abh -200.0 -200.0 -200.0
+
+abh -300.0 -300.0 -300.0
+
+abh -10000.0 -10000.0 -10000.0
+
+abh -20000.0 -20000.0 -20000.0
+
+abh -30000.0 -30000.0 -30000.0
+
+abh -1000000.0 -1000000.0 -1000000.0
+
+abh -2000000.0 -2000000.0 -2000000.0
+
+abh -3000000.0 -3000000.0 -3000000.0
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_abt_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1aiOzVXnFeQ8e06mTdIQlfp92xaboGUGsfytY5uEhC1s/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abt_str\WYAnimationBoneKeyframeTestCases_get_abt_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abt_str\WYAnimationBoneKeyframeTestCases_get_abt_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.178s
+
+OK
+
+abt 1.0 0.0 0.0
+
+abt 0.1 0.0 0.0
+
+abt 0.001 0.0 0.0
+
+abt 0.0001 0.0 0.0
+
+abt 2.0 0.0 0.0
+
+abt 3.0 0.0 0.0
+
+abt 10.0 0.0 0.0
+
+abt 20.0 0.0 0.0
+
+abt 30.0 0.0 0.0
+
+abt 100.0 0.0 0.0
+
+abt 200.0 0.0 0.0
+
+abt 300.0 0.0 0.0
+
+abt 10000.0 0.0 0.0
+
+abt 20000.0 0.0 0.0
+
+abt 30000.0 0.0 0.0
+
+abt 1000000.0 0.0 0.0
+
+abt 2000000.0 0.0 0.0
+
+abt 3000000.0 0.0 0.0
+
+abt -1.0 0.0 0.0
+
+abt -0.1 0.0 0.0
+
+abt -0.001 0.0 0.0
+
+abt -0.0001 0.0 0.0
+
+abt -2.0 0.0 0.0
+
+abt -3.0 0.0 0.0
+
+abt -10.0 0.0 0.0
+
+abt -20.0 0.0 0.0
+
+abt -30.0 0.0 0.0
+
+abt -100.0 0.0 0.0
+
+abt -200.0 0.0 0.0
+
+abt -300.0 0.0 0.0
+
+abt -10000.0 0.0 0.0
+
+abt -20000.0 0.0 0.0
+
+abt -30000.0 0.0 0.0
+
+abt -1000000.0 0.0 0.0
+
+abt -2000000.0 0.0 0.0
+
+abt -3000000.0 0.0 0.0
+
+abt 0.0 1.0 0.0
+
+abt 0.0 0.1 0.0
+
+abt 0.0 0.001 0.0
+
+abt 0.0 0.0001 0.0
+
+abt 0.0 2.0 0.0
+
+abt 0.0 3.0 0.0
+
+abt 0.0 10.0 0.0
+
+abt 0.0 20.0 0.0
+
+abt 0.0 30.0 0.0
+
+abt 0.0 100.0 0.0
+
+abt 0.0 200.0 0.0
+
+abt 0.0 300.0 0.0
+
+abt 0.0 10000.0 0.0
+
+abt 0.0 20000.0 0.0
+
+abt 0.0 30000.0 0.0
+
+abt 0.0 1000000.0 0.0
+
+abt 0.0 2000000.0 0.0
+
+abt 0.0 3000000.0 0.0
+
+abt 0.0 -1.0 0.0
+
+abt 0.0 -0.1 0.0
+
+abt 0.0 -0.001 0.0
+
+abt 0.0 -0.0001 0.0
+
+abt 0.0 -2.0 0.0
+
+abt 0.0 -3.0 0.0
+
+abt 0.0 -10.0 0.0
+
+abt 0.0 -20.0 0.0
+
+abt 0.0 -30.0 0.0
+
+abt 0.0 -100.0 0.0
+
+abt 0.0 -200.0 0.0
+
+abt 0.0 -300.0 0.0
+
+abt 0.0 -10000.0 0.0
+
+abt 0.0 -20000.0 0.0
+
+abt 0.0 -30000.0 0.0
+
+abt 0.0 -1000000.0 0.0
+
+abt 0.0 -2000000.0 0.0
+
+abt 0.0 -3000000.0 0.0
+
+abt 0.0 0.0 1.0
+
+abt 0.0 0.0 0.1
+
+abt 0.0 0.0 0.001
+
+abt 0.0 0.0 0.0001
+
+abt 0.0 0.0 2.0
+
+abt 0.0 0.0 3.0
+
+abt 0.0 0.0 10.0
+
+abt 0.0 0.0 20.0
+
+abt 0.0 0.0 30.0
+
+abt 0.0 0.0 100.0
+
+abt 0.0 0.0 200.0
+
+abt 0.0 0.0 300.0
+
+abt 0.0 0.0 10000.0
+
+abt 0.0 0.0 20000.0
+
+abt 0.0 0.0 30000.0
+
+abt 0.0 0.0 1000000.0
+
+abt 0.0 0.0 2000000.0
+
+abt 0.0 0.0 3000000.0
+
+abt 0.0 0.0 -1.0
+
+abt 0.0 0.0 -0.1
+
+abt 0.0 0.0 -0.001
+
+abt 0.0 0.0 -0.0001
+
+abt 0.0 0.0 -2.0
+
+abt 0.0 0.0 -3.0
+
+abt 0.0 0.0 -10.0
+
+abt 0.0 0.0 -20.0
+
+abt 0.0 0.0 -30.0
+
+abt 0.0 0.0 -100.0
+
+abt 0.0 0.0 -200.0
+
+abt 0.0 0.0 -300.0
+
+abt 0.0 0.0 -10000.0
+
+abt 0.0 0.0 -20000.0
+
+abt 0.0 0.0 -30000.0
+
+abt 0.0 0.0 -1000000.0
+
+abt 0.0 0.0 -2000000.0
+
+abt 0.0 0.0 -3000000.0
+
+abt 1.0 1.0 0.0
+
+abt 0.1 0.1 0.0
+
+abt 0.001 0.001 0.0
+
+abt 0.0001 0.0001 0.0
+
+abt 2.0 2.0 0.0
+
+abt 3.0 3.0 0.0
+
+abt 10.0 10.0 0.0
+
+abt 20.0 20.0 0.0
+
+abt 30.0 30.0 0.0
+
+abt 100.0 100.0 0.0
+
+abt 200.0 200.0 0.0
+
+abt 300.0 300.0 0.0
+
+abt 10000.0 10000.0 0.0
+
+abt 20000.0 20000.0 0.0
+
+abt 30000.0 30000.0 0.0
+
+abt 1000000.0 1000000.0 0.0
+
+abt 2000000.0 2000000.0 0.0
+
+abt 3000000.0 3000000.0 0.0
+
+abt -1.0 -1.0 0.0
+
+abt -0.1 -0.1 0.0
+
+abt -0.001 -0.001 0.0
+
+abt -0.0001 -0.0001 0.0
+
+abt -2.0 -2.0 0.0
+
+abt -3.0 -3.0 0.0
+
+abt -10.0 -10.0 0.0
+
+abt -20.0 -20.0 0.0
+
+abt -30.0 -30.0 0.0
+
+abt -100.0 -100.0 0.0
+
+abt -200.0 -200.0 0.0
+
+abt -300.0 -300.0 0.0
+
+abt -10000.0 -10000.0 0.0
+
+abt -20000.0 -20000.0 0.0
+
+abt -30000.0 -30000.0 0.0
+
+abt -1000000.0 -1000000.0 0.0
+
+abt -2000000.0 -2000000.0 0.0
+
+abt -3000000.0 -3000000.0 0.0
+
+abt 1.0 0.0 1.0
+
+abt 0.1 0.0 0.1
+
+abt 0.001 0.0 0.001
+
+abt 0.0001 0.0 0.0001
+
+abt 2.0 0.0 2.0
+
+abt 3.0 0.0 3.0
+
+abt 10.0 0.0 10.0
+
+abt 20.0 0.0 20.0
+
+abt 30.0 0.0 30.0
+
+abt 100.0 0.0 100.0
+
+abt 200.0 0.0 200.0
+
+abt 300.0 0.0 300.0
+
+abt 10000.0 0.0 10000.0
+
+abt 20000.0 0.0 20000.0
+
+abt 30000.0 0.0 30000.0
+
+abt 1000000.0 0.0 1000000.0
+
+abt 2000000.0 0.0 2000000.0
+
+abt 3000000.0 0.0 3000000.0
+
+abt -1.0 0.0 -1.0
+
+abt -0.1 0.0 -0.1
+
+abt -0.001 0.0 -0.001
+
+abt -0.0001 0.0 -0.0001
+
+abt -2.0 0.0 -2.0
+
+abt -3.0 0.0 -3.0
+
+abt -10.0 0.0 -10.0
+
+abt -20.0 0.0 -20.0
+
+abt -30.0 0.0 -30.0
+
+abt -100.0 0.0 -100.0
+
+abt -200.0 0.0 -200.0
+
+abt -300.0 0.0 -300.0
+
+abt -10000.0 0.0 -10000.0
+
+abt -20000.0 0.0 -20000.0
+
+abt -30000.0 0.0 -30000.0
+
+abt -1000000.0 0.0 -1000000.0
+
+abt -2000000.0 0.0 -2000000.0
+
+abt -3000000.0 0.0 -3000000.0
+
+abt 0.0 1.0 1.0
+
+abt 0.0 0.1 0.1
+
+abt 0.0 0.01 0.001
+
+abt 0.0 0.0001 0.0001
+
+abt 0.0 2.0 2.0
+
+abt 0.0 3.0 3.0
+
+abt 0.0 10.0 10.0
+
+abt 0.0 20.0 20.0
+
+abt 0.0 30.0 30.0
+
+abt 0.0 100.0 100.0
+
+abt 0.0 200.0 200.0
+
+abt 0.0 300.0 300.0
+
+abt 0.0 10000.0 10000.0
+
+abt 0.0 20000.0 20000.0
+
+abt 0.0 30000.0 30000.0
+
+abt 0.0 1000000.0 1000000.0
+
+abt 0.0 2000000.0 2000000.0
+
+abt 0.0 3000000.0 3000000.0
+
+abt 0.0 -1.0 -1.0
+
+abt 0.0 -0.1 -0.1
+
+abt 0.0 -0.001 -0.001
+
+abt 0.0 -0.0001 -0.0001
+
+abt 0.0 -2.0 -2.0
+
+abt 0.0 -3.0 -3.0
+
+abt 0.0 -10.0 -10.0
+
+abt 0.0 -20.0 -20.0
+
+abt 0.0 -30.0 -30.0
+
+abt 0.0 -100.0 -100.0
+
+abt 0.0 -200.0 -200.0
+
+abt 0.0 -300.0 -300.0
+
+abt 0.0 -10000.0 -10000.0
+
+abt 0.0 -20000.0 -20000.0
+
+abt 0.0 -30000.0 -30000.0
+
+abt 0.0 -1000000.0 -1000000.0
+
+abt 0.0 -2000000.0 -2000000.0
+
+abt 0.0 -3000000.0 -3000000.0
+
+abt 1.0 1.0 1.0
+
+abt 0.1 0.1 0.1
+
+abt 0.001 0.01 0.001
+
+abt 0.0001 0.0001 0.0001
+
+abt 2.0 2.0 2.0
+
+abt 3.0 3.0 3.0
+
+abt 10.0 10.0 10.0
+
+abt 20.0 20.0 20.0
+
+abt 30.0 30.0 30.0
+
+abt 100.0 100.0 100.0
+
+abt 200.0 200.0 200.0
+
+abt 300.0 300.0 300.0
+
+abt 10000.0 10000.0 10000.0
+
+abt 20000.0 20000.0 20000.0
+
+abt 30000.0 30000.0 30000.0
+
+abt 1000000.0 1000000.0 1000000.0
+
+abt 2000000.0 2000000.0 2000000.0
+
+abt 3000000.0 3000000.0 3000000.0
+
+abt -1.0 -1.0 -1.0
+
+abt -0.1 -0.1 -0.1
+
+abt -0.001 -0.001 -0.001
+
+abt -0.0001 -0.0001 -0.0001
+
+abt -2.0 -2.0 -2.0
+
+abt -3.0 -3.0 -3.0
+
+abt -10.0 -10.0 -10.0
+
+abt -20.0 -20.0 -20.0
+
+abt -30.0 -30.0 -30.0
+
+abt -100.0 -100.0 -100.0
+
+abt -200.0 -200.0 -200.0
+
+abt -300.0 -300.0 -300.0
+
+abt -10000.0 -10000.0 -10000.0
+
+abt -20000.0 -20000.0 -20000.0
+
+abt -30000.0 -30000.0 -30000.0
+
+abt -1000000.0 -1000000.0 -1000000.0
+
+abt -2000000.0 -2000000.0 -2000000.0
+
+abt -3000000.0 -3000000.0 -3000000.0
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_loc_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1QD4-Ivs-x2rJ_GlhzRxHgdPk_IZI1SwBo9OvsW3t-PA/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_loc_str\WYAnimationBoneKeyframeTestCases_get_loc_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_loc_str\WYAnimationBoneKeyframeTestCases_get_loc_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.228s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_rotq_str function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1lBCv0yAI0xVP9c-2a4kPSNdKeglo1AWuj2NzeroWaks/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+........................................................................
+
+----------------------------------------------------------------------
+
+Ran 72 tests in 0.061s
+
+OK
+
+rotq 0.0 1.0 0.0 0.0
+
+rotq 0.0 0.1 0.0 0.0
+
+rotq 0.0 0.001 0.0 0.0
+
+rotq 0.0 0.0001 0.0 0.0
+
+rotq 0.0 2.0 0.0 0.0
+
+rotq 0.0 3.0 0.0 0.0
+
+rotq 0.0 10.0 0.0 0.0
+
+rotq 0.0 20.0 0.0 0.0
+
+rotq 0.0 30.0 0.0 0.0
+
+rotq 0.0 100.0 0.0 0.0
+
+rotq 0.0 200.0 0.0 0.0
+
+rotq 0.0 300.0 0.0 0.0
+
+rotq 0.0 10000.0 0.0 0.0
+
+rotq 0.0 20000.0 0.0 0.0
+
+rotq 0.0 30000.0 0.0 0.0
+
+rotq 0.0 1000000.0 0.0 0.0
+
+rotq 0.0 2000000.0 0.0 0.0
+
+rotq 0.0 3000000.0 0.0 0.0
+
+rotq 0.0 -1.0 0.0 0.0
+
+rotq 0.0 -0.1 0.0 0.0
+
+rotq 0.0 -0.001 0.0 0.0
+
+rotq 0.0 -0.0001 0.0 0.0
+
+rotq 0.0 -2.0 0.0 0.0
+
+rotq 0.0 -3.0 0.0 0.0
+
+rotq 0.0 -10.0 0.0 0.0
+
+rotq 0.0 -20.0 0.0 0.0
+
+rotq 0.0 -30.0 0.0 0.0
+
+rotq 0.0 -100.0 0.0 0.0
+
+rotq 0.0 -200.0 0.0 0.0
+
+rotq 0.0 -300.0 0.0 0.0
+
+rotq 0.0 -10000.0 0.0 0.0
+
+rotq 0.0 -20000.0 0.0 0.0
+
+rotq 0.0 -30000.0 0.0 0.0
+
+rotq 0.0 -1000000.0 0.0 0.0
+
+rotq 0.0 -2000000.0 0.0 0.0
+
+rotq 0.0 -3000000.0 0.0 0.0
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_sca_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1r-Pc7p09zhP2PpaZ4qLo_41DEbcKFmyrZaMOsnlf0_g/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_scale_data\WYAnimationBoneKeyframeTestCases_init_scale_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_scale_data\WYAnimationBoneKeyframeTestCases_init_scale_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.208s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe ___init__ function                                              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1lY88EJYqNgdzirkx9cfzeaysJ4ZWumaSIWE0E0e_BIs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.198s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe __eq__ function                                                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tNZG78cmKOiKCQE-df0aCL8dNS6DBtX07BDDMJ2R9io/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.253s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe __str__ function                                                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tNZG78cmKOiKCQE-df0aCL8dNS6DBtX07BDDMJ2R9io/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases___str__\WYAnimationBoneKeyframeTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.387s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_data function                      ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/13FiUD2X_WNqwIJlq5f9P5-4vHosPTJUW8pG5o5ppbg0/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_data\WYAnimationBoneKeyframeTestCases_init_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.283s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_head_data function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FoJPlWFqnWv7L2-sxPdXfPKGEAiZFpP85tmhDWZDgG8/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_head_data\WYAnimationBoneKeyframeTestCases_init_head_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_head_data\WYAnimationBoneKeyframeTestCases_init_head_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.144s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_tail_data function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1h3LS8Dghx-eUTjPC9saGU3I2eXAEkqk_eIMLYYOgJFU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_tail_data\WYAnimationBoneKeyframeTestCases_init_tail_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_tail_data\WYAnimationBoneKeyframeTestCases_init_tail_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.175s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_location_data function             ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1e1x9o9nYw0Ac41DDSR9yjOvBgXh5GBg23E438ejPA9Y/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_location_data\WYAnimationBoneKeyframeTestCases_init_location_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_location_data\WYAnimationBoneKeyframeTestCases_init_location_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.212s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe init_animation_bone_keyframe_rotation_quaternion_data function  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1oyPPIkextjbhlZ52olWHGATza8kBWKk-aLK-ELLRGVk/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+........................................................................
+
+----------------------------------------------------------------------
+
+Ran 72 tests in 0.057s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_abh_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FsYYLSpOPcMn_jN7qhz76nvLHxKVcTfN_b5Sf8ih8Jg/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abh_str\WYAnimationBoneKeyframeTestCases_get_abh_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abh_str\WYAnimationBoneKeyframeTestCases_get_abh_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.221s
+
+OK
+
+abh 1.0 0.0 0.0
+
+abh 0.1 0.0 0.0
+
+abh 0.001 0.0 0.0
+
+abh 0.0001 0.0 0.0
+
+abh 2.0 0.0 0.0
+
+abh 3.0 0.0 0.0
+
+abh 10.0 0.0 0.0
+
+abh 20.0 0.0 0.0
+
+abh 30.0 0.0 0.0
+
+abh 100.0 0.0 0.0
+
+abh 200.0 0.0 0.0
+
+abh 300.0 0.0 0.0
+
+abh 10000.0 0.0 0.0
+
+abh 20000.0 0.0 0.0
+
+abh 30000.0 0.0 0.0
+
+abh 1000000.0 0.0 0.0
+
+abh 2000000.0 0.0 0.0
+
+abh 3000000.0 0.0 0.0
+
+abh -1.0 0.0 0.0
+
+abh -0.1 0.0 0.0
+
+abh -0.001 0.0 0.0
+
+abh -0.0001 0.0 0.0
+
+abh -2.0 0.0 0.0
+
+abh -3.0 0.0 0.0
+
+abh -10.0 0.0 0.0
+
+abh -20.0 0.0 0.0
+
+abh -30.0 0.0 0.0
+
+abh -100.0 0.0 0.0
+
+abh -200.0 0.0 0.0
+
+abh -300.0 0.0 0.0
+
+abh -10000.0 0.0 0.0
+
+abh -20000.0 0.0 0.0
+
+abh -30000.0 0.0 0.0
+
+abh -1000000.0 0.0 0.0
+
+abh -2000000.0 0.0 0.0
+
+abh -3000000.0 0.0 0.0
+
+abh 0.0 1.0 0.0
+
+abh 0.0 0.1 0.0
+
+abh 0.0 0.001 0.0
+
+abh 0.0 0.0001 0.0
+
+abh 0.0 2.0 0.0
+
+abh 0.0 3.0 0.0
+
+abh 0.0 10.0 0.0
+
+abh 0.0 20.0 0.0
+
+abh 0.0 30.0 0.0
+
+abh 0.0 100.0 0.0
+
+abh 0.0 200.0 0.0
+
+abh 0.0 300.0 0.0
+
+abh 0.0 10000.0 0.0
+
+abh 0.0 20000.0 0.0
+
+abh 0.0 30000.0 0.0
+
+abh 0.0 1000000.0 0.0
+
+abh 0.0 2000000.0 0.0
+
+abh 0.0 3000000.0 0.0
+
+abh 0.0 -1.0 0.0
+
+abh 0.0 -0.1 0.0
+
+abh 0.0 -0.001 0.0
+
+abh 0.0 -0.0001 0.0
+
+abh 0.0 -2.0 0.0
+
+abh 0.0 -3.0 0.0
+
+abh 0.0 -10.0 0.0
+
+abh 0.0 -20.0 0.0
+
+abh 0.0 -30.0 0.0
+
+abh 0.0 -100.0 0.0
+
+abh 0.0 -200.0 0.0
+
+abh 0.0 -300.0 0.0
+
+abh 0.0 -10000.0 0.0
+
+abh 0.0 -20000.0 0.0
+
+abh 0.0 -30000.0 0.0
+
+abh 0.0 -1000000.0 0.0
+
+abh 0.0 -2000000.0 0.0
+
+abh 0.0 -3000000.0 0.0
+
+abh 0.0 0.0 1.0
+
+abh 0.0 0.0 0.1
+
+abh 0.0 0.0 0.001
+
+abh 0.0 0.0 0.0001
+
+abh 0.0 0.0 2.0
+
+abh 0.0 0.0 3.0
+
+abh 0.0 0.0 10.0
+
+abh 0.0 0.0 20.0
+
+abh 0.0 0.0 30.0
+
+abh 0.0 0.0 100.0
+
+abh 0.0 0.0 200.0
+
+abh 0.0 0.0 300.0
+
+abh 0.0 0.0 10000.0
+
+abh 0.0 0.0 20000.0
+
+abh 0.0 0.0 30000.0
+
+abh 0.0 0.0 1000000.0
+
+abh 0.0 0.0 2000000.0
+
+abh 0.0 0.0 3000000.0
+
+abh 0.0 0.0 -1.0
+
+abh 0.0 0.0 -0.1
+
+abh 0.0 0.0 -0.001
+
+abh 0.0 0.0 -0.0001
+
+abh 0.0 0.0 -2.0
+
+abh 0.0 0.0 -3.0
+
+abh 0.0 0.0 -10.0
+
+abh 0.0 0.0 -20.0
+
+abh 0.0 0.0 -30.0
+
+abh 0.0 0.0 -100.0
+
+abh 0.0 0.0 -200.0
+
+abh 0.0 0.0 -300.0
+
+abh 0.0 0.0 -10000.0
+
+abh 0.0 0.0 -20000.0
+
+abh 0.0 0.0 -30000.0
+
+abh 0.0 0.0 -1000000.0
+
+abh 0.0 0.0 -2000000.0
+
+abh 0.0 0.0 -3000000.0
+
+abh 1.0 1.0 0.0
+
+abh 0.1 0.1 0.0
+
+abh 0.001 0.001 0.0
+
+abh 0.0001 0.0001 0.0
+
+abh 2.0 2.0 0.0
+
+abh 3.0 3.0 0.0
+
+abh 10.0 10.0 0.0
+
+abh 20.0 20.0 0.0
+
+abh 30.0 30.0 0.0
+
+abh 100.0 100.0 0.0
+
+abh 200.0 200.0 0.0
+
+abh 300.0 300.0 0.0
+
+abh 10000.0 10000.0 0.0
+
+abh 20000.0 20000.0 0.0
+
+abh 30000.0 30000.0 0.0
+
+abh 1000000.0 1000000.0 0.0
+
+abh 2000000.0 2000000.0 0.0
+
+abh 3000000.0 3000000.0 0.0
+
+abh -1.0 -1.0 0.0
+
+abh -0.1 -0.1 0.0
+
+abh -0.001 -0.001 0.0
+
+abh -0.0001 -0.0001 0.0
+
+abh -2.0 -2.0 0.0
+
+abh -3.0 -3.0 0.0
+
+abh -10.0 -10.0 0.0
+
+abh -20.0 -20.0 0.0
+
+abh -30.0 -30.0 0.0
+
+abh -100.0 -100.0 0.0
+
+abh -200.0 -200.0 0.0
+
+abh -300.0 -300.0 0.0
+
+abh -10000.0 -10000.0 0.0
+
+abh -20000.0 -20000.0 0.0
+
+abh -30000.0 -30000.0 0.0
+
+abh -1000000.0 -1000000.0 0.0
+
+abh -2000000.0 -2000000.0 0.0
+
+abh -3000000.0 -3000000.0 0.0
+
+abh 1.0 0.0 1.0
+
+abh 0.1 0.0 0.1
+
+abh 0.001 0.0 0.001
+
+abh 0.0001 0.0 0.0001
+
+abh 2.0 0.0 2.0
+
+abh 3.0 0.0 3.0
+
+abh 10.0 0.0 10.0
+
+abh 20.0 0.0 20.0
+
+abh 30.0 0.0 30.0
+
+abh 100.0 0.0 100.0
+
+abh 200.0 0.0 200.0
+
+abh 300.0 0.0 300.0
+
+abh 10000.0 0.0 10000.0
+
+abh 20000.0 0.0 20000.0
+
+abh 30000.0 0.0 30000.0
+
+abh 1000000.0 0.0 1000000.0
+
+abh 2000000.0 0.0 2000000.0
+
+abh 3000000.0 0.0 3000000.0
+
+abh -1.0 0.0 -1.0
+
+abh -0.1 0.0 -0.1
+
+abh -0.001 0.0 -0.001
+
+abh -0.0001 0.0 -0.0001
+
+abh -2.0 0.0 -2.0
+
+abh -3.0 0.0 -3.0
+
+abh -10.0 0.0 -10.0
+
+abh -20.0 0.0 -20.0
+
+abh -30.0 0.0 -30.0
+
+abh -100.0 0.0 -100.0
+
+abh -200.0 0.0 -200.0
+
+abh -300.0 0.0 -300.0
+
+abh -10000.0 0.0 -10000.0
+
+abh -20000.0 0.0 -20000.0
+
+abh -30000.0 0.0 -30000.0
+
+abh -1000000.0 0.0 -1000000.0
+
+abh -2000000.0 0.0 -2000000.0
+
+abh -3000000.0 0.0 -3000000.0
+
+abh 0.0 1.0 1.0
+
+abh 0.0 0.1 0.1
+
+abh 0.0 0.01 0.001
+
+abh 0.0 0.0001 0.0001
+
+abh 0.0 2.0 2.0
+
+abh 0.0 3.0 3.0
+
+abh 0.0 10.0 10.0
+
+abh 0.0 20.0 20.0
+
+abh 0.0 30.0 30.0
+
+abh 0.0 100.0 100.0
+
+abh 0.0 200.0 200.0
+
+abh 0.0 300.0 300.0
+
+abh 0.0 10000.0 10000.0
+
+abh 0.0 20000.0 20000.0
+
+abh 0.0 30000.0 30000.0
+
+abh 0.0 1000000.0 1000000.0
+
+abh 0.0 2000000.0 2000000.0
+
+abh 0.0 3000000.0 3000000.0
+
+abh 0.0 -1.0 -1.0
+
+abh 0.0 -0.1 -0.1
+
+abh 0.0 -0.001 -0.001
+
+abh 0.0 -0.0001 -0.0001
+
+abh 0.0 -2.0 -2.0
+
+abh 0.0 -3.0 -3.0
+
+abh 0.0 -10.0 -10.0
+
+abh 0.0 -20.0 -20.0
+
+abh 0.0 -30.0 -30.0
+
+abh 0.0 -100.0 -100.0
+
+abh 0.0 -200.0 -200.0
+
+abh 0.0 -300.0 -300.0
+
+abh 0.0 -10000.0 -10000.0
+
+abh 0.0 -20000.0 -20000.0
+
+abh 0.0 -30000.0 -30000.0
+
+abh 0.0 -1000000.0 -1000000.0
+
+abh 0.0 -2000000.0 -2000000.0
+
+abh 0.0 -3000000.0 -3000000.0
+
+abh 1.0 1.0 1.0
+
+abh 0.1 0.1 0.1
+
+abh 0.001 0.01 0.001
+
+abh 0.0001 0.0001 0.0001
+
+abh 2.0 2.0 2.0
+
+abh 3.0 3.0 3.0
+
+abh 10.0 10.0 10.0
+
+abh 20.0 20.0 20.0
+
+abh 30.0 30.0 30.0
+
+abh 100.0 100.0 100.0
+
+abh 200.0 200.0 200.0
+
+abh 300.0 300.0 300.0
+
+abh 10000.0 10000.0 10000.0
+
+abh 20000.0 20000.0 20000.0
+
+abh 30000.0 30000.0 30000.0
+
+abh 1000000.0 1000000.0 1000000.0
+
+abh 2000000.0 2000000.0 2000000.0
+
+abh 3000000.0 3000000.0 3000000.0
+
+abh -1.0 -1.0 -1.0
+
+abh -0.1 -0.1 -0.1
+
+abh -0.001 -0.001 -0.001
+
+abh -0.0001 -0.0001 -0.0001
+
+abh -2.0 -2.0 -2.0
+
+abh -3.0 -3.0 -3.0
+
+abh -10.0 -10.0 -10.0
+
+abh -20.0 -20.0 -20.0
+
+abh -30.0 -30.0 -30.0
+
+abh -100.0 -100.0 -100.0
+
+abh -200.0 -200.0 -200.0
+
+abh -300.0 -300.0 -300.0
+
+abh -10000.0 -10000.0 -10000.0
+
+abh -20000.0 -20000.0 -20000.0
+
+abh -30000.0 -30000.0 -30000.0
+
+abh -1000000.0 -1000000.0 -1000000.0
+
+abh -2000000.0 -2000000.0 -2000000.0
+
+abh -3000000.0 -3000000.0 -3000000.0
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_abt_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1aiOzVXnFeQ8e06mTdIQlfp92xaboGUGsfytY5uEhC1s/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abt_str\WYAnimationBoneKeyframeTestCases_get_abt_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_abt_str\WYAnimationBoneKeyframeTestCases_get_abt_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.221s
+
+OK
+
+abt 1.0 0.0 0.0
+
+abt 0.1 0.0 0.0
+
+abt 0.001 0.0 0.0
+
+abt 0.0001 0.0 0.0
+
+abt 2.0 0.0 0.0
+
+abt 3.0 0.0 0.0
+
+abt 10.0 0.0 0.0
+
+abt 20.0 0.0 0.0
+
+abt 30.0 0.0 0.0
+
+abt 100.0 0.0 0.0
+
+abt 200.0 0.0 0.0
+
+abt 300.0 0.0 0.0
+
+abt 10000.0 0.0 0.0
+
+abt 20000.0 0.0 0.0
+
+abt 30000.0 0.0 0.0
+
+abt 1000000.0 0.0 0.0
+
+abt 2000000.0 0.0 0.0
+
+abt 3000000.0 0.0 0.0
+
+abt -1.0 0.0 0.0
+
+abt -0.1 0.0 0.0
+
+abt -0.001 0.0 0.0
+
+abt -0.0001 0.0 0.0
+
+abt -2.0 0.0 0.0
+
+abt -3.0 0.0 0.0
+
+abt -10.0 0.0 0.0
+
+abt -20.0 0.0 0.0
+
+abt -30.0 0.0 0.0
+
+abt -100.0 0.0 0.0
+
+abt -200.0 0.0 0.0
+
+abt -300.0 0.0 0.0
+
+abt -10000.0 0.0 0.0
+
+abt -20000.0 0.0 0.0
+
+abt -30000.0 0.0 0.0
+
+abt -1000000.0 0.0 0.0
+
+abt -2000000.0 0.0 0.0
+
+abt -3000000.0 0.0 0.0
+
+abt 0.0 1.0 0.0
+
+abt 0.0 0.1 0.0
+
+abt 0.0 0.001 0.0
+
+abt 0.0 0.0001 0.0
+
+abt 0.0 2.0 0.0
+
+abt 0.0 3.0 0.0
+
+abt 0.0 10.0 0.0
+
+abt 0.0 20.0 0.0
+
+abt 0.0 30.0 0.0
+
+abt 0.0 100.0 0.0
+
+abt 0.0 200.0 0.0
+
+abt 0.0 300.0 0.0
+
+abt 0.0 10000.0 0.0
+
+abt 0.0 20000.0 0.0
+
+abt 0.0 30000.0 0.0
+
+abt 0.0 1000000.0 0.0
+
+abt 0.0 2000000.0 0.0
+
+abt 0.0 3000000.0 0.0
+
+abt 0.0 -1.0 0.0
+
+abt 0.0 -0.1 0.0
+
+abt 0.0 -0.001 0.0
+
+abt 0.0 -0.0001 0.0
+
+abt 0.0 -2.0 0.0
+
+abt 0.0 -3.0 0.0
+
+abt 0.0 -10.0 0.0
+
+abt 0.0 -20.0 0.0
+
+abt 0.0 -30.0 0.0
+
+abt 0.0 -100.0 0.0
+
+abt 0.0 -200.0 0.0
+
+abt 0.0 -300.0 0.0
+
+abt 0.0 -10000.0 0.0
+
+abt 0.0 -20000.0 0.0
+
+abt 0.0 -30000.0 0.0
+
+abt 0.0 -1000000.0 0.0
+
+abt 0.0 -2000000.0 0.0
+
+abt 0.0 -3000000.0 0.0
+
+abt 0.0 0.0 1.0
+
+abt 0.0 0.0 0.1
+
+abt 0.0 0.0 0.001
+
+abt 0.0 0.0 0.0001
+
+abt 0.0 0.0 2.0
+
+abt 0.0 0.0 3.0
+
+abt 0.0 0.0 10.0
+
+abt 0.0 0.0 20.0
+
+abt 0.0 0.0 30.0
+
+abt 0.0 0.0 100.0
+
+abt 0.0 0.0 200.0
+
+abt 0.0 0.0 300.0
+
+abt 0.0 0.0 10000.0
+
+abt 0.0 0.0 20000.0
+
+abt 0.0 0.0 30000.0
+
+abt 0.0 0.0 1000000.0
+
+abt 0.0 0.0 2000000.0
+
+abt 0.0 0.0 3000000.0
+
+abt 0.0 0.0 -1.0
+
+abt 0.0 0.0 -0.1
+
+abt 0.0 0.0 -0.001
+
+abt 0.0 0.0 -0.0001
+
+abt 0.0 0.0 -2.0
+
+abt 0.0 0.0 -3.0
+
+abt 0.0 0.0 -10.0
+
+abt 0.0 0.0 -20.0
+
+abt 0.0 0.0 -30.0
+
+abt 0.0 0.0 -100.0
+
+abt 0.0 0.0 -200.0
+
+abt 0.0 0.0 -300.0
+
+abt 0.0 0.0 -10000.0
+
+abt 0.0 0.0 -20000.0
+
+abt 0.0 0.0 -30000.0
+
+abt 0.0 0.0 -1000000.0
+
+abt 0.0 0.0 -2000000.0
+
+abt 0.0 0.0 -3000000.0
+
+abt 1.0 1.0 0.0
+
+abt 0.1 0.1 0.0
+
+abt 0.001 0.001 0.0
+
+abt 0.0001 0.0001 0.0
+
+abt 2.0 2.0 0.0
+
+abt 3.0 3.0 0.0
+
+abt 10.0 10.0 0.0
+
+abt 20.0 20.0 0.0
+
+abt 30.0 30.0 0.0
+
+abt 100.0 100.0 0.0
+
+abt 200.0 200.0 0.0
+
+abt 300.0 300.0 0.0
+
+abt 10000.0 10000.0 0.0
+
+abt 20000.0 20000.0 0.0
+
+abt 30000.0 30000.0 0.0
+
+abt 1000000.0 1000000.0 0.0
+
+abt 2000000.0 2000000.0 0.0
+
+abt 3000000.0 3000000.0 0.0
+
+abt -1.0 -1.0 0.0
+
+abt -0.1 -0.1 0.0
+
+abt -0.001 -0.001 0.0
+
+abt -0.0001 -0.0001 0.0
+
+abt -2.0 -2.0 0.0
+
+abt -3.0 -3.0 0.0
+
+abt -10.0 -10.0 0.0
+
+abt -20.0 -20.0 0.0
+
+abt -30.0 -30.0 0.0
+
+abt -100.0 -100.0 0.0
+
+abt -200.0 -200.0 0.0
+
+abt -300.0 -300.0 0.0
+
+abt -10000.0 -10000.0 0.0
+
+abt -20000.0 -20000.0 0.0
+
+abt -30000.0 -30000.0 0.0
+
+abt -1000000.0 -1000000.0 0.0
+
+abt -2000000.0 -2000000.0 0.0
+
+abt -3000000.0 -3000000.0 0.0
+
+abt 1.0 0.0 1.0
+
+abt 0.1 0.0 0.1
+
+abt 0.001 0.0 0.001
+
+abt 0.0001 0.0 0.0001
+
+abt 2.0 0.0 2.0
+
+abt 3.0 0.0 3.0
+
+abt 10.0 0.0 10.0
+
+abt 20.0 0.0 20.0
+
+abt 30.0 0.0 30.0
+
+abt 100.0 0.0 100.0
+
+abt 200.0 0.0 200.0
+
+abt 300.0 0.0 300.0
+
+abt 10000.0 0.0 10000.0
+
+abt 20000.0 0.0 20000.0
+
+abt 30000.0 0.0 30000.0
+
+abt 1000000.0 0.0 1000000.0
+
+abt 2000000.0 0.0 2000000.0
+
+abt 3000000.0 0.0 3000000.0
+
+abt -1.0 0.0 -1.0
+
+abt -0.1 0.0 -0.1
+
+abt -0.001 0.0 -0.001
+
+abt -0.0001 0.0 -0.0001
+
+abt -2.0 0.0 -2.0
+
+abt -3.0 0.0 -3.0
+
+abt -10.0 0.0 -10.0
+
+abt -20.0 0.0 -20.0
+
+abt -30.0 0.0 -30.0
+
+abt -100.0 0.0 -100.0
+
+abt -200.0 0.0 -200.0
+
+abt -300.0 0.0 -300.0
+
+abt -10000.0 0.0 -10000.0
+
+abt -20000.0 0.0 -20000.0
+
+abt -30000.0 0.0 -30000.0
+
+abt -1000000.0 0.0 -1000000.0
+
+abt -2000000.0 0.0 -2000000.0
+
+abt -3000000.0 0.0 -3000000.0
+
+abt 0.0 1.0 1.0
+
+abt 0.0 0.1 0.1
+
+abt 0.0 0.01 0.001
+
+abt 0.0 0.0001 0.0001
+
+abt 0.0 2.0 2.0
+
+abt 0.0 3.0 3.0
+
+abt 0.0 10.0 10.0
+
+abt 0.0 20.0 20.0
+
+abt 0.0 30.0 30.0
+
+abt 0.0 100.0 100.0
+
+abt 0.0 200.0 200.0
+
+abt 0.0 300.0 300.0
+
+abt 0.0 10000.0 10000.0
+
+abt 0.0 20000.0 20000.0
+
+abt 0.0 30000.0 30000.0
+
+abt 0.0 1000000.0 1000000.0
+
+abt 0.0 2000000.0 2000000.0
+
+abt 0.0 3000000.0 3000000.0
+
+abt 0.0 -1.0 -1.0
+
+abt 0.0 -0.1 -0.1
+
+abt 0.0 -0.001 -0.001
+
+abt 0.0 -0.0001 -0.0001
+
+abt 0.0 -2.0 -2.0
+
+abt 0.0 -3.0 -3.0
+
+abt 0.0 -10.0 -10.0
+
+abt 0.0 -20.0 -20.0
+
+abt 0.0 -30.0 -30.0
+
+abt 0.0 -100.0 -100.0
+
+abt 0.0 -200.0 -200.0
+
+abt 0.0 -300.0 -300.0
+
+abt 0.0 -10000.0 -10000.0
+
+abt 0.0 -20000.0 -20000.0
+
+abt 0.0 -30000.0 -30000.0
+
+abt 0.0 -1000000.0 -1000000.0
+
+abt 0.0 -2000000.0 -2000000.0
+
+abt 0.0 -3000000.0 -3000000.0
+
+abt 1.0 1.0 1.0
+
+abt 0.1 0.1 0.1
+
+abt 0.001 0.01 0.001
+
+abt 0.0001 0.0001 0.0001
+
+abt 2.0 2.0 2.0
+
+abt 3.0 3.0 3.0
+
+abt 10.0 10.0 10.0
+
+abt 20.0 20.0 20.0
+
+abt 30.0 30.0 30.0
+
+abt 100.0 100.0 100.0
+
+abt 200.0 200.0 200.0
+
+abt 300.0 300.0 300.0
+
+abt 10000.0 10000.0 10000.0
+
+abt 20000.0 20000.0 20000.0
+
+abt 30000.0 30000.0 30000.0
+
+abt 1000000.0 1000000.0 1000000.0
+
+abt 2000000.0 2000000.0 2000000.0
+
+abt 3000000.0 3000000.0 3000000.0
+
+abt -1.0 -1.0 -1.0
+
+abt -0.1 -0.1 -0.1
+
+abt -0.001 -0.001 -0.001
+
+abt -0.0001 -0.0001 -0.0001
+
+abt -2.0 -2.0 -2.0
+
+abt -3.0 -3.0 -3.0
+
+abt -10.0 -10.0 -10.0
+
+abt -20.0 -20.0 -20.0
+
+abt -30.0 -30.0 -30.0
+
+abt -100.0 -100.0 -100.0
+
+abt -200.0 -200.0 -200.0
+
+abt -300.0 -300.0 -300.0
+
+abt -10000.0 -10000.0 -10000.0
+
+abt -20000.0 -20000.0 -20000.0
+
+abt -30000.0 -30000.0 -30000.0
+
+abt -1000000.0 -1000000.0 -1000000.0
+
+abt -2000000.0 -2000000.0 -2000000.0
+
+abt -3000000.0 -3000000.0 -3000000.0
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_loc_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1QD4-Ivs-x2rJ_GlhzRxHgdPk_IZI1SwBo9OvsW3t-PA/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_loc_str\WYAnimationBoneKeyframeTestCases_get_loc_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_get_loc_str\WYAnimationBoneKeyframeTestCases_get_loc_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.270s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_rotq_str function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1lBCv0yAI0xVP9c-2a4kPSNdKeglo1AWuj2NzeroWaks/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_rotationq\WYAnimationBoneKeyframeTestCases_init_rotationq.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+........................................................................
+
+----------------------------------------------------------------------
+
+Ran 72 tests in 0.327s
+
+OK
+
+rotq 0.0 1.0 0.0 0.0
+
+rotq 0.0 0.1 0.0 0.0
+
+rotq 0.0 0.001 0.0 0.0
+
+rotq 0.0 0.0001 0.0 0.0
+
+rotq 0.0 2.0 0.0 0.0
+
+rotq 0.0 3.0 0.0 0.0
+
+rotq 0.0 10.0 0.0 0.0
+
+rotq 0.0 20.0 0.0 0.0
+
+rotq 0.0 30.0 0.0 0.0
+
+rotq 0.0 100.0 0.0 0.0
+
+rotq 0.0 200.0 0.0 0.0
+
+rotq 0.0 300.0 0.0 0.0
+
+rotq 0.0 10000.0 0.0 0.0
+
+rotq 0.0 20000.0 0.0 0.0
+
+rotq 0.0 30000.0 0.0 0.0
+
+rotq 0.0 1000000.0 0.0 0.0
+
+rotq 0.0 2000000.0 0.0 0.0
+
+rotq 0.0 3000000.0 0.0 0.0
+
+rotq 0.0 -1.0 0.0 0.0
+
+rotq 0.0 -0.1 0.0 0.0
+
+rotq 0.0 -0.001 0.0 0.0
+
+rotq 0.0 -0.0001 0.0 0.0
+
+rotq 0.0 -2.0 0.0 0.0
+
+rotq 0.0 -3.0 0.0 0.0
+
+rotq 0.0 -10.0 0.0 0.0
+
+rotq 0.0 -20.0 0.0 0.0
+
+rotq 0.0 -30.0 0.0 0.0
+
+rotq 0.0 -100.0 0.0 0.0
+
+rotq 0.0 -200.0 0.0 0.0
+
+rotq 0.0 -300.0 0.0 0.0
+
+rotq 0.0 -10000.0 0.0 0.0
+
+rotq 0.0 -20000.0 0.0 0.0
+
+rotq 0.0 -30000.0 0.0 0.0
+
+rotq 0.0 -1000000.0 0.0 0.0
+
+rotq 0.0 -2000000.0 0.0 0.0
+
+rotq 0.0 -3000000.0 0.0 0.0
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBoneKeyframe get_animation_bone_keyframe_sca_str function                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1r-Pc7p09zhP2PpaZ4qLo_41DEbcKFmyrZaMOsnlf0_g/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_scale_data\WYAnimationBoneKeyframeTestCases_init_scale_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneKeyframeTestCases_init_scale_data\WYAnimationBoneKeyframeTestCases_init_scale_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+............................................................................................................................................................................................................................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.644s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+

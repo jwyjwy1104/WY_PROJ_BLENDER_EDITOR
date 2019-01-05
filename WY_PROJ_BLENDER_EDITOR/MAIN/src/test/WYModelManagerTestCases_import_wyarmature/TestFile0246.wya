@@ -1,0 +1,6 @@
+an TestArmatureObject0246
+mdllib TestModelFile0246
+bc 1
+bn TestArmatureBoneName0246
+bh 0.0 0.0 0.0
+bt 300 300.0 300

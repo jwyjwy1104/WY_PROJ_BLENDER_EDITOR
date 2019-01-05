@@ -1,0 +1,172 @@
+all:
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh __init__ function                          ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1hq10i_mtqwZQsoqUgK1NYzdj2447grfivi_oaOZWLXo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh __init__ function                          ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh __eq__ function                            ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1goZLBWG4XIw8sAZmRV9y41Miebkf9zU3nwrai_XLyaQ/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh __eq__ function                            ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh ___str__ function                          ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1o0NTG6H9DaJpikY6uzyjq4t_Qv7FOP0-lZJHp8nHtR0/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh ___str__ function                          ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_data function                    ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/12RJ1WW92QgIlxbhpn1XMNu7iqYqhunoE3lyDOJChtUI/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_data function                    ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_wymesh_elements function              ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1dAcs8SJvTzelbKzet7VFUihPEb8lTcV3W3JS2bTOKDM/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_wymesh_elements function              ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_name function                    ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1oCeJO4F-MoOnR7N14w9sqDNat1qK3_V-glas1mDKI_Q/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_name function                    ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_mat_relfile_path function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/10jRws5zA5c0qGz5lCvJp3amJGd1IcLWYbTsaLk0zSyk/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_mat_relfile_path function        ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_vertex_data function             ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1ty06_yMi41ax_ZL-RDoAwIf6-SJm2uOjvf5CTrPz0NQ/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_vertex_data function             ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_vertex_index_data function       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1k927e60fAU8XmKSd8-c6yv0b6kWoQ3XLCZIsZaBAHmY/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_vertex_index_data function       ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_normal_data function             ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1OunqIDzvFqU_jY1O_js9R2qpv0bR8PN7PALmqs2LYVA/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_normal_data function             ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_normal_index_data function       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1MhQEt5Xg6VsyqrJum-SqgvDt7rzta4eB40HXt3uLVbo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_normal_index_data function       ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_texcoord_data function           ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1fTNNYw7XjkxygkiMRd-o61FxPxtHXWPlEug6WJk-5R8/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_texcoord_data function           ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh init_mesh_texcoord_index_data function     ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1xiwysnD825hkfG2F9kHFZ2c45qYpCNT1SmI1IaK0m3U/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh init_mesh_texcoord_index_data function     ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh get_mesh_o_str function                    ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Odqi_429IzUQqqibODZv1AvAuCaf4dBunUNYFhhHWzg/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh get_mesh_o_str function                    ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh get_mesh_mtllib_str function               ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1KeJcEioO8W5wxYTNzwLVwy-YWFgT2SzbKZy05n7NqKc/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh get_mesh_mtllib_str function               ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh get_mesh_v_str function                    ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1yHvCQYfWXn104OOkvHCYFzGGPquWeIACfXNBKgsboyE/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh get_mesh_v_str function                    ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh get_mesh_vn_str function                   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Mfa8ymWoQMN9ZBNBCUvlO4eF3vVmfPfTXLsRfBfDd3k/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh get_mesh_vn_str function                   ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh get_mesh_vt_str function                   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1-tq4hcq3GERZnnFulX7--_ReoTqmczlvuCrK2i0LeP0/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh get_mesh_vt_str function                   ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYMesh get_mesh_f_str function                    ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1lTk_AoxCqi6omMa7ymKflaX5-3SMcLQcz_1RCEL4Zc4/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYMeshTestCaseResults.txt
+	@echo [ WYMesh get_mesh_f_str function                    ] >> data_generated_WYMesh.txt
+	if exist data_terminated.txt (exit 1)
+	

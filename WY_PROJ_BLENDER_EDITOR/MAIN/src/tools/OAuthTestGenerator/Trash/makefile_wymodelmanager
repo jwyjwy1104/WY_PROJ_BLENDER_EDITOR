@@ -1,0 +1,58 @@
+WYMODELMANAGER_TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../../WYModelManagerTestCaseResult.txt
+
+#===============================================================================
+all:
+#===============================================================================
+# 	[ WYModelManager __init__ function ] test cases
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYUtil triangulate_mesh function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1D6UntR5w_7Kk7ZfW1n_YUs3IoMQvLIcwda-NLkKUYzs/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	> $(WYMODELMANAGER_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+# 	[ WYModelManager import_wymat_from_file function ] test cases
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModelManager import_wymat_from_file function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1yzNPEYhUXkbTVx_xDnKQCgavE3qsjpNRTAHZYmQqwqo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODELMANAGER_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+# 	[ WYModelManager import_mat_from_file function ] test cases
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModelManager import_mat_from_file function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1BpzoQgV1P4VjUXjmI-xkInaossHdzQRjiCbhnrsb8Go/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODELMANAGER_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+# 	[ WYModelManager import_wycoordsys_from_file function ] test cases
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModelManager import_wycoordsys_from_file function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1M42DG9S4zQ4-R4Ux5QH5clSMGpBZQQGQbkx0W-jDj5E/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODELMANAGER_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+# 	[ WYModelManager import_wymesh_from_file function ] test cases
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModelManager import_wymesh_from_file function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1KsQmU5zFlfgDWacTtxUDNpqaBb0WPFkQ9VR35RPT344/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODELMANAGER_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+# 	[ WYModelManager import_mesh_from_file function ] test cases
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModelManager import_mesh_from_file function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1rDVAsp_CE6uRglEGrImrnhmUgCG3EWH7mgduQJSTwgo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODELMANAGER_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+
+
+
+
+

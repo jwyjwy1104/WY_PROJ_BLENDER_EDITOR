@@ -1,0 +1,5 @@
+all:
+	cd C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\tools\\OAuthTestGenerator & python oauth_test_case_generator_manager.py -app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT -ssurl https://docs.google.com/spreadsheets/d/1dAcs8SJvTzelbKzet7VFUihPEb8lTcV3W3JS2bTOKDM/edit#gid=0 -feed Sheet1
+
+	cd C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\test\\WYMeshTestCases_init_wymesh_elements & python -m pydoc -w C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\tools\\OAuthTestGenerator\\..\\..\\test\\WYMeshTestCases_init_wymesh_elements\\WYMeshTestCases_init_wymesh_elements.py
+	python C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\tools\\OAuthTestGenerator\\..\\..\\test\\WYMeshTestCases_init_wymesh_elements\\WYMeshTestCases_init_wymesh_elements.py

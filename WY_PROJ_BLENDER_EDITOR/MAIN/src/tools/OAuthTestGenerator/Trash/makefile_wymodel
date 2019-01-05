@@ -1,0 +1,45 @@
+WYMODEL_TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../../WYModelTestCaseResult.txt
+
+#===============================================================================
+all:
+#===============================================================================
+#       ========================================================================
+# 	[ WYModel __init__ function ] test cases
+#       ========================================================================
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModel __init__ function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1B6edfrxpzn_oXxhV3dAVun_cgMUPRsaBcX4dPffh8ac/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	> $(WYMODEL_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+#       ========================================================================
+# 	[ WYModel get_mesh_export_str function ] test cases
+#       ========================================================================
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModel get_mesh_export_str function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1FLxfsMeQ-rSrX1joaVQP0CAxsJuS7fnFm_56AdT3_HY/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODEL_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+#       ========================================================================
+# 	[ WYModel get_material_export_str function ] test cases
+#       ========================================================================
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModel get_material_export_str function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1EI-tCU7J9dH4O0BvOLQ9QWwv6cpEH8GHKugufk8defs/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODEL_TESTCASE_FINAL_RESULT_FILE_PATH)
+
+#       ========================================================================
+# 	[ WYModel __eq__ function ] test cases
+#       ========================================================================
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYModel __eq__ function			]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1SPQHJ1684O1vFP6XdlOILjU3xLN7tfs98bmQNvx6OAw/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> $(WYMODEL_TESTCASE_FINAL_RESULT_FILE_PATH)
+

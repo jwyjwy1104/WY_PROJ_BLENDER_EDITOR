@@ -1,0 +1,136 @@
+all:
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone __init__ function                       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1MC218ko9UxX4YkKIOf1Agodppb4JzBpQ02oL4k5KdwI/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone __init__ function                       ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone __eq__ function                         ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1_XasY5N2VQtWpjnLEsYRtC6z-3mKMXbssd0ZjZJa6_w/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone __eq__ function                         ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone __str__ function                        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1_OBC90d6hh9Q_dE5DRoFAK71cdgb7jTrUa9bqvL0Xmg/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone __str__ function                        ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone init_armature_bone_data function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1_TCXNSIltBXBYv-m0DuH0fwBO9fvn7wdeBVXDCeH9D8/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone init_armature_bone_data function        ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone init_wyarmaturebone_elements function   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1STTl0Kf8irazNBt_762BTvzPyrqIxnMigwCBzAkyh2E/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone init_wyarmaturebone_elements function   ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone init_armature_bone_name function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1y2yIXis2isP5Vy62ZjSNg0gh0QdSqKCSol9sVj7PKvo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone init_armature_bone_name function        ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone init_armature_bone_parent_name function ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1EagRk30QzBdVjAxZcYM_eYiPBKFHCpgq25WTON5wqIY/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone init_armature_bone_parent_name function ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone init_armature_bone_head function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1kLf8iqZBtO5q6ZhywdRBG3Tmnipig4i27ZXuL2B_0BA/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone init_armature_bone_head function        ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone init_armature_bone_tail function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1uJHrNMEnRMnCJ_4PKtvts5r0RqE1N1Wi3IlfkHkXvZE/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone init_armature_bone_tail function        ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone init_armature_bone_vertex_group_data function        ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/18XwcNsCIq3AK0-nUY0SaL_6iFaZZgIoJJsXYh_bXJJM/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone init_armature_bone_vertex_group_data function        ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone get_armature_bone_bn_str function       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1i0KdQmvByEz6hxZuxUeVApVZJ4gDHLeSYM7X7yOaTto/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone get_armature_bone_bn_str function       ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone get_armature_bone_pbn_str function      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/11Mc5Z-q6rUJqCemSxTEHMfIem35Bg_AOSGhxnB5rByM/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone get_armature_bone_pbn_str function      ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone get_armature_bone_bh_str function       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/13z1EKAMnQAbAnNwpWI4PCS1Oq-8_gl96ILvyYW3YSC8/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone get_armature_bone_bh_str function       ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone get_armature_bone_bt_str function       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1iMXFcS5lkwqICgFgGjH20msuw1lvfegkcNSR68zHLk8/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone get_armature_bone_bt_str function       ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmatureBone get_armature_bone_vg_str function       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1a1xZYZyCnfdBPkdeLsNJgavulGUAVRegfNgFgvg4o0s/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureBoneTestCaseResults.txt
+	@echo [ WYArmatureBone get_armature_bone_vg_str function       ] >> data_generated_WYArmatureBone.txt
+	if exist data_terminated.txt (exit 1)
+	

@@ -1,0 +1,18 @@
+TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../../TestCaseResult.txt
+
+#===============================================================================
+all:
+#===============================================================================
+	python oauth_test_case_generator_manager.py \
+	-title "[ Test             ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1a__vFyk9Ae669GaZ9XSHY_tncb1UkrazyXVFm6GRupE/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\TestCaseResults.txt
+
+
+
+
+
+
+

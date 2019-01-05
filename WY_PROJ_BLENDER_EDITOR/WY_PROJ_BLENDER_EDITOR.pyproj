@@ -1,0 +1,286 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2050b294-6309-4c4c-bf22-fbb4f0b713b9</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <ProjectTypeGuids>{1b580a1a-fdb3-4b32-83e1-6407eb2722e6};{349c5851-65df-11da-9384-00065b846f21};{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <LaunchProvider>Web launcher</LaunchProvider>
+    <WebBrowserUrl>http://localhost</WebBrowserUrl>
+    <OutputPath>.</OutputPath>
+    <SuppressCollectPythonCloudServiceFiles>true</SuppressCollectPythonCloudServiceFiles>
+    <Name>WY_PROJ_BLENDER_EDITOR</Name>
+    <RootNamespace>WY_PROJ_BLENDER_EDITOR</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="EXTRA_DOCUMENTS\" />
+    <Folder Include="MAIN\" />
+    <Folder Include="MAIN\diagrams\" />
+    <Folder Include="MAIN\src\" />
+    <Folder Include="MAIN\src\main\" />
+    <Folder Include="MAIN\src\main\WYAnimationBoneKeyframe\" />
+    <Folder Include="MAIN\src\main\WYAnimationBone\" />
+    <Folder Include="MAIN\src\main\WYAnimation\" />
+    <Folder Include="MAIN\src\main\WYArmatureBone\" />
+    <Folder Include="MAIN\src\main\WYArmature\" />
+    <Folder Include="MAIN\src\main\WYCoordsys\" />
+    <Folder Include="MAIN\src\main\WYCoordsys\WYCoordsysTestCaseDataDownloads\" />
+    <Folder Include="MAIN\src\main\WYCoordsys\__pycache__\" />
+    <Folder Include="MAIN\src\main\WYMain\" />
+    <Folder Include="MAIN\src\main\WYMain\__pycache__\" />
+    <Folder Include="MAIN\src\main\WYMaterial\" />
+    <Folder Include="MAIN\src\main\WYMaterial\__pycache__\" />
+    <Folder Include="MAIN\src\main\WYMesh\" />
+    <Folder Include="MAIN\src\main\WYMesh\__pycache__\" />
+    <Folder Include="MAIN\src\main\WYModelManager\" />
+    <Folder Include="MAIN\src\main\WYModelManager\__pycache__\" />
+    <Folder Include="MAIN\src\main\WYModel\" />
+    <Folder Include="MAIN\src\main\WYModel\__pycache__\" />
+    <Folder Include="MAIN\src\main\WYUtil\" />
+    <Folder Include="MAIN\src\main\WYUtil\__pycache__\" />
+    <Folder Include="MAIN\src\tools\" />
+    <Folder Include="MAIN\src\tools\OAuthTestGenerator\" />
+    <Folder Include="MAIN\src\tools\OAuthTestGenerator\API\" />
+    <Folder Include="MAIN\src\tools\OAuthTestGenerator\Diagrams\" />
+    <Folder Include="MAIN\src\tools\OAuthTestGenerator\Documents\" />
+    <Folder Include="MAIN\src\tools\OAuthTestGenerator\Trash\" />
+    <Folder Include="MAIN\src\tools\OAuthTestGenerator\__pycache__\" />
+    <Folder Include="MAIN\src\tools\OAuthTimeReportDashboard\" />
+    <Folder Include="MAIN\src\tools\OAuthTimeReportDashboard\API\" />
+    <Folder Include="MAIN\src\tools\OAuthTimeReportDashboard\Diagrams\" />
+    <Folder Include="MAIN\src\tools\OAuthTimeReportDashboard\Documents\" />
+    <Folder Include="MAIN\src\tools\OAuthTimeReportDashboard\__pycache__\" />
+    <Folder Include="MAIN\src\tools\PydocIterator\" />
+    <Folder Include="MAIN\__pycache__\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EXTRA_DOCUMENTS\OLD_REVISION_HISTORY.txt" />
+    <Content Include="EXTRA_DOCUMENTS\system-info.txt" />
+    <Content Include="EXTRA_DOCUMENTS\WY_GIT_EC2_WINDOWS.docx" />
+    <Content Include="EXTRA_DOCUMENTS\WY_PROJ_3D_ENGINE_BLENDER_EXPORT_COORDINATE_SYSTEM_MECHANISM.xlsx" />
+    <Content Include="EXTRA_DOCUMENTS\WY_PROJ_3D_ENGINE_IMPORT_FROM_BLENDER_COORDINATE_SYSTEM_MECHANISM.xlsx" />
+    <Content Include="EXTRA_DOCUMENTS\WY_PYDOC_SETUP_WITH_BLENDER_BPY_EXTERNAL_MODULE.docx" />
+    <Content Include="MAIN\diagrams\MESH_MAT_EXPORTER_UML.html" />
+    <Content Include="MAIN\diagrams\MESH_MAT_EXPORTER_USE_CASE_01.html" />
+    <Content Include="MAIN\diagrams\MESH_MAT_EXPORTER_USE_CASE_02_MAT_ONLY.html" />
+    <Content Include="MAIN\diagrams\MESH_MAT_EXPORTER_USE_CASE_03_MESH_AND_MAT.html" />
+    <Content Include="MAIN\diagrams\MESH_MAT_EXPORTER_USE_CASE_04_MESH_WITH_MULTI_MAT.html" />
+    <Content Include="MAIN\pydoc_iterator.bat" />
+    <Content Include="MAIN\pydoc_iterator_result.txt" />
+    <Content Include="MAIN\README.txt" />
+    <Content Include="MAIN\src\main\README.txt" />
+    <Content Include="MAIN\src\main\WYCoordsys\WYCoordsys.html" />
+    <Content Include="MAIN\src\main\WYCoordsys\WYCoordsysTestCaseDataDownloads\drive-download-20171006T093205Z-001.zip" />
+    <Content Include="MAIN\src\main\WYCoordsys\__pycache__\WYCoordsys.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYMain\hi.wym" />
+    <Content Include="MAIN\src\main\WYMain\hi.wyo" />
+    <Content Include="MAIN\src\main\WYMain\main.html" />
+    <Content Include="MAIN\src\main\WYMain\README.txt" />
+    <Content Include="MAIN\src\main\WYMain\test.blend" />
+    <Content Include="MAIN\src\main\WYMain\test.blend1" />
+    <Content Include="MAIN\src\main\WYMain\test1.blend" />
+    <Content Include="MAIN\src\main\WYMain\test1.blend1" />
+    <Content Include="MAIN\src\main\WYMain\TestTextureImagePath0001.png" />
+    <Content Include="MAIN\src\main\WYMain\USER_GUIDE.txt" />
+    <Content Include="MAIN\src\main\WYMain\__pycache__\main.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYMain\__pycache__\testbpypydoc.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYMain\__pycache__\testpydoc.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYMaterial\test.html" />
+    <Content Include="MAIN\src\main\WYMaterial\WYMaterial.html" />
+    <Content Include="MAIN\src\main\WYMaterial\__pycache__\test.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYMaterial\__pycache__\WYMaterial.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYMesh\test.html" />
+    <Content Include="MAIN\src\main\WYMesh\WYMesh.html" />
+    <Content Include="MAIN\src\main\WYMesh\__pycache__\test.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYMesh\__pycache__\WYMesh.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYModelManager\WYModelManager.html" />
+    <Content Include="MAIN\src\main\WYModelManager\__pycache__\WYModelManager.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYModel\test.html" />
+    <Content Include="MAIN\src\main\WYModel\WYModel.html" />
+    <Content Include="MAIN\src\main\WYModel\__pycache__\test.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYModel\__pycache__\WYModel.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYUtil\WYUtil.html" />
+    <Content Include="MAIN\src\main\WYUtil\__pycache__\WYUtil.cpython-36.pyc" />
+    <Content Include="MAIN\src\main\WYUtil\__pycache__\WYUtilTestCase_triangulate_mesh.cpython-36.pyc" />
+    <Content Include="MAIN\src\README.txt" />
+    <Content Include="MAIN\src\TestCaseResult.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\API\oauth_test_case_generator_executor.html" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\API\oauth_test_case_generator_generator.html" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\API\oauth_test_case_generator_get_spreadsheet_data.html" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\API\oauth_test_case_generator_util.html" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\client_secret.json" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\data.config" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\data_generated.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\data_terminated.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Diagrams\oauth_test_case_generator_generator_sequence_diagram.html" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Diagrams\oauth_test_case_generator_manager_sequence_diagram.html" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Diagrams\oauth_test_case_generator_manager_use_case.html" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Documents\oauthcommand.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Documents\oauth_test_case_generator_spreadsheet_sample_template.xlsx" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Documents\README.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Documents\WY_PYTHON_ACCESS_GOOGLE_SPREADSHEET_WITH_OAUTH.docx" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Documents\WY_PYTHON_ARGPARSE.docx" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Documents\WY_PYTHON_TESTCASE_GENERATOR_WITH_OAUTH_HQ.docx" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\main.bat" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\makefile" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\makefile_test" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\make_WYCoordsys" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\make_WYMaterial" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\make_WYMesh" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\make_WYModel" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\make_WYModelManager" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\make_WYUtil" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\README.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\REVISION_HISTORY.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\test" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Trash\makefile_generate_api" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Trash\makefile_wycoordsys" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Trash\makefile_wymaterial" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Trash\makefile_wymesh" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Trash\makefile_wymodel" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Trash\makefile_wymodelmanager" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\Trash\makefile_wyutil" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\USER_GUIDE.txt" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\__pycache__\oauth_test_case_generator_executor.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\__pycache__\oauth_test_case_generator_generator.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\__pycache__\oauth_test_case_generator_get_spreadsheet_data.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\__pycache__\oauth_test_case_generator_util.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTestGenerator\__pycache__\WYCoordsysTestCases___init__.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\API\oauth_time_report_dashboard_executor.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\API\oauth_time_report_dashboard_generator.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\API\oauth_time_report_dashboard_get_spreadsheet_data.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\API\oauth_time_report_dashboard_util.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\client_secret.json" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\Diagrams\oauth_time_report_dashboard_generator_sequence_diagram.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\Diagrams\oauth_time_report_dashboard_manager_sequence_diagram.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\Diagrams\oauth_time_report_dashboard_use_case.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\Documentsoauth_time_report_dashboard_util" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\Documents\WY_PYTHON_ACCESS_GOOGLE_SPREADSHEET_WITH_OAUTH.docx" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\Documents\WY_PYTHON_ARGPARSE.docx" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\makefile" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\moment.js" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_python_amchart_data_list.txt" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_spreadsheet_data_list.txt" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_spreadsheet_template.xlsx" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\pydoc.html" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\README.txt" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\REVISION_HISTORY.txt" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\run.bat" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\USER_GUIDE.txt" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\__pycache__\oauth_time_report_dashboard_executor.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\__pycache__\oauth_time_report_dashboard_generator.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\__pycache__\oauth_time_report_dashboard_get_spreadsheet_data.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\__pycache__\oauth_time_report_dashboard_manager.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\__pycache__\oauth_time_report_dashboard_util.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\OAuthTimeReportDashboard\__pycache__\WYCoordsysTestCases___init__.cpython-36.pyc" />
+    <Content Include="MAIN\src\tools\PydocIterator\pydoc_iterator_result.txt" />
+    <Content Include="MAIN\src\tools\PydocIterator\USER_GUIDE.txt" />
+    <Content Include="MAIN\src\tools\README.txt" />
+    <Content Include="MAIN\src\WYCoordsysTestCaseResults.txt" />
+    <Content Include="MAIN\src\WYMaterialTestCaseResults.txt" />
+    <Content Include="MAIN\src\WYMeshTestCaseResults.txt" />
+    <Content Include="MAIN\src\WYModelManagerTestCaseResults.txt" />
+    <Content Include="MAIN\src\WYModelTestCaseResults.txt" />
+    <Content Include="MAIN\src\WYUtilTestCaseResults.txt" />
+    <Content Include="MAIN\USER_GUIDE.txt" />
+    <Content Include="MAIN\__pycache__\gpydoc.cpython-36.pyc" />
+    <Content Include="MAIN\__pycache__\mesh_mat_exporter.cpython-36.pyc" />
+    <Content Include="MAIN\__pycache__\test.cpython-36.pyc" />
+    <Content Include="MAIN\__pycache__\testmaxsize.cpython-36.pyc" />
+    <Content Include="MAIN\__pycache__\testpydoc.cpython-36.pyc" />
+    <Content Include="README.txt" />
+    <Content Include="USER_GUIDE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MAIN\src\main\WYAnimationBoneKeyframe\test.py" />
+    <Compile Include="MAIN\src\main\WYAnimationBoneKeyframe\WYAnimationBoneKeyframe.py" />
+    <Compile Include="MAIN\src\main\WYAnimationBone\test.py" />
+    <Compile Include="MAIN\src\main\WYAnimationBone\WYAnimationBone.py" />
+    <Compile Include="MAIN\src\main\WYAnimation\test.py" />
+    <Compile Include="MAIN\src\main\WYAnimation\WYAnimation.py" />
+    <Compile Include="MAIN\src\main\WYArmatureBone\test.py" />
+    <Compile Include="MAIN\src\main\WYArmatureBone\WYArmatureBone.py" />
+    <Compile Include="MAIN\src\main\WYArmature\test.py" />
+    <Compile Include="MAIN\src\main\WYArmature\WYArmature.py" />
+    <Compile Include="MAIN\src\main\WYCoordsys\WYCoordsys.py" />
+    <Compile Include="MAIN\src\main\WYMain\create_blend_file.pyw" />
+    <Compile Include="MAIN\src\main\WYMain\main.py" />
+    <Compile Include="MAIN\src\main\WYMain\wymain.pyw" />
+    <Compile Include="MAIN\src\main\WYMaterial\test.py" />
+    <Compile Include="MAIN\src\main\WYMaterial\WYMaterial.py" />
+    <Compile Include="MAIN\src\main\WYMesh\test.py" />
+    <Compile Include="MAIN\src\main\WYMesh\WYMesh.py" />
+    <Compile Include="MAIN\src\main\WYModelManager\WYModelManager.py" />
+    <Compile Include="MAIN\src\main\WYModel\test.py" />
+    <Compile Include="MAIN\src\main\WYModel\WYModel.py" />
+    <Compile Include="MAIN\src\main\WYUtil\test.py" />
+    <Compile Include="MAIN\src\main\WYUtil\WYUtil.py" />
+    <Compile Include="MAIN\src\tools\OAuthTestGenerator\oauth_test_case_generator_executor.py" />
+    <Compile Include="MAIN\src\tools\OAuthTestGenerator\oauth_test_case_generator_generator.py" />
+    <Compile Include="MAIN\src\tools\OAuthTestGenerator\oauth_test_case_generator_get_spreadsheet_data.py" />
+    <Compile Include="MAIN\src\tools\OAuthTestGenerator\oauth_test_case_generator_manager.py" />
+    <Compile Include="MAIN\src\tools\OAuthTestGenerator\oauth_test_case_generator_progressbar.py" />
+    <Compile Include="MAIN\src\tools\OAuthTestGenerator\oauth_test_case_generator_util.py" />
+    <Compile Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_executor.py" />
+    <Compile Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_generator.py" />
+    <Compile Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_get_spreadsheet_data.py" />
+    <Compile Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_manager.py" />
+    <Compile Include="MAIN\src\tools\OAuthTimeReportDashboard\oauth_time_report_dashboard_util.py" />
+    <Compile Include="MAIN\src\tools\PydocIterator\pydoc_iterator.pyw" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
+  <!-- Specify pre- and post-build commands in the BeforeBuild and 
+       AfterBuild targets below. -->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <AutoAssignPort>True</AutoAssignPort>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

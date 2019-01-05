@@ -1,0 +1,5 @@
+all:
+	cd C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\tools\\OAuthTestGenerator & python oauth_test_case_generator_manager.py -app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT -ssurl https://docs.google.com/spreadsheets/d/1xiwysnD825hkfG2F9kHFZ2c45qYpCNT1SmI1IaK0m3U/edit#gid=0 -feed Sheet1
+
+	cd C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\test\\WYMeshTestCases_init_mesh_texcoord_index_data & python -m pydoc -w C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\tools\\OAuthTestGenerator\\..\\..\\test\\WYMeshTestCases_init_mesh_texcoord_index_data\\WYMeshTestCases_init_mesh_texcoord_index_data.py
+	python C:\\Users\\Nickj\\Desktop\\WY_PROJ_BLENDER_EDITOR\\WY_PROJ_BLENDER_EDITOR\\MAIN\\src\\tools\\OAuthTestGenerator\\..\\..\\test\\WYMeshTestCases_init_mesh_texcoord_index_data\\WYMeshTestCases_init_mesh_texcoord_index_data.py

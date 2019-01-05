@@ -1,0 +1,4 @@
+
+all:
+	@echo boom > data_terminated.txt
+	if exist data_terminated.txt (exit 1)

@@ -1,0 +1,45 @@
+# WYCOORDSYS_TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../WYCoordsys/WYCoordsysTestCaseResults.txt
+# WYMESH_TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../WYMesh/WYMeshTestCaseResults.txt
+
+#===============================================================================
+all:
+#===============================================================================
+#       ------------------------------------------------------------------------
+#       Delete all files need to be updated
+#       ------------------------------------------------------------------------
+	make clean
+
+	make -f makefile_wymodel
+	make -f makefile_wymesh
+	make -f makefile_wymaterial
+	make -f makefile_wyutil
+	make -f makefile_wycoordsys
+
+#       ------------------------------------------------------------------------
+#       Generate Pydoc for test case generator tool
+#       ------------------------------------------------------------------------
+	make pydoc
+
+#===============================================================================
+clean:
+#===============================================================================
+#       Delete the main time report dashboard script Pydoc HTML pages.
+	cd API & del "oauth_test_case_generator_generator.html"
+	cd API & del "oauth_test_case_generator_get_spreadsheet_data.html"
+	cd API & del "oauth_test_case_generator_executor.html"
+	cd API & del "oauth_test_case_generator_util.html"
+	
+	
+#===============================================================================
+pydoc:
+#===============================================================================
+#       Generating Pydoc with Python I can only give file names, so I generate them first and move them to the Documents folder.
+	python -m pydoc -w oauth_test_case_generator_generator & move oauth_test_case_generator_generator.html ./API
+	python -m pydoc -w oauth_test_case_generator_get_spreadsheet_data & move oauth_test_case_generator_get_spreadsheet_data.html ./API
+	python -m pydoc -w oauth_test_case_generator_executor & move oauth_test_case_generator_executor.html ./API
+	python -m pydoc -w oauth_test_case_generator_util & move oauth_test_case_generator_util.html ./API
+
+
+
+
+

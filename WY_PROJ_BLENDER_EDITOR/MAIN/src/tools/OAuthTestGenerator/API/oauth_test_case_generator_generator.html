@@ -1,0 +1,662 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module oauth_test_case_generator_generator</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>oauth_test_case_generator_generator</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Cnickj%5Cdesktop%5Cwy_proj_blender_editor%5Cwy_proj_blender_editor%5Cmesh_mat_exporter%5Csrc%5Ctools%5Coauthtestgenerator%5Coauth_test_case_generator_generator.py">c:\users\nickj\desktop\wy_proj_blender_editor\wy_proj_blender_editor\mesh_mat_exporter\src\tools\oauthtestgenerator\oauth_test_case_generator_generator.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="oauth2client.client.html">oauth2client.client</a><br>
+<a href="googleapiclient.discovery.html">googleapiclient.discovery</a><br>
+</td><td width="25%" valign=top><a href="errno.html">errno</a><br>
+<a href="httplib2.html">httplib2</a><br>
+</td><td width="25%" valign=top><a href="os.html">os</a><br>
+<a href="re.html">re</a><br>
+</td><td width="25%" valign=top><a href="sys.html">sys</a><br>
+<a href="oauth2client.tools.html">oauth2client.tools</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-find_element_in_list_with_key_in_lists"><strong>find_element_in_list_with_key_in_lists</strong></a>(lists, finding_elem, key)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;help&nbsp;processing&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;into&nbsp;<br>
+Python&nbsp;list&nbsp;format.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::process_google_spreadsheet_time_report_data_into_amchart_data()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;iterates&nbsp;through&nbsp;the&nbsp;provided&nbsp;list&nbsp;and&nbsp;finds&nbsp;the&nbsp;provided&nbsp;<br>
+element&nbsp;with&nbsp;provided&nbsp;key&nbsp;and&nbsp;return&nbsp;the&nbsp;found&nbsp;element&nbsp;else&nbsp;return&nbsp;None.<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;used&nbsp;to&nbsp;find&nbsp;the&nbsp;same&nbsp;time&nbsp;report&nbsp;data&nbsp;which&nbsp;has&nbsp;the&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;same&nbsp;date&nbsp;so&nbsp;the&nbsp;data&nbsp;won't&nbsp;be&nbsp;duplicated&nbsp;in&nbsp;the&nbsp;data&nbsp;structure.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-find_element_in_list_with_key_in_lists">find_element_in_list_with_key_in_lists</a>([{date:"10/07"},{date:"10/08"},{date:"10/09"}],&nbsp;{date:&nbsp;"10/17"},&nbsp;"date")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;--&gt;&nbsp;Return&nbsp;{date:"10/07"}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-find_element_in_list_with_key_in_lists">find_element_in_list_with_key_in_lists</a>([{date:"10/07"},{date:"10/08"},{date:"10/09"}],&nbsp;{date:&nbsp;"10/17"},"date")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;--&gt;&nbsp;Return&nbsp;None<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;lists:&nbsp;Main&nbsp;data&nbsp;structure&nbsp;to&nbsp;find&nbsp;the&nbsp;element&nbsp;with.<br>
+:type&nbsp;&nbsp;lists:&nbsp;[{},{},{}&nbsp;...&nbsp;]<br>
+:param&nbsp;finding_elem:&nbsp;Element&nbsp;value&nbsp;to&nbsp;find&nbsp;inside&nbsp;the&nbsp;data&nbsp;structure.<br>
+:type&nbsp;&nbsp;finding_elem:&nbsp;{}<br>
+:param&nbsp;key:&nbsp;String&nbsp;key&nbsp;value&nbsp;to&nbsp;find&nbsp;the&nbsp;matching&nbsp;element.<br>
+:type&nbsp;&nbsp;key:&nbsp;String<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;None:&nbsp;If&nbsp;element&nbsp;is&nbsp;not&nbsp;found&nbsp;in&nbsp;the&nbsp;list&nbsp;with&nbsp;provided&nbsp;key.<br>
+:rtype&nbsp;&nbsp;None:&nbsp;None<br>
+:return&nbsp;list_elem:&nbsp;The&nbsp;element&nbsp;found&nbsp;in&nbsp;the&nbsp;list&nbsp;with&nbsp;provided&nbsp;key.<br>
+:rtype&nbsp;&nbsp;list_elem:&nbsp;{}</tt></dd></dl>
+ <dl><dt><a name="-get_credentials"><strong>get_credentials</strong></a>(scopes, oauth_client_application_name, oauth_client_secret_json_file)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Gets&nbsp;valid&nbsp;user&nbsp;credentials&nbsp;from&nbsp;storage.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_test_case_generator_get_spreadsheet_data::<a href="#-oauth_test_case_generator_get_spreadsheet_data">oauth_test_case_generator_get_spreadsheet_data</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;authenticates&nbsp;OAuth&nbsp;client&nbsp;with&nbsp;Google&nbsp;to&nbsp;get&nbsp;the&nbsp;access<br>
+to&nbsp;the&nbsp;private&nbsp;Google&nbsp;Spreadsheets.<br>
+&nbsp;<br>
+If&nbsp;nothing&nbsp;has&nbsp;been&nbsp;stored,&nbsp;or&nbsp;if&nbsp;the&nbsp;stored&nbsp;credentials&nbsp;are&nbsp;invalid,<br>
+the&nbsp;OAuth2&nbsp;flow&nbsp;is&nbsp;completed&nbsp;to&nbsp;obtain&nbsp;the&nbsp;new&nbsp;credentials.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from:&nbsp;https://developers.google.com/sheets/api/quickstart/python<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;scopes:&nbsp;Modifying&nbsp;scopes.<br>
+:type&nbsp;&nbsp;scopes:&nbsp;string<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Example:&nbsp;scopes&nbsp;=&nbsp;'https://www.googleapis.com/auth/spreadsheets.readonly'<br>
+:param&nbsp;oauth_client_application_name:&nbsp;OAuth&nbsp;client&nbsp;application&nbsp;name.<br>
+:type&nbsp;&nbsp;oauth_client_application_name:&nbsp;string<br>
+:param&nbsp;oauth_client_secret_json_file:&nbsp;OAuth&nbsp;client&nbsp;secret&nbsp;JSON&nbsp;file&nbsp;path.<br>
+:type&nbsp;&nbsp;oauth_client_secret_json_file:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;credentials:&nbsp;Credentials,&nbsp;the&nbsp;obtained&nbsp;credential.<br>
+:rtype&nbsp;&nbsp;credentials:&nbsp;Credentials</tt></dd></dl>
+ <dl><dt><a name="-load_list_from_file"><strong>load_list_from_file</strong></a>(file_path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;load&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;from&nbsp;the&nbsp;text&nbsp;file&nbsp;with&nbsp;<br>
+byte&nbsp;codes.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;with&nbsp;the&nbsp;file&nbsp;path&nbsp;given&nbsp;and&nbsp;load&nbsp;the&nbsp;list&nbsp;<br>
+data&nbsp;structure&nbsp;read&nbsp;as&nbsp;byte&nbsp;code&nbsp;from&nbsp;the&nbsp;file&nbsp;path&nbsp;provided,&nbsp;the&nbsp;file&nbsp;is<br>
+opened&nbsp;up&nbsp;with&nbsp;"rb"&nbsp;where&nbsp;'b'&nbsp;indicates&nbsp;"byte"&nbsp;and&nbsp;"r"&nbsp;indicates&nbsp;"read".<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;created&nbsp;to&nbsp;merge&nbsp;the&nbsp;multiple&nbsp;list&nbsp;data&nbsp;structure&nbsp;data&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;generating&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;for&nbsp;multiple&nbsp;Google&nbsp;Spreadsheet&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;time&nbsp;reports,&nbsp;so&nbsp;I&nbsp;can&nbsp;merge&nbsp;the&nbsp;data&nbsp;with&nbsp;2&nbsp;different&nbsp;execution&nbsp;call.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;file_path:&nbsp;File&nbsp;path&nbsp;to&nbsp;load&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;byte&nbsp;codes&nbsp;from.<br>
+:type&nbsp;&nbsp;file_path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-mkdir_p"><strong>mkdir_p</strong></a>(path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Sub&nbsp;function&nbsp;to&nbsp;create&nbsp;the&nbsp;directory&nbsp;if&nbsp;given&nbsp;file&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_util::<a href="#-safe_open_w">safe_open_w</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;a&nbsp;file&nbsp;with&nbsp;provided&nbsp;file&nbsp;path,&nbsp;but&nbsp;if&nbsp;the&nbsp;directory<br>
+containing&nbsp;current&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;i&nbsp;create&nbsp;the&nbsp;directory&nbsp;and&nbsp;then&nbsp;<br>
+opens&nbsp;up&nbsp;the&nbsp;file.<br>
+&nbsp;<br>
+In&nbsp;this&nbsp;way,&nbsp;I&nbsp;can&nbsp;safely&nbsp;open&nbsp;up&nbsp;any&nbsp;file&nbsp;path&nbsp;given&nbsp;even&nbsp;though&nbsp;the&nbsp;<br>
+directory&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from&nbsp;https://stackoverflow.com/a/600612/119527<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;path:&nbsp;File&nbsp;path&nbsp;to&nbsp;open&nbsp;with.<br>
+:type&nbsp;&nbsp;path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-oauth_test_case_generator_generator"><strong>oauth_test_case_generator_generator</strong></a>(google_spreadsheet_url, scopes, oauth_client_application_name, oauth_client_secret_json_file, feed_name, feed_range)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Test&nbsp;case&nbsp;generator&nbsp;which&nbsp;generates&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;with&nbsp;data&nbsp;<br>
+values&nbsp;provided&nbsp;within&nbsp;the&nbsp;Google&nbsp;Spreadsheet.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function&nbsp;&nbsp;:&nbsp;oauth_test_case_generator_manager::main()<br>
+Calling&nbsp;sub&nbsp;function:&nbsp;oauth_test_case_generator_get_spreadsheet_data::<a href="#-oauth_test_case_generator_get_spreadsheet_data">oauth_test_case_generator_get_spreadsheet_data</a>()<br>
+Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-process_google_spreadsheet_test_case_data">process_google_spreadsheet_test_case_data</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_current_test_case_function_str">sub_process_data_generate_current_test_case_function_str</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_function">sub_process_data_generate_test_case_function</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_function_pydoc">sub_process_data_generate_test_case_function_pydoc</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_file_header">sub_process_data_generate_test_case_file_header</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;processes&nbsp;the&nbsp;data&nbsp;retrieved&nbsp;from&nbsp;provided&nbsp;Google&nbsp;Spreadsheet<br>
+and&nbsp;generates&nbsp;the&nbsp;Python&nbsp;unit&nbsp;test&nbsp;cases&nbsp;into&nbsp;each&nbsp;class&nbsp;folders.<br>
+&nbsp;<br>
+Sub&nbsp;function:&nbsp;<a href="#-oauth_test_case_generator_get_spreadsheet_data">oauth_test_case_generator_get_spreadsheet_data</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return&nbsp;the&nbsp;spreadsheet&nbsp;data&nbsp;in&nbsp;Python&nbsp;list&nbsp;data&nbsp;structure&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;format&nbsp;for&nbsp;easier&nbsp;computes.<br>
+Sub&nbsp;function:&nbsp;<a href="#-process_google_spreadsheet_test_case_data">process_google_spreadsheet_test_case_data</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;generates&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;and&nbsp;return&nbsp;the&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;path&nbsp;to&nbsp;execute&nbsp;it&nbsp;and&nbsp;also&nbsp;the&nbsp;file&nbsp;path<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;store&nbsp;the&nbsp;execution&nbsp;results.&nbsp;<br>
+&nbsp;<br>
+Note:&nbsp;All&nbsp;the&nbsp;important&nbsp;informations&nbsp;are&nbsp;provided&nbsp;in&nbsp;the&nbsp;Google&nbsp;Spreadsheet<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test&nbsp;case&nbsp;data&nbsp;files.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See:&nbsp;[&nbsp;./oauth_test_case_generator_spreadsheet_sample_template.xlsx&nbsp;]<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;main&nbsp;testing&nbsp;class&nbsp;file&nbsp;name&nbsp;is&nbsp;"WYCoordsys.py"&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which&nbsp;is&nbsp;in&nbsp;"WYCoordsys"&nbsp;folder<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The&nbsp;unit&nbsp;test&nbsp;case&nbsp;related&nbsp;files&nbsp;will&nbsp;be&nbsp;generated&nbsp;under&nbsp;"WYCoordsys/WYCoordsysTestCases"&nbsp;folder<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Unit&nbsp;test&nbsp;case&nbsp;data&nbsp;file&nbsp;will&nbsp;be&nbsp;named&nbsp;"WYCoordsysTestCaseData_testingfuncname.txt"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Unit&nbsp;test&nbsp;case&nbsp;file&nbsp;will&nbsp;be&nbsp;named&nbsp;"WYCoordsysTestCase_testingfuncname.py"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Unit&nbsp;test&nbsp;case&nbsp;Pydoc&nbsp;document&nbsp;HTML&nbsp;file&nbsp;will&nbsp;be&nbsp;named&nbsp;"WYCoordsysTestCase_testingfuncname.html"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Unit&nbsp;test&nbsp;case&nbsp;execution&nbsp;result&nbsp;output&nbsp;log&nbsp;file&nbsp;will&nbsp;be&nbsp;named&nbsp;"WYCoordsysTestCaseResult_testingfuncname.txt"<br>
+&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Oct&nbsp;&nbsp;4&nbsp;22:14&nbsp;WYCoordsys/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rw-r--r--&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;63944&nbsp;Oct&nbsp;&nbsp;4&nbsp;22:14&nbsp;WYCoordsys.py<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Oct&nbsp;&nbsp;4&nbsp;22:18&nbsp;WYCoordsysTestCases/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rw-r--r--&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;29902&nbsp;Oct&nbsp;&nbsp;4&nbsp;22:24&nbsp;WYCoordsysTestCaseData___init__.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rw-r--r--&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;152&nbsp;Oct&nbsp;&nbsp;4&nbsp;22:24&nbsp;WYCoordsysTestCaseResult___init__.txt<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rw-r--r--&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;344325&nbsp;Oct&nbsp;&nbsp;4&nbsp;22:24&nbsp;WYCoordsysTestCases___init__.html<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rw-r--r--&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;192903&nbsp;Oct&nbsp;&nbsp;4&nbsp;22:24&nbsp;WYCoordsysTestCases___init__.py<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Oct&nbsp;&nbsp;3&nbsp;01:24&nbsp;WYMain/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Sep&nbsp;26&nbsp;09:22&nbsp;WYMaterial/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Sep&nbsp;26&nbsp;10:46&nbsp;WYMesh/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Sep&nbsp;26&nbsp;09:22&nbsp;WYModel/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Sep&nbsp;26&nbsp;09:24&nbsp;WYModelManager/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drwxr-xr-x&nbsp;1&nbsp;Nickj&nbsp;197121&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;Sep&nbsp;26&nbsp;09:23&nbsp;WYUtil/<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;google_spreadsheet_url:&nbsp;Google&nbsp;Spreadsheet&nbsp;URL&nbsp;to&nbsp;retrieve&nbsp;the&nbsp;data&nbsp;from.<br>
+:type&nbsp;&nbsp;google_spreadsheet_url:&nbsp;string<br>
+:param&nbsp;scopes:&nbsp;Modifying&nbsp;scopes.<br>
+:type&nbsp;&nbsp;scopes:&nbsp;string<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Example:&nbsp;scopes&nbsp;=&nbsp;'https://www.googleapis.com/auth/spreadsheets.readonly'<br>
+:param&nbsp;oauth_client_application_name:&nbsp;OAuth&nbsp;client&nbsp;application&nbsp;name.<br>
+:type&nbsp;&nbsp;oauth_client_application_name:&nbsp;string<br>
+:param&nbsp;oauth_client_secret_json_file:&nbsp;OAuth&nbsp;client&nbsp;secret&nbsp;JSON&nbsp;file&nbsp;path.<br>
+:type&nbsp;&nbsp;oauth_client_secret_json_file:&nbsp;string<br>
+:param&nbsp;feed_name:&nbsp;Name&nbsp;of&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;feed&nbsp;to&nbsp;retrieved&nbsp;data&nbsp;from.<br>
+:type&nbsp;&nbsp;feed_name:&nbsp;string<br>
+:param&nbsp;feed_range:&nbsp;Range&nbsp;of&nbsp;the&nbsp;feed&nbsp;data&nbsp;cells&nbsp;to&nbsp;retrieve&nbsp;with.<br>
+:type&nbsp;&nbsp;feed_range:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;final_path_list:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index&nbsp;0&nbsp;:&nbsp;the&nbsp;final&nbsp;generated&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;path,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index&nbsp;1&nbsp;:&nbsp;the&nbsp;absolute&nbsp;path&nbsp;of&nbsp;the&nbsp;file&nbsp;to&nbsp;store&nbsp;the&nbsp;result&nbsp;of&nbsp;the&nbsp;unit&nbsp;test&nbsp;cases&nbsp;results.<br>
+:rtype&nbsp;&nbsp;final_path_list:&nbsp;[]</tt></dd></dl>
+ <dl><dt><a name="-oauth_test_case_generator_get_spreadsheet_data"><strong>oauth_test_case_generator_get_spreadsheet_data</strong></a>(google_spreadsheet_url, scopes, oauth_client_application_name, oauth_client_secret_json_file, feed_name, feed_range)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Gets&nbsp;valid&nbsp;user&nbsp;credentials&nbsp;from&nbsp;storage.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_test_case_generator_generator::<a href="#-oauth_test_case_generator_generator">oauth_test_case_generator_generator</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;authenticates&nbsp;OAuth&nbsp;client&nbsp;with&nbsp;Google&nbsp;to&nbsp;get&nbsp;the&nbsp;access<br>
+to&nbsp;the&nbsp;private&nbsp;Google&nbsp;Spreadsheets&nbsp;and&nbsp;retrieved&nbsp;the&nbsp;data&nbsp;from&nbsp;the&nbsp;Google<br>
+Spreadsheet&nbsp;and&nbsp;organize&nbsp;them&nbsp;into&nbsp;list&nbsp;data&nbsp;structure&nbsp;for&nbsp;further&nbsp;<br>
+processsing.<br>
+&nbsp;<br>
+Creates&nbsp;a&nbsp;Sheets&nbsp;API&nbsp;service&nbsp;object&nbsp;and&nbsp;return&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;<br>
+containing&nbsp;all&nbsp;the&nbsp;data&nbsp;values&nbsp;stored&nbsp;in&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;being&nbsp;<br>
+accessed.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from:&nbsp;https://developers.google.com/sheets/api/quickstart/python<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;google_spreadsheet_url:&nbsp;Googel&nbsp;Spreadsheet&nbsp;URL&nbsp;to&nbsp;retrieve&nbsp;the&nbsp;data&nbsp;from.<br>
+:type&nbsp;&nbsp;google_spreadsheet_url:&nbsp;string<br>
+:param&nbsp;scopes:&nbsp;Modifying&nbsp;scopes.<br>
+:type&nbsp;&nbsp;scopes:&nbsp;string<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Example:&nbsp;scopes&nbsp;=&nbsp;'https://www.googleapis.com/auth/spreadsheets.readonly'<br>
+:param&nbsp;oauth_client_application_name:&nbsp;OAuth&nbsp;client&nbsp;application&nbsp;name.<br>
+:type&nbsp;&nbsp;oauth_client_application_name:&nbsp;string<br>
+:param&nbsp;oauth_client_secret_json_file:&nbsp;OAuth&nbsp;client&nbsp;secret&nbsp;JSON&nbsp;file&nbsp;path.<br>
+:type&nbsp;&nbsp;oauth_client_secret_json_file:&nbsp;string<br>
+:param&nbsp;feed_name:&nbsp;Name&nbsp;of&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;feed&nbsp;to&nbsp;retrieved&nbsp;data&nbsp;from.<br>
+:type&nbsp;&nbsp;feed_name:&nbsp;string<br>
+:param&nbsp;feed_range:&nbsp;Range&nbsp;of&nbsp;the&nbsp;feed&nbsp;data&nbsp;cells&nbsp;to&nbsp;retrieve&nbsp;with.<br>
+:type&nbsp;&nbsp;feed_range:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;spreadsheetData:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containg&nbsp;all&nbsp;the&nbsp;data&nbsp;retrieved&nbsp;from&nbsp;provided&nbsp;Google&nbsp;Spreadsheet&nbsp;URL&nbsp;and&nbsp;provided&nbsp;feed&nbsp;name&nbsp;with&nbsp;provided&nbsp;feed&nbsp;range.<br>
+:rtype&nbsp;&nbsp;spreadsheetData:&nbsp;[]</tt></dd></dl>
+ <dl><dt><a name="-process_google_spreadsheet_test_case_data"><strong>process_google_spreadsheet_test_case_data</strong></a>(spreadsheetData)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Test&nbsp;cases&nbsp;generator&nbsp;sub&nbsp;function&nbsp;to&nbsp;help&nbsp;generating&nbsp;the&nbsp;unit&nbsp;test&nbsp;cases.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function&nbsp;&nbsp;:&nbsp;oauth_test_case_generator_generator::<a href="#-oauth_test_case_generator_generator">oauth_test_case_generator_generator</a>()<br>
+Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_current_test_case_function_str">sub_process_data_generate_current_test_case_function_str</a>()<br>
+Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_file_header">sub_process_data_generate_test_case_file_header</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;processes&nbsp;the&nbsp;spreadsheet&nbsp;data&nbsp;retrieved&nbsp;from&nbsp;Google&nbsp;<br>
+Spreadsheet&nbsp;and&nbsp;read&nbsp;the&nbsp;data&nbsp;value&nbsp;by&nbsp;cells,&nbsp;and&nbsp;generates&nbsp;the&nbsp;Python&nbsp;<br>
+unit&nbsp;test&nbsp;cases&nbsp;string&nbsp;and&nbsp;write&nbsp;them&nbsp;into&nbsp;each&nbsp;testing&nbsp;class&nbsp;folder's&nbsp;<br>
+test&nbsp;cases&nbsp;folder.<br>
+&nbsp;<br>
+Sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_current_test_case_function_str">sub_process_data_generate_current_test_case_function_str</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return&nbsp;the&nbsp;test&nbsp;case&nbsp;function&nbsp;string&nbsp;for&nbsp;each&nbsp;cases&nbsp;indicated&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by&nbsp;each&nbsp;spreadsheet&nbsp;row.<br>
+Sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_file_header">sub_process_data_generate_test_case_file_header</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;header&nbsp;including&nbsp;extra&nbsp;library&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;import&nbsp;codes&nbsp;and&nbsp;unit&nbsp;test&nbsp;case&nbsp;class&nbsp;definition&nbsp;and&nbsp;Pydoc&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inner&nbsp;comment&nbsp;codes.<br>
+Util&nbsp;function:&nbsp;<a href="#-safe_open_w">safe_open_w</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;util&nbsp;function&nbsp;creates&nbsp;the&nbsp;directory&nbsp;if&nbsp;the&nbsp;file&nbsp;path&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;does&nbsp;not&nbsp;exits,&nbsp;which&nbsp;means&nbsp;the&nbsp;file&nbsp;will&nbsp;be&nbsp;generated&nbsp;even&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;though&nbsp;the&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+&nbsp;<br>
+First&nbsp;generate&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;header&nbsp;which&nbsp;will&nbsp;be&nbsp;implemented&nbsp;at&nbsp;<br>
+the&nbsp;very&nbsp;top&nbsp;of&nbsp;each&nbsp;unit&nbsp;test&nbsp;cases.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+Then&nbsp;using&nbsp;each&nbsp;test&nbsp;case&nbsp;function&nbsp;generated&nbsp;from&nbsp;sub&nbsp;function&nbsp;with&nbsp;each&nbsp;<br>
+spreadsheet&nbsp;row&nbsp;data&nbsp;values,&nbsp;i&nbsp;can&nbsp;combine&nbsp;them&nbsp;into&nbsp;multiple&nbsp;test&nbsp;case&nbsp;<br>
+functions&nbsp;string&nbsp;to&nbsp;be&nbsp;appeneded&nbsp;to&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;header&nbsp;string.<br>
+&nbsp;<br>
+At&nbsp;the&nbsp;end,&nbsp;I&nbsp;append&nbsp;the&nbsp;main&nbsp;function&nbsp;code&nbsp;string&nbsp;for&nbsp;unit&nbsp;test&nbsp;case&nbsp;<br>
+execution.<br>
+&nbsp;<br>
+Then&nbsp;save&nbsp;the&nbsp;file&nbsp;onto&nbsp;each&nbsp;proper&nbsp;destinations&nbsp;using&nbsp;the&nbsp;utility&nbsp;function.<br>
+&nbsp;<br>
+Return&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;path&nbsp;to&nbsp;execute&nbsp;it&nbsp;and&nbsp;also&nbsp;the&nbsp;file&nbsp;path&nbsp;to<br>
+store&nbsp;the&nbsp;execution&nbsp;results.&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;spreadsheetData:&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;list&nbsp;data&nbsp;structure.<br>
+:type&nbsp;&nbsp;spreadsheetData:&nbsp;[[],[],[]&nbsp;...]<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;final_path_list:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index&nbsp;0&nbsp;:&nbsp;the&nbsp;final&nbsp;generated&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;path,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index&nbsp;1&nbsp;:&nbsp;the&nbsp;absolute&nbsp;path&nbsp;of&nbsp;the&nbsp;file&nbsp;to&nbsp;store&nbsp;the&nbsp;result&nbsp;of&nbsp;the&nbsp;unit&nbsp;test&nbsp;cases&nbsp;results.<br>
+:rtype&nbsp;&nbsp;final_path_list:&nbsp;[]</tt></dd></dl>
+ <dl><dt><a name="-safe_open_w"><strong>safe_open_w</strong></a>(path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;create&nbsp;the&nbsp;directory&nbsp;if&nbsp;given&nbsp;file&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;a&nbsp;file&nbsp;with&nbsp;provided&nbsp;file&nbsp;path,&nbsp;but&nbsp;if&nbsp;the&nbsp;directory<br>
+containing&nbsp;current&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;i&nbsp;create&nbsp;the&nbsp;directory&nbsp;and&nbsp;then&nbsp;<br>
+opens&nbsp;up&nbsp;the&nbsp;file.<br>
+&nbsp;<br>
+In&nbsp;this&nbsp;way,&nbsp;I&nbsp;can&nbsp;safely&nbsp;open&nbsp;up&nbsp;any&nbsp;file&nbsp;path&nbsp;given&nbsp;even&nbsp;though&nbsp;the&nbsp;<br>
+directory&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from&nbsp;https://stackoverflow.com/a/600612/119527<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;path:&nbsp;File&nbsp;path&nbsp;to&nbsp;open&nbsp;with.<br>
+:type&nbsp;&nbsp;path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-save_list_to_file"><strong>save_list_to_file</strong></a>(file_path, saving_list)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;save&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;into&nbsp;text&nbsp;file&nbsp;with&nbsp;<br>
+byte&nbsp;codes.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;with&nbsp;the&nbsp;file&nbsp;path&nbsp;given&nbsp;and&nbsp;write&nbsp;the&nbsp;provided&nbsp;list&nbsp;<br>
+data&nbsp;structure&nbsp;into&nbsp;the&nbsp;file&nbsp;as&nbsp;byte&nbsp;code&nbsp;opened&nbsp;up&nbsp;with&nbsp;"wb"&nbsp;where&nbsp;'b'&nbsp;<br>
+indicates&nbsp;"byte"&nbsp;and&nbsp;"w"&nbsp;indicates&nbsp;"write".<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;created&nbsp;to&nbsp;merge&nbsp;the&nbsp;multiple&nbsp;list&nbsp;data&nbsp;structure&nbsp;data&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;generating&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;for&nbsp;multiple&nbsp;Google&nbsp;Spreadsheet&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;time&nbsp;reports,&nbsp;so&nbsp;i&nbsp;can&nbsp;merge&nbsp;the&nbsp;data&nbsp;with&nbsp;2&nbsp;different&nbsp;execution&nbsp;call.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;file_path:&nbsp;File&nbsp;path&nbsp;to&nbsp;export&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;into&nbsp;byte&nbsp;codes.<br>
+:type&nbsp;&nbsp;file_path:&nbsp;string<br>
+:param&nbsp;saving_list:&nbsp;List&nbsp;data&nbsp;structure&nbsp;to&nbsp;save&nbsp;as&nbsp;byte&nbsp;code&nbsp;into&nbsp;a&nbsp;text&nbsp;file.<br>
+:type&nbsp;&nbsp;saving_list:&nbsp;[]</tt></dd></dl>
+ <dl><dt><a name="-sub_process_data_generate_current_test_case_function_str"><strong>sub_process_data_generate_current_test_case_function_str</strong></a>(spreadsheetData, rowIndex, test_case_title_cells_row, test_case_param_name_cells_row, test_case_param_type_cells_row, test_case_param_description_cells_row)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Test&nbsp;cases&nbsp;generator&nbsp;sub&nbsp;function&nbsp;to&nbsp;help&nbsp;generating&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;<br>
+function&nbsp;of&nbsp;each&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;which&nbsp;contains&nbsp;Pydoc&nbsp;inner&nbsp;comments<br>
+and&nbsp;test&nbsp;case&nbsp;function&nbsp;code.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function&nbsp;&nbsp;:&nbsp;<a href="#-process_google_spreadsheet_test_case_data">process_google_spreadsheet_test_case_data</a>()<br>
+Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_function">sub_process_data_generate_test_case_function</a>()<br>
+Calling&nbsp;sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_function_pydoc">sub_process_data_generate_test_case_function_pydoc</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;generates&nbsp;each&nbsp;unit&nbsp;test&nbsp;case&nbsp;function&nbsp;string&nbsp;for&nbsp;each&nbsp;<br>
+spreadsheet&nbsp;row&nbsp;data&nbsp;where&nbsp;test&nbsp;case&nbsp;function&nbsp;information&nbsp;is&nbsp;indicated&nbsp;in&nbsp;<br>
+each&nbsp;spreadsheet&nbsp;row.<br>
+&nbsp;<br>
+Sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_function">sub_process_data_generate_test_case_function</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return&nbsp;the&nbsp;test&nbsp;case&nbsp;function&nbsp;definition&nbsp;and&nbsp;implemented&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test&nbsp;case&nbsp;function&nbsp;body&nbsp;code&nbsp;string.<br>
+Sub&nbsp;function:&nbsp;<a href="#-sub_process_data_generate_test_case_function_pydoc">sub_process_data_generate_test_case_function_pydoc</a>()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return&nbsp;the&nbsp;test&nbsp;case&nbsp;function&nbsp;Pydoc&nbsp;inner&nbsp;document&nbsp;string.<br>
+&nbsp;<br>
+This&nbsp;function&nbsp;calls&nbsp;sub&nbsp;functions&nbsp;to&nbsp;generate&nbsp;the&nbsp;Pydoc&nbsp;inner&nbsp;comments&nbsp;of&nbsp;<br>
+current&nbsp;test&nbsp;case&nbsp;function&nbsp;<br>
+Then&nbsp;pass&nbsp;the&nbsp;Pydoc&nbsp;inner&nbsp;comment&nbsp;code&nbsp;to&nbsp;another&nbsp;sub&nbsp;function&nbsp;to&nbsp;<br>
+genreate&nbsp;the&nbsp;test&nbsp;case&nbsp;function&nbsp;code&nbsp;string&nbsp;to&nbsp;generate&nbsp;the&nbsp;final&nbsp;unit&nbsp;test&nbsp;<br>
+case&nbsp;function&nbsp;for&nbsp;each&nbsp;spreadsheet&nbsp;row&nbsp;data&nbsp;test&nbsp;cases.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;spreadsheetData:&nbsp;Spreadsheet&nbsp;data&nbsp;in&nbsp;Python&nbsp;list&nbsp;data&nbsp;structure&nbsp;format.<br>
+:type&nbsp;&nbsp;spreadsheetData:&nbsp;[[],[],[]&nbsp;...]<br>
+:param&nbsp;rowIndex:&nbsp;Index&nbsp;of&nbsp;the&nbsp;current&nbsp;processing&nbsp;spreadsheet&nbsp;data&nbsp;row.<br>
+:type&nbsp;&nbsp;rowIndex:&nbsp;int<br>
+:param&nbsp;test_case_title_cells_row:&nbsp;Row&nbsp;number&nbsp;of&nbsp;the&nbsp;title&nbsp;cells&nbsp;to&nbsp;get&nbsp;the&nbsp;column&nbsp;index&nbsp;for&nbsp;each&nbsp;column&nbsp;values.<br>
+:type&nbsp;&nbsp;test_case_title_cells_row:&nbsp;int<br>
+:param&nbsp;test_case_param_name_cells_row:&nbsp;Row&nbsp;number&nbsp;of&nbsp;the&nbsp;parameter&nbsp;name&nbsp;cells&nbsp;for&nbsp;Pydoc&nbsp;inner&nbsp;comments&nbsp;function&nbsp;each&nbsp;function&nbsp;inputs.<br>
+:type&nbsp;&nbsp;test_case_param_name_cells_row:&nbsp;int<br>
+:param&nbsp;test_case_param_type_cells_row:&nbsp;Row&nbsp;number&nbsp;of&nbsp;the&nbsp;parameter&nbsp;type&nbsp;cells&nbsp;for&nbsp;Pydoc&nbsp;inner&nbsp;comments&nbsp;function&nbsp;each&nbsp;function&nbsp;inputs.<br>
+:type&nbsp;&nbsp;test_case_param_type_cells_row:&nbsp;int<br>
+:param&nbsp;test_case_param_description_cells_row:&nbsp;Row&nbsp;number&nbsp;of&nbsp;the&nbsp;parameter&nbsp;description&nbsp;cells&nbsp;for&nbsp;Pydoc&nbsp;inner&nbsp;comments&nbsp;function&nbsp;each&nbsp;function&nbsp;inputs.<br>
+:type&nbsp;&nbsp;test_case_param_description_cells_row:&nbsp;int<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;cur_test_case_function_str:&nbsp;The&nbsp;final&nbsp;string&nbsp;of&nbsp;current&nbsp;single&nbsp;case&nbsp;test&nbsp;case&nbsp;function&nbsp;code,&nbsp;which&nbsp;contains&nbsp;Pydoc&nbsp;inner&nbsp;comments,&nbsp;function&nbsp;definition&nbsp;and&nbsp;test&nbsp;case&nbsp;function&nbsp;body&nbsp;implemented.<br>
+:rtype&nbsp;&nbsp;cur_test_case_function_str:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-sub_process_data_generate_test_case_file_header"><strong>sub_process_data_generate_test_case_file_header</strong></a>(test_case_unittestcase_class_header_imports, test_case_testing_class_file_name, test_case_unittestcase_class_name, test_case_unittestcase_class_description, test_case_normal_case_counter, test_case_boundary_case_counter, test_case_error_case_counter, test_case_white_box_counter, test_case_black_box_counter)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Test&nbsp;cases&nbsp;generator&nbsp;sub&nbsp;function&nbsp;to&nbsp;help&nbsp;generating&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;<br>
+function&nbsp;inner&nbsp;comment&nbsp;Pydoc&nbsp;docstring.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function&nbsp;&nbsp;:&nbsp;<a href="#-process_google_spreadsheet_test_case_data">process_google_spreadsheet_test_case_data</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;generates&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;header&nbsp;to&nbsp;handle&nbsp;the&nbsp;extra<br>
+import&nbsp;codes,&nbsp;main&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;class&nbsp;definition&nbsp;and&nbsp;class&nbsp;inner<br>
+comment&nbsp;Pydoc&nbsp;documentation&nbsp;with&nbsp;summarized&nbsp;data&nbsp;values&nbsp;which&nbsp;contains&nbsp;<br>
+what&nbsp;type&nbsp;of&nbsp;and&nbsp;how&nbsp;many&nbsp;test&nbsp;cases&nbsp;are&nbsp;generated&nbsp;and&nbsp;tested&nbsp;in&nbsp;this&nbsp;unit<br>
+test&nbsp;case&nbsp;file.<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;test_case_unittestcase_class_header_imports:&nbsp;Import&nbsp;code&nbsp;provided&nbsp;in&nbsp;the&nbsp;spreadsheet&nbsp;to&nbsp;be&nbsp;inserted&nbsp;at&nbsp;the&nbsp;very&nbsp;top&nbsp;of&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;file.<br>
+:type&nbsp;&nbsp;test_case_unittestcase_class_header_imports:&nbsp;string<br>
+:param&nbsp;test_case_testing_class_file_name:&nbsp;Name&nbsp;of&nbsp;the&nbsp;testing&nbsp;class&nbsp;Python&nbsp;file&nbsp;to&nbsp;pre-compile&nbsp;to&nbsp;apply&nbsp;the&nbsp;changes&nbsp;before&nbsp;testing.<br>
+:type&nbsp;&nbsp;test_case_testing_class_file_name:&nbsp;string<br>
+:param&nbsp;test_case_unittestcase_class_name:&nbsp;Unit&nbsp;test&nbsp;case&nbsp;file&nbsp;class&nbsp;name&nbsp;for&nbsp;class&nbsp;definition.<br>
+:type&nbsp;&nbsp;test_case_unittestcase_class_name:&nbsp;string<br>
+:param&nbsp;test_case_unittestcase_class_description:&nbsp;Unit&nbsp;test&nbsp;case&nbsp;class&nbsp;description.<br>
+:type&nbsp;&nbsp;test_case_unittestcase_class_description:&nbsp;string<br>
+:param&nbsp;test_case_normal_case_counter:&nbsp;Number&nbsp;of&nbsp;normal&nbsp;test&nbsp;cases&nbsp;inserted&nbsp;to&nbsp;this&nbsp;unit&nbsp;test&nbsp;case&nbsp;file.<br>
+:type&nbsp;&nbsp;test_case_normal_case_counter:&nbsp;string<br>
+:param&nbsp;test_case_error_case_counter:&nbsp;Number&nbsp;of&nbsp;error&nbsp;test&nbsp;cases&nbsp;inserted&nbsp;to&nbsp;this&nbsp;unit&nbsp;test&nbsp;case&nbsp;file.<br>
+:type&nbsp;&nbsp;test_case_error_case_counter:&nbsp;string<br>
+:param&nbsp;test_case_boundary_case_counter:&nbsp;Number&nbsp;of&nbsp;boundary&nbsp;test&nbsp;cases&nbsp;inserted&nbsp;to&nbsp;this&nbsp;unit&nbsp;test&nbsp;case&nbsp;file.<br>
+:type&nbsp;&nbsp;test_case_boundary_case_counter:&nbsp;string<br>
+:param&nbsp;test_case_white_box_counter:&nbsp;Number&nbsp;of&nbsp;white&nbsp;box&nbsp;test&nbsp;cases&nbsp;inserted&nbsp;to&nbsp;this&nbsp;unit&nbsp;test&nbsp;case&nbsp;file.<br>
+:type&nbsp;&nbsp;test_case_white_box_counter:&nbsp;string<br>
+:param&nbsp;test_case_black_box_counter:&nbsp;Number&nbsp;of&nbsp;black&nbsp;box&nbsp;test&nbsp;cases&nbsp;inserted&nbsp;to&nbsp;this&nbsp;unit&nbsp;test&nbsp;case&nbsp;file.<br>
+:type&nbsp;&nbsp;test_case_black_box_counter:&nbsp;string<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;final_test_case_header_str:&nbsp;Return&nbsp;final&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;header&nbsp;string&nbsp;which&nbsp;contains&nbsp;import&nbsp;code,&nbsp;class&nbsp;definition,&nbsp;class&nbsp;inner&nbsp;document&nbsp;Pydoc&nbsp;docstring&nbsp;and&nbsp;the&nbsp;summarized&nbsp;testing&nbsp;data&nbsp;informations.<br>
+:rtype&nbsp;&nbsp;final_test_case_header_str:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-sub_process_data_generate_test_case_function"><strong>sub_process_data_generate_test_case_function</strong></a>(spreadsheetData, cur_test_case_function_pydoc_str, test_case_id, test_case_title, test_case_description, test_case_class_name, test_case_function_name, test_case_testing_function_return_type, test_case_variable_name, test_case_class_obj_allocation_param_arr, test_case_class_obj_allocation_param_arr_counter, test_case_class_obj_allocation_param_starting_index, test_case_class_testing_function_input_param_arr, test_case_class_testing_function_input_param_arr_counter, test_case_class_testing_function_input_param_starting_index, test_case_class_testing_function_expected_result_arr, test_case_class_testing_function_expected_result_arr_counter, test_case_class_testing_function_expected_output_starting_index, code_lines_before_function_body_str, code_lines_after_function_body_str, test_case_param_name_cells_row, test_case_param_type_cells_row, test_case_param_description_cells_row, test_case_function_body_full_code_exist, test_case_function_body_full_code_str)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Test&nbsp;cases&nbsp;generator&nbsp;sub&nbsp;function&nbsp;to&nbsp;help&nbsp;generating&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;<br>
+function&nbsp;definition&nbsp;and&nbsp;body&nbsp;implementation&nbsp;code.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function&nbsp;&nbsp;:&nbsp;<a href="#-sub_process_data_generate_current_test_case_function_str">sub_process_data_generate_current_test_case_function_str</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;generates&nbsp;each&nbsp;unit&nbsp;test&nbsp;case&nbsp;function&nbsp;definition&nbsp;<br>
+and&nbsp;the&nbsp;function&nbsp;body&nbsp;implementation&nbsp;code&nbsp;string&nbsp;for&nbsp;each&nbsp;using&nbsp;the&nbsp;data&nbsp;<br>
+indicated&nbsp;on&nbsp;each&nbsp;spreadsheet&nbsp;row&nbsp;and&nbsp;return&nbsp;the&nbsp;code&nbsp;string&nbsp;of&nbsp;the&nbsp;unit&nbsp;<br>
+test&nbsp;case&nbsp;function&nbsp;definition&nbsp;combined&nbsp;with&nbsp;the&nbsp;Pydoc&nbsp;inner&nbsp;comments&nbsp;<br>
+provided&nbsp;final<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;where&nbsp;the&nbsp;function&nbsp;definition&nbsp;"def"&nbsp;code&nbsp;is&nbsp;generated&nbsp;and&nbsp;append&nbsp;<br>
+the&nbsp;pre-generated&nbsp;function&nbsp;Pydoc&nbsp;inner&nbsp;comments&nbsp;passed&nbsp;in&nbsp;as&nbsp;one&nbsp;of&nbsp;the&nbsp;<br>
+paramters&nbsp;called&nbsp;"cur_test_case_function_pydoc_str",&nbsp;to&nbsp;combine&nbsp;them&nbsp;into&nbsp;<br>
+final&nbsp;unit&nbsp;test&nbsp;case&nbsp;function&nbsp;string.<br>
+&nbsp;<br>
+If&nbsp;the&nbsp;testing&nbsp;function&nbsp;body&nbsp;full&nbsp;code&nbsp;implementation&nbsp;exist&nbsp;in&nbsp;the&nbsp;Google&nbsp;<br>
+Spreadsheet&nbsp;test&nbsp;case&nbsp;data,&nbsp;then&nbsp;use&nbsp;the&nbsp;data&nbsp;value&nbsp;to&nbsp;generate&nbsp;the&nbsp;test&nbsp;<br>
+case&nbsp;function&nbsp;and&nbsp;return,&nbsp;and&nbsp;other&nbsp;parameter&nbsp;and&nbsp;expected&nbsp;result&nbsp;values&nbsp;<br>
+will&nbsp;be&nbsp;used&nbsp;for&nbsp;Pydoc&nbsp;generation&nbsp;only&nbsp;so&nbsp;the&nbsp;test&nbsp;case&nbsp;function&nbsp;body&nbsp;will&nbsp;<br>
+implemented&nbsp;with&nbsp;the&nbsp;"Test&nbsp;case&nbsp;funciton&nbsp;body&nbsp;full&nbsp;code"&nbsp;column&nbsp;cell&nbsp;value<br>
+only.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;spreadsheetData:&nbsp;Spreadsheet&nbsp;data&nbsp;in&nbsp;Python&nbsp;list&nbsp;data&nbsp;structure&nbsp;format.<br>
+:type&nbsp;&nbsp;spreadsheetData:&nbsp;[[],[],[]&nbsp;...]<br>
+:param&nbsp;cur_test_case_function_pydoc_str:&nbsp;Pydoc&nbsp;inner&nbsp;comment&nbsp;code&nbsp;string&nbsp;to&nbsp;be&nbsp;appended&nbsp;after&nbsp;the&nbsp;function&nbsp;definition&nbsp;line.<br>
+:type&nbsp;&nbsp;cur_test_case_function_pydoc_str:&nbsp;string<br>
+:param&nbsp;test_case_id:&nbsp;Test&nbsp;case&nbsp;ID.&nbsp;(eg.&nbsp;TC_NC_01,&nbsp;TC_NC_02,&nbsp;TC_EC0_01&nbsp;...&nbsp;)<br>
+:type&nbsp;&nbsp;test_case_id:&nbsp;string<br>
+:param&nbsp;test_case_title:&nbsp;Test&nbsp;case&nbsp;title.<br>
+:type&nbsp;&nbsp;test_case_title:&nbsp;string<br>
+:param&nbsp;test_case_description:&nbsp;Test&nbsp;case&nbsp;description.<br>
+:type&nbsp;&nbsp;test_case_description:&nbsp;string<br>
+:param&nbsp;test_case_class_name:&nbsp;Test&nbsp;case&nbsp;class&nbsp;name&nbsp;for&nbsp;unit&nbsp;test&nbsp;case&nbsp;class&nbsp;definition.<br>
+:type&nbsp;&nbsp;test_case_class_name:&nbsp;string<br>
+:param&nbsp;test_case_function_name:&nbsp;Test&nbsp;case&nbsp;function&nbsp;name&nbsp;for&nbsp;each&nbsp;test&nbsp;cases.<br>
+:type&nbsp;&nbsp;test_case_function_name:&nbsp;string<br>
+:param&nbsp;test_case_testing_function_return_type:&nbsp;Return&nbsp;type&nbsp;of&nbsp;the&nbsp;testing&nbsp;function.<br>
+:type&nbsp;&nbsp;test_case_testing_function_return_type:&nbsp;string<br>
+:param&nbsp;test_case_variable_name:&nbsp;Name&nbsp;of&nbsp;the&nbsp;variable&nbsp;to&nbsp;allocate&nbsp;with&nbsp;testing&nbsp;class&nbsp;object&nbsp;to&nbsp;test&nbsp;the&nbsp;testing&nbsp;functions.<br>
+:type&nbsp;&nbsp;test_case_variable_name:&nbsp;string<br>
+:param&nbsp;test_case_class_obj_allocation_param_arr:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;all&nbsp;parameter&nbsp;values&nbsp;for&nbsp;testing&nbsp;class&nbsp;object&nbsp;allocation.<br>
+:type&nbsp;&nbsp;test_case_class_obj_allocation_param_arr:&nbsp;[]<br>
+:param&nbsp;test_case_class_obj_allocation_param_arr_counter:&nbsp;Number&nbsp;of&nbsp;the&nbsp;parameters&nbsp;to&nbsp;be&nbsp;passed&nbsp;into&nbsp;the&nbsp;testing&nbsp;class&nbsp;object&nbsp;allocation&nbsp;init&nbsp;call.<br>
+:type&nbsp;&nbsp;test_case_class_obj_allocation_param_arr_counter:&nbsp;int<br>
+:param&nbsp;test_case_class_obj_allocation_param_starting_index:&nbsp;Allocation&nbsp;parameters&nbsp;starting&nbsp;column&nbsp;index,&nbsp;because&nbsp;there&nbsp;could&nbsp;be&nbsp;many&nbsp;or&nbsp;none&nbsp;depending&nbsp;on&nbsp;the&nbsp;constructors&nbsp;to&nbsp;use&nbsp;to&nbsp;allocate&nbsp;the&nbsp;object.<br>
+:type&nbsp;&nbsp;test_case_class_obj_allocation_param_starting_index:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_input_param_arr:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;all&nbsp;parameter&nbsp;values&nbsp;of&nbsp;the&nbsp;testing&nbsp;function&nbsp;test&nbsp;case&nbsp;data&nbsp;inputs.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_input_param_arr:&nbsp;[]<br>
+:param&nbsp;test_case_class_testing_function_input_param_arr_counter:&nbsp;Number&nbsp;of&nbsp;the&nbsp;parameters&nbsp;to&nbsp;be&nbsp;passed&nbsp;into&nbsp;the&nbsp;testing&nbsp;function&nbsp;call.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_input_param_arr_counter:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_input_param_starting_index:&nbsp;Input&nbsp;parameters&nbsp;starting&nbsp;column&nbsp;index,&nbsp;because&nbsp;there&nbsp;could&nbsp;be&nbsp;many&nbsp;or&nbsp;none&nbsp;depending&nbsp;on&nbsp;the&nbsp;function&nbsp;definition.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_input_param_starting_index:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_expected_result_arr:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;all&nbsp;the&nbsp;expected&nbsp;value&nbsp;to&nbsp;compare&nbsp;the&nbsp;testing&nbsp;function&nbsp;return&nbsp;value&nbsp;to&nbsp;test&nbsp;the&nbsp;function.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_expected_result_arr:&nbsp;[]<br>
+:param&nbsp;test_case_class_testing_function_expected_result_arr_counter:&nbsp;Number&nbsp;of&nbsp;the&nbsp;expected&nbsp;results&nbsp;for&nbsp;testing.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_expected_result_arr_counter:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_expected_output_starting_index:&nbsp;Expected&nbsp;result&nbsp;starting&nbsp;column&nbsp;index&nbsp;because&nbsp;there&nbsp;could&nbsp;be&nbsp;many&nbsp;expected&nbsp;results&nbsp;to&nbsp;compare&nbsp;with.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_expected_output_starting_index:&nbsp;int<br>
+:param&nbsp;code_lines_before_function_body_str:&nbsp;The&nbsp;lines&nbsp;of&nbsp;codes&nbsp;to&nbsp;be&nbsp;prepended&nbsp;to&nbsp;the&nbsp;test&nbsp;case&nbsp;function&nbsp;body&nbsp;codes.<br>
+:type&nbsp;&nbsp;code_lines_before_function_body_str:&nbsp;string<br>
+:param&nbsp;code_lines_after_function_body_str:&nbsp;The&nbsp;lines&nbsp;of&nbsp;codes&nbsp;to&nbsp;be&nbsp;appended&nbsp;to&nbsp;the&nbsp;test&nbsp;case&nbsp;function&nbsp;body&nbsp;codes.<br>
+:type&nbsp;&nbsp;code_lines_after_function_body_str:&nbsp;string<br>
+&nbsp;<br>
+:param&nbsp;test_case_param_name_cells_row:&nbsp;Index&nbsp;of&nbsp;the&nbsp;parameter&nbsp;name&nbsp;cells&nbsp;row.<br>
+:type&nbsp;&nbsp;test_case_param_name_cells_row:&nbsp;int<br>
+:param&nbsp;test_case_param_type_cells_row:&nbsp;Index&nbsp;of&nbsp;the&nbsp;parameter&nbsp;type&nbsp;cells&nbsp;row<br>
+:type&nbsp;&nbsp;test_case_param_type_cells_row:&nbsp;int<br>
+:param&nbsp;test_case_param_description_cells_row:&nbsp;Index&nbsp;of&nbsp;the&nbsp;parameter&nbsp;description&nbsp;cells&nbsp;row<br>
+:type&nbsp;&nbsp;test_case_param_description_cells_row:&nbsp;int<br>
+&nbsp;<br>
+:param&nbsp;test_case_function_body_full_code_exist:&nbsp;Boolean&nbsp;flag&nbsp;to&nbsp;check&nbsp;whether&nbsp;the&nbsp;testing&nbsp;function&nbsp;full&nbsp;body&nbsp;implementation&nbsp;code&nbsp;exists&nbsp;to&nbsp;decide&nbsp;on&nbsp;how&nbsp;to&nbsp;implement&nbsp;the&nbsp;test&nbsp;cases<br>
+:type&nbsp;&nbsp;test_case_function_body_full_code_exist:&nbsp;boolean<br>
+:param&nbsp;test_case_function_body_full_code_str:&nbsp;The&nbsp;string&nbsp;of&nbsp;the&nbsp;testing&nbsp;function&nbsp;full&nbsp;body&nbsp;implementation&nbsp;code&nbsp;to&nbsp;be&nbsp;inserted&nbsp;to&nbsp;the&nbsp;test&nbsp;case&nbsp;if&nbsp;exist.<br>
+:type&nbsp;&nbsp;test_case_function_body_full_code_str:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;cur_test_case_function_str:&nbsp;Return&nbsp;currnt&nbsp;test&nbsp;case&nbsp;function&nbsp;string&nbsp;where&nbsp;Pydoc&nbsp;is&nbsp;appended&nbsp;and&nbsp;the&nbsp;function&nbsp;body&nbsp;is&nbsp;implemented<br>
+:rtype&nbsp;&nbsp;cur_test_case_function_str:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-sub_process_data_generate_test_case_function_pydoc"><strong>sub_process_data_generate_test_case_function_pydoc</strong></a>(spreadsheetData, test_case_id, test_case_title, test_case_description, test_case_class_name, test_case_function_name, test_case_testing_function_return_type, test_case_variable_name, test_case_class_obj_allocation_param_arr, test_case_class_obj_allocation_param_arr_counter, test_case_class_obj_allocation_param_starting_index, test_case_class_testing_function_input_param_arr, test_case_class_testing_function_input_param_arr_counter, test_case_class_testing_function_input_param_starting_index, test_case_class_testing_function_expected_result_arr, test_case_class_testing_function_expected_result_arr_counter, test_case_class_testing_function_expected_output_starting_index, test_case_param_name_cells_row, test_case_param_type_cells_row, test_case_param_description_cells_row)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Test&nbsp;cases&nbsp;generator&nbsp;sub&nbsp;function&nbsp;to&nbsp;help&nbsp;generating&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;<br>
+function&nbsp;inner&nbsp;comment&nbsp;Pydoc&nbsp;docstring.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function&nbsp;&nbsp;:&nbsp;<a href="#-sub_process_data_generate_current_test_case_function_str">sub_process_data_generate_current_test_case_function_str</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;generates&nbsp;each&nbsp;unit&nbsp;test&nbsp;case&nbsp;function&nbsp;inner&nbsp;comments&nbsp;Pydoc&nbsp;<br>
+docstring&nbsp;to&nbsp;be&nbsp;appended&nbsp;to&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;function&nbsp;body&nbsp;to&nbsp;generate&nbsp;<br>
+the&nbsp;Pydoc&nbsp;HTML&nbsp;page&nbsp;for&nbsp;all&nbsp;the&nbsp;unit&nbsp;test&nbsp;cases&nbsp;after.<br>
+&nbsp;<br>
+This&nbsp;is&nbsp;where&nbsp;the&nbsp;Pydoc&nbsp;docstring&nbsp;is&nbsp;generated&nbsp;to&nbsp;be&nbsp;appended&nbsp;after&nbsp;the&nbsp;<br>
+"def"&nbsp;function&nbsp;definition&nbsp;line.<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;spreadsheetData:&nbsp;Spreadsheet&nbsp;data&nbsp;in&nbsp;Python&nbsp;list&nbsp;data&nbsp;structure&nbsp;format.<br>
+:type&nbsp;&nbsp;spreadsheetData:&nbsp;[[],[],[]&nbsp;...]<br>
+:param&nbsp;test_case_id:&nbsp;Test&nbsp;case&nbsp;ID.&nbsp;(eg.&nbsp;TC_NC_01,&nbsp;TC_NC_02,&nbsp;TC_EC0_01&nbsp;...&nbsp;)<br>
+:type&nbsp;&nbsp;test_case_id:&nbsp;string<br>
+:param&nbsp;test_case_title:&nbsp;Test&nbsp;case&nbsp;title.<br>
+:type&nbsp;&nbsp;test_case_title:&nbsp;string<br>
+:param&nbsp;test_case_description:&nbsp;Test&nbsp;case&nbsp;description.<br>
+:type&nbsp;&nbsp;test_case_description:&nbsp;string<br>
+:param&nbsp;test_case_class_name:&nbsp;Test&nbsp;case&nbsp;class&nbsp;name&nbsp;for&nbsp;unit&nbsp;test&nbsp;case&nbsp;class&nbsp;definition.<br>
+:type&nbsp;&nbsp;test_case_class_name:&nbsp;string<br>
+:param&nbsp;test_case_function_name:&nbsp;Test&nbsp;case&nbsp;function&nbsp;name&nbsp;for&nbsp;each&nbsp;test&nbsp;cases.<br>
+:type&nbsp;&nbsp;test_case_function_name:&nbsp;string<br>
+:param&nbsp;test_case_testing_function_return_type:&nbsp;Return&nbsp;type&nbsp;of&nbsp;the&nbsp;testing&nbsp;function.<br>
+:type&nbsp;&nbsp;test_case_testing_function_return_type:&nbsp;string<br>
+:param&nbsp;test_case_variable_name:&nbsp;Name&nbsp;of&nbsp;the&nbsp;variable&nbsp;to&nbsp;allocate&nbsp;with&nbsp;testing&nbsp;class&nbsp;object&nbsp;to&nbsp;test&nbsp;the&nbsp;testing&nbsp;functions.<br>
+:type&nbsp;&nbsp;test_case_variable_name:&nbsp;string<br>
+:param&nbsp;test_case_class_obj_allocation_param_arr:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;all&nbsp;parameter&nbsp;values&nbsp;for&nbsp;testing&nbsp;class&nbsp;object&nbsp;allocation.<br>
+:type&nbsp;&nbsp;test_case_class_obj_allocation_param_arr:&nbsp;[]<br>
+:param&nbsp;test_case_class_obj_allocation_param_arr_counter:&nbsp;Number&nbsp;of&nbsp;the&nbsp;parameters&nbsp;to&nbsp;be&nbsp;passed&nbsp;into&nbsp;the&nbsp;testing&nbsp;class&nbsp;object&nbsp;allocation&nbsp;init&nbsp;call.<br>
+:type&nbsp;&nbsp;test_case_class_obj_allocation_param_arr_counter:&nbsp;int<br>
+:param&nbsp;test_case_class_obj_allocation_param_starting_index:&nbsp;Allocation&nbsp;parameters&nbsp;starting&nbsp;column&nbsp;index,&nbsp;because&nbsp;there&nbsp;could&nbsp;be&nbsp;many&nbsp;or&nbsp;none&nbsp;depending&nbsp;on&nbsp;the&nbsp;constructors&nbsp;to&nbsp;use&nbsp;to&nbsp;allocate&nbsp;the&nbsp;object.<br>
+:type&nbsp;&nbsp;test_case_class_obj_allocation_param_starting_index:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_input_param_arr:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;all&nbsp;parameter&nbsp;values&nbsp;of&nbsp;the&nbsp;testing&nbsp;function&nbsp;test&nbsp;case&nbsp;data&nbsp;inputs.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_input_param_arr:&nbsp;[]<br>
+:param&nbsp;test_case_class_testing_function_input_param_arr_counter:&nbsp;Number&nbsp;of&nbsp;the&nbsp;parameters&nbsp;to&nbsp;be&nbsp;passed&nbsp;into&nbsp;the&nbsp;testing&nbsp;function&nbsp;call.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_input_param_arr_counter:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_input_param_starting_index:&nbsp;Input&nbsp;parameters&nbsp;starting&nbsp;column&nbsp;index,&nbsp;because&nbsp;there&nbsp;could&nbsp;be&nbsp;many&nbsp;or&nbsp;none&nbsp;depending&nbsp;on&nbsp;the&nbsp;function&nbsp;definition.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_input_param_starting_index:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_expected_result_arr:&nbsp;List&nbsp;data&nbsp;structure&nbsp;containing&nbsp;all&nbsp;the&nbsp;expected&nbsp;value&nbsp;to&nbsp;compare&nbsp;the&nbsp;testing&nbsp;function&nbsp;return&nbsp;value&nbsp;to&nbsp;test&nbsp;the&nbsp;function.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_expected_result_arr:&nbsp;[]<br>
+:param&nbsp;test_case_class_testing_function_expected_result_arr_counter:&nbsp;Number&nbsp;of&nbsp;the&nbsp;expected&nbsp;results&nbsp;for&nbsp;testing.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_expected_result_arr_counter:&nbsp;int<br>
+:param&nbsp;test_case_class_testing_function_expected_output_starting_index:&nbsp;Expected&nbsp;result&nbsp;starting&nbsp;column&nbsp;index&nbsp;because&nbsp;there&nbsp;could&nbsp;be&nbsp;many&nbsp;expected&nbsp;results&nbsp;to&nbsp;compare&nbsp;with.<br>
+:type&nbsp;&nbsp;test_case_class_testing_function_expected_output_starting_index:&nbsp;int<br>
+:param&nbsp;test_case_param_name_cells_row:&nbsp;Index&nbsp;of&nbsp;the&nbsp;parameter&nbsp;name&nbsp;cells&nbsp;row.<br>
+:type&nbsp;&nbsp;test_case_param_name_cells_row:&nbsp;int<br>
+:param&nbsp;test_case_param_type_cells_row:&nbsp;Index&nbsp;of&nbsp;the&nbsp;parameter&nbsp;type&nbsp;cells&nbsp;row<br>
+:type&nbsp;&nbsp;test_case_param_type_cells_row:&nbsp;int<br>
+:param&nbsp;test_case_param_description_cells_row:&nbsp;Index&nbsp;of&nbsp;the&nbsp;parameter&nbsp;description&nbsp;cells&nbsp;row<br>
+:type&nbsp;&nbsp;test_case_param_description_cells_row:&nbsp;int<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;cur_test_case_function_pydoc_str:&nbsp;Return&nbsp;currnt&nbsp;test&nbsp;case&nbsp;function&nbsp;inner&nbsp;comment&nbsp;Pydoc&nbsp;docstring&nbsp;code&nbsp;to&nbsp;be&nbsp;appended&nbsp;to&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;function&nbsp;definition.<br>
+:rtype&nbsp;&nbsp;cur_test_case_function_pydoc_str:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-validate_date_string_format"><strong>validate_date_string_format</strong></a>(date_text)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;help&nbsp;validating&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;cell&nbsp;string&nbsp;is<br>
+matching&nbsp;date&nbsp;value&nbsp;format&nbsp;"0000/00/00"<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::process_google_spreadsheet_time_report_data_into_amchart_data()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;checks&nbsp;whether&nbsp;the&nbsp;string&nbsp;value&nbsp;passed&nbsp;in&nbsp;as&nbsp;parameter&nbsp;is&nbsp;<br>
+matching&nbsp;date&nbsp;value&nbsp;format&nbsp;"0000/00/00"<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017/10/11")&nbsp;--&gt;&nbsp;Return&nbsp;True<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017/10-11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017-10-11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017.10.11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;date_text:&nbsp;String&nbsp;value&nbsp;to&nbsp;test&nbsp;the&nbsp;format&nbsp;with.<br>
+:type&nbsp;&nbsp;date_text:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return:&nbsp;True&nbsp;if&nbsp;string&nbsp;matches&nbsp;the&nbsp;date&nbsp;format&nbsp;"0000/00/00".<br>
+:return:&nbsp;False&nbsp;if&nbsp;string&nbsp;does&nbsp;not&nbsp;matches&nbsp;the&nbsp;date&nbsp;format&nbsp;"0000/00/00".</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>__warningregistry__</strong> = {'version': 0, ("unclosed file &lt;_io.TextIOWrapper name='oauth_tes...se_generator_util.py' mode='r' encoding='cp1252'&gt;", &lt;class 'ResourceWarning'&gt;, 6): True, ("unclosed file &lt;_io.TextIOWrapper name='oauth_tes..._spreadsheet_data.py' mode='r' encoding='cp1252'&gt;", &lt;class 'ResourceWarning'&gt;, 9): True}<br>
+<strong>filename</strong> = 'oauth_test_case_generator_get_spreadsheet_data.py'<br>
+<strong>print_function</strong> = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), 65536)</td></tr></table>
+</body></html>

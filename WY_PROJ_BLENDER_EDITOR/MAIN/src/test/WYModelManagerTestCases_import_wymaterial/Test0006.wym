@@ -1,0 +1,12 @@
+mtl_material_name TestMaterial0006
+mtl_mirror_color 0.0 0.0 0.0
+mtl_ambient 1.0
+mtl_diffuse_color 0.0 0.0 0.0
+mtl_diffuse_intensity 0.8
+mtl_specular_color 0.0 0.0 0.0
+mtl_specular_intensity 0.5
+mtl_specular_hardness 97.847358
+mtl_emit 0.0
+mtl_alpha 1.0
+mtl_raytrace_transparency_ior 1.0
+mtl_texture_map_image_path NULL

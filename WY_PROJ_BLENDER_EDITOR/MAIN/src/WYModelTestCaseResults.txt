@@ -1,0 +1,552 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __init__ function                         ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1B6edfrxpzn_oXxhV3dAVun_cgMUPRsaBcX4dPffh8ac/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.009s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __eq__ function                           ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1SPQHJ1684O1vFP6XdlOILjU3xLN7tfs98bmQNvx6OAw/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+....................
+
+----------------------------------------------------------------------
+
+Ran 20 tests in 0.016s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_mesh_export_str function              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FLxfsMeQ-rSrX1joaVQP0CAxsJuS7fnFm_56AdT3_HY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.010s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_material_export_str function          ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1EI-tCU7J9dH4O0BvOLQ9QWwv6cpEH8GHKugufk8defs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.009s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __init__ function                         ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1B6edfrxpzn_oXxhV3dAVun_cgMUPRsaBcX4dPffh8ac/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.025s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __eq__ function                           ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1SPQHJ1684O1vFP6XdlOILjU3xLN7tfs98bmQNvx6OAw/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+....................
+
+----------------------------------------------------------------------
+
+Ran 20 tests in 0.014s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_mesh_export_str function              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FLxfsMeQ-rSrX1joaVQP0CAxsJuS7fnFm_56AdT3_HY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.010s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_material_export_str function          ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1EI-tCU7J9dH4O0BvOLQ9QWwv6cpEH8GHKugufk8defs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __init__ function                         ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1B6edfrxpzn_oXxhV3dAVun_cgMUPRsaBcX4dPffh8ac/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.014s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __eq__ function                           ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1SPQHJ1684O1vFP6XdlOILjU3xLN7tfs98bmQNvx6OAw/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+....................
+
+----------------------------------------------------------------------
+
+Ran 20 tests in 0.014s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_mesh_export_str function              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FLxfsMeQ-rSrX1joaVQP0CAxsJuS7fnFm_56AdT3_HY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_material_export_str function          ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1EI-tCU7J9dH4O0BvOLQ9QWwv6cpEH8GHKugufk8defs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.010s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __init__ function                         ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1B6edfrxpzn_oXxhV3dAVun_cgMUPRsaBcX4dPffh8ac/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.034s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __eq__ function                           ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1SPQHJ1684O1vFP6XdlOILjU3xLN7tfs98bmQNvx6OAw/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+....................
+
+----------------------------------------------------------------------
+
+Ran 20 tests in 0.013s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_mesh_export_str function              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FLxfsMeQ-rSrX1joaVQP0CAxsJuS7fnFm_56AdT3_HY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_material_export_str function          ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1EI-tCU7J9dH4O0BvOLQ9QWwv6cpEH8GHKugufk8defs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.006s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __init__ function                         ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1B6edfrxpzn_oXxhV3dAVun_cgMUPRsaBcX4dPffh8ac/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.064s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __eq__ function                           ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1SPQHJ1684O1vFP6XdlOILjU3xLN7tfs98bmQNvx6OAw/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+....................
+
+----------------------------------------------------------------------
+
+Ran 20 tests in 0.011s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_mesh_export_str function              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FLxfsMeQ-rSrX1joaVQP0CAxsJuS7fnFm_56AdT3_HY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.009s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_material_export_str function          ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1EI-tCU7J9dH4O0BvOLQ9QWwv6cpEH8GHKugufk8defs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.007s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __init__ function                         ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1B6edfrxpzn_oXxhV3dAVun_cgMUPRsaBcX4dPffh8ac/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___init__\WYModelTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.006s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel __eq__ function                           ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1SPQHJ1684O1vFP6XdlOILjU3xLN7tfs98bmQNvx6OAw/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases___eq__\WYModelTestCases___eq__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+....................
+
+----------------------------------------------------------------------
+
+Ran 20 tests in 0.017s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_mesh_export_str function              ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1FLxfsMeQ-rSrX1joaVQP0CAxsJuS7fnFm_56AdT3_HY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_mesh_export_str\WYModelTestCases_get_mesh_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.010s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYModel get_material_export_str function          ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1EI-tCU7J9dH4O0BvOLQ9QWwv6cpEH8GHKugufk8defs/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelTestCases_get_material_export_str\WYModelTestCases_get_material_export_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.009s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+

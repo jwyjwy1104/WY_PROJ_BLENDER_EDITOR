@@ -1,0 +1,164 @@
+================================================================================
+WYArmature.py
+	# def __init__(self, main_armature_obj=None, main_wymodel_obj=None):
+	# def __eq__(self, other):
+	# def __str__(self):
+	# def init_wyarmature_elements(self):
+	# def init_armature_data(self):
+	# def init_armature_name(self):
+	# def init_armature_mesh_name(self):
+	# def init_num_armature_bones_data(self):
+	# def init_armature_bones_arr_data(self):
+	# def get_armature_an_str(self):
+	# def get_armature_cmn_str(self):
+	# def get_armature_bc_str(self):
+	# def get_armature_bones_arr_str(self):
+================================================================================
+================================================================================
+WYArmatureBone.py
+	# def __init__(self, main_armature_bone_obj=None, main_wymodel_obj=None):
+	# def __eq__(self, other):
+	# def __str__(self):
+	# def init_armature_bone_data(self):
+	# def init_wyarmaturebone_elements(self):
+	# def init_armature_bone_name(self):
+	# def init_armature_bone_parent_name(self):
+	# def init_armature_bone_head(self):
+	# def init_armature_bone_tail(self):
+	# def init_armature_bone_vertex_group_data(self):
+	# def get_armature_bone_bn_str(self):
+	# def get_armature_bone_pbn_str(self):
+	# def get_armature_bone_bh_str(self):
+	# def get_armature_bone_bt_str(self):
+	# def get_armature_bone_vg_str(self):
+================================================================================
+================================================================================
+WYCoordsys.py
+	# def __init__(self, 
+	# def __eq__(self, other):
+	# def __str__(self):
+	# def import_coordconversion(self, x, y, z):
+	# def export_coordconversion(self, x, y, z):
+	# def export_xu_yf(self, x, y, z):
+	# def export_xu_m_yf(self, x, y, z):
+	# def export_xu_zf(self, x, y, z):
+	# def export_xu_m_zf(self, x, y, z):
+	# def export_m_xu_yf(self, x, y, z):
+	# def export_m_xu_m_yf(self, x, y, z):
+	# def export_m_xu_zf(self, x, y, z):
+	# def export_m_xu_m_zf(self, x, y, z):
+	# def export_yu_xf(self, x, y, z):
+	# def export_yu_m_xf(self, x, y, z):
+	# def export_yu_zf(self, x, y, z):
+	# def export_yu_m_zf(self, x, y, z):
+	# def export_m_yu_xf(self, x, y, z):
+	# def export_m_yu_m_xf(self, x, y, z):
+	# def export_m_yu_zf(self, x, y, z):
+	# def export_m_yu_m_zf(self, x, y, z):
+	# def export_zu_xf(self, x, y, z):
+	# def export_zu_m_xf(self, x, y, z):
+	# def export_zu_yf(self, x, y, z):
+	# def export_zu_m_yf(self, x, y, z):
+	# def export_m_zu_xf(self, x, y, z):
+	# def export_m_zu_m_xf(self,x , y, z):
+	# def export_m_zu_yf(self, x, y, z):
+	# def export_m_zu_m_yf(self, x, y, z):
+	# def import_xu_yf(self, x, y, z):
+	# def import_xu_m_yf(self, x, y, z):
+	# def import_xu_zf(self, x, y, z):
+	# def import_xu_m_zf(self, x, y, z):
+	# def import_m_xu_yf(self, x, y, z):
+	# def import_m_xu_m_yf(self, x, y, z):
+	# def import_m_xu_zf(self, x, y, z):
+	# def import_m_xu_m_zf(self, x, y, z):
+	# def import_yu_xf(self, x, y, z):
+	# def import_yu_m_xf(self, x, y, z):
+	# def import_yu_zf(self, x, y, z):
+	# def import_yu_m_zf(self, x, y, z):
+	# def import_m_yu_xf(self, x, y, z):
+	# def import_m_yu_m_xf(self, x, y, z):
+	# def import_m_yu_zf(self, x, y, z):
+	# def import_m_yu_m_zf(self, x, y, z):
+	# def import_zu_xf(self, x, y, z):
+	# def import_zu_m_xf(self, x, y, z):
+	# def import_zu_yf(self, x, y, z):
+	# def import_zu_m_yf(self, x, y, z):
+	# def import_m_zu_xf(self, x, y, z):
+	# def import_m_zu_m_xf(self, x, y, z):
+	# def import_m_zu_yf(self, x, y, z):
+	# def import_m_zu_m_yf(self, x, y, z):
+================================================================================
+================================================================================
+main.py
+================================================================================
+================================================================================
+WYMaterial.py
+	# def __init__(self, main_mesh_obj=None, main_material_obj=None):
+	# def __eq__(self, other):
+	# def __str__(self):
+	# def init_material_data(self):
+	# def init_wymaterial_elements(self):
+	# def init_material_name(self):
+	# def init_material_ambient(self):
+	# def init_material_diffuse(self):
+	# def init_material_specular(self):
+	# def init_material_emissive(self):
+	# def init_material_alpha(self):
+	# def init_material_refraction(self):
+	# def init_material_texture(self):
+	# def get_material_name_str(self):
+	# def get_material_ambient_str(self):
+	# def get_material_diffuse_str(self):
+	# def get_material_specular_str(self):
+	# def get_material_emissive_str(self):
+	# def get_material_alpha_str(self):
+	# def get_material_refraction_str(self):
+	# def get_material_texture_str(self):
+================================================================================
+================================================================================
+WYMesh.py
+	# def __init__(self, main_mesh_obj=None, wycoordsys=None):
+	# def __eq__(self, other):
+	# def __str__(self):
+	# def init_mesh_data(self):
+	# def init_wymesh_elements(self):
+	# def init_mesh_name(self):
+	# def init_mesh_mat_relfile_path(self, mesh_mat_relfile_path):
+	# def init_mesh_vertex_data(self):
+	# def init_mesh_vertex_index_data(self): 
+	# def init_mesh_normal_data(self):
+	# def init_mesh_normal_index_data(self): 
+	# def init_mesh_texcoord_data(self):
+	# def init_mesh_texcoord_index_data(self): 
+	# def get_mesh_o_str(self):
+	# def get_mesh_mtllib_str(self):
+	# def get_mesh_v_str(self):
+	# def get_mesh_vn_str(self):
+	# def get_mesh_vt_str(self):
+	# def get_mesh_f_str(self):
+================================================================================
+================================================================================
+WYModel.py
+	# def __init__(self, main_wymesh, main_wymaterial):
+	# def __eq__(self, other):
+	# def get_mesh_export_str(self):
+	# def get_material_export_str(self):
+================================================================================
+================================================================================
+WYModelManager.py
+	# def __init__(self):
+	# def export_model(self, wymodel, file_path):
+	# def import_model(self, file_path):
+	# def import_mesh_from_file(self, mesh_file_path):
+	# def import_wymesh_from_file(self, wymesh_file_path):
+	# def import_wycoordsys_from_file(self, wycoordsys_file_path):
+	# def import_material_from_file(self, mat_file_path):
+	# def import_wymaterial_from_file(self, wymat_file_path):
+================================================================================
+================================================================================
+WYUtil.py
+	# def __init__(self):
+	# def __eq__(self, other):
+	# def triangulate_mesh(self, main_mesh):
+	# def create_custom_mesh(self, obj_name, px, py, pz, 
+================================================================================

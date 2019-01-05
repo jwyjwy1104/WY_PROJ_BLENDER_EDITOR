@@ -1,0 +1,15174 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __init__ function                                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1Evr5szRkRrGS_CsO_QfVgdMvokKgk6EIs8Mpo-ZV7D4/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+...........
+
+----------------------------------------------------------------------
+
+Ran 11 tests in 0.012s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __eq__ function                                     ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tM5hJOL_N-idAqyFeGPV9TXJo4CicHV05ojmUxXIrNU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case result printed                :
+File "C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py", line 680
+
+    bpy.context.scene.frame_set(1+2)
+
+                                   ^
+
+IndentationError: unindent does not match any outer indentation level
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __str__ function                                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1nVYC0AHZQVhokETaYR9mhURDwV2uH8QRDQzmnDetxNY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.016s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_data function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19xo7frxkGlmwR9R3JatjE6TGCLgEd2Uy9ebB40Ssk0Y/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.024s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_name function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1zzW1SvoMP17Qj4WVPcbzbuAFUzHZzc5YhtMPV-MPaKk/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_parent_name function            ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1oJZ336DowM3uESYjphdnihghrfDU4wYR6Af1t42x6Ps/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.033s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_keyframe_arr_data function      ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19DqZR5CVFjswBro5Uf_365IcsAeGs9m24sYZxi5u1Qo/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.041s
+
+OK
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_abn_str function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1I65IT7mTVBcA2HQLfjlHpJ4c17Hi19yevhIfH-rppuU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.070s
+
+OK
+
+abn TestAnimaitonBoneName0001
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_apbn_str function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1yoIDh7e3EfGAm1SNXcwIRaGjinLUP6X97QSDRqTncsY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.213s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_kf_str function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1KqJYRbGf7ICCDor9rsgLcvt7GaDRlMW_D6ZlFiKdtCg/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+...........F.............................................................kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 0.0
+
+rotq 1.0 1.0 0.0 0.0
+
+sca 1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.0
+
+rotq 1.0 0.1 0.0 0.0
+
+sca 0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.0
+
+rotq 1.0 0.001 0.0 0.0
+
+sca 0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0
+
+rotq 1.0 0.0001 0.0 0.0
+
+sca 0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 0.0
+
+rotq 1.0 2.0 0.0 0.0
+
+sca 2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 0.0
+
+rotq 1.0 3.0 0.0 0.0
+
+sca 3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 0.0
+
+rotq 1.0 10.0 0.0 0.0
+
+sca 10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 0.0
+
+rotq 1.0 20.0 0.0 0.0
+
+sca 20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 0.0
+
+rotq 1.0 30.0 0.0 0.0
+
+sca 30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 0.0
+
+rotq 1.0 100.0 0.0 0.0
+
+sca 100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 0.0
+
+rotq 1.0 200.0 0.0 0.0
+
+sca 200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 0.336872 0.780483 0.483536
+
+abt 0.208704 0.336872 0.780483
+
+loc 300.0 0.0 0.0
+
+rotq 1.0 300.0 0.0 0.0
+
+sca 300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 0.0
+
+rotq 1.0 10000.0 0.0 0.0
+
+sca 10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 0.0
+
+rotq 1.0 20000.0 0.0 0.0
+
+sca 20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 0.0
+
+rotq 1.0 30000.0 0.0 0.0
+
+sca 30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 0.0
+
+rotq 1.0 1000000.0 0.0 0.0
+
+sca 1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 0.0
+
+rotq 1.0 2000000.0 0.0 0.0
+
+sca 2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 0.0
+
+rotq 1.0 3000000.0 0.0 0.0
+
+sca 3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 0.0
+
+rotq 1.0 -1.0 0.0 0.0
+
+sca -1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 0.0
+
+rotq 1.0 -0.1 0.0 0.0
+
+sca -0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 0.0
+
+rotq 1.0 -0.001 0.0 0.0
+
+sca -0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 0.0
+
+rotq 1.0 -0.0001 0.0 0.0
+
+sca -0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 0.0
+
+rotq 1.0 -2.0 0.0 0.0
+
+sca -2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 0.0
+
+rotq 1.0 -3.0 0.0 0.0
+
+sca -3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 0.0
+
+rotq 1.0 -10.0 0.0 0.0
+
+sca -10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 0.0
+
+rotq 1.0 -20.0 0.0 0.0
+
+sca -20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 0.0
+
+rotq 1.0 -30.0 0.0 0.0
+
+sca -30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 0.0
+
+rotq 1.0 -100.0 0.0 0.0
+
+sca -100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 0.0
+
+rotq 1.0 -200.0 0.0 0.0
+
+sca -200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 0.0
+
+rotq 1.0 -300.0 0.0 0.0
+
+sca -300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 0.0
+
+rotq 1.0 -10000.0 0.0 0.0
+
+sca -10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 0.0
+
+rotq 1.0 -20000.0 0.0 0.0
+
+sca -20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 0.0
+
+rotq 1.0 -30000.0 0.0 0.0
+
+sca -30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 0.0
+
+rotq 1.0 -1000000.0 0.0 0.0
+
+sca -1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 0.0
+
+rotq 1.0 -2000000.0 0.0 0.0
+
+sca -2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 0.0
+
+rotq 1.0 -3000000.0 0.0 0.0
+
+sca -3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 0.0
+
+rotq 1.0 0.0 1.0 0.0
+
+sca 0.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.0
+
+rotq 1.0 0.0 0.1 0.0
+
+sca 0.0 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.001 0.0
+
+rotq 1.0 0.0 0.001 0.0
+
+sca 0.0 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0
+
+rotq 1.0 0.0 0.0001 0.0
+
+sca 0.0 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 0.0
+
+rotq 1.0 0.0 2.0 0.0
+
+sca 0.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 0.0
+
+rotq 1.0 0.0 3.0 0.0
+
+sca 0.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 0.0
+
+rotq 1.0 0.0 10.0 0.0
+
+sca 0.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 0.0
+
+rotq 1.0 0.0 20.0 0.0
+
+sca 0.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 0.0
+
+rotq 1.0 0.0 30.0 0.0
+
+sca 0.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 0.0
+
+rotq 1.0 0.0 100.0 0.0
+
+sca 0.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 0.0
+
+rotq 1.0 0.0 200.0 0.0
+
+sca 0.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 0.0
+
+rotq 1.0 0.0 300.0 0.0
+
+sca 0.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 0.0
+
+rotq 1.0 0.0 10000.0 0.0
+
+sca 0.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 0.0
+
+rotq 1.0 0.0 20000.0 0.0
+
+sca 0.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 0.0
+
+rotq 1.0 0.0 30000.0 0.0
+
+sca 0.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 0.0
+
+rotq 1.0 0.0 1000000.0 0.0
+
+sca 0.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 0.0
+
+rotq 1.0 0.0 2000000.0 0.0
+
+sca 0.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 0.0
+
+rotq 1.0 0.0 3000000.0 0.0
+
+sca 0.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 0.0
+
+rotq 1.0 0.0 -1.0 0.0
+
+sca 0.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 0.0
+
+rotq 1.0 0.0 -0.1 0.0
+
+sca 0.0 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 0.0
+
+rotq 1.0 0.0 -0.001 0.0
+
+sca 0.0 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 0.0
+
+rotq 1.0 0.0 -0.0001 0.0
+
+sca 0.0 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 0.0
+
+rotq 1.0 0.0 -2.0 0.0
+
+sca 0.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 0.0
+
+rotq 1.0 0.0 -3.0 0.0
+
+sca 0.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 0.0
+
+rotq 1.0 0.0 -10.0 0.0
+
+sca 0.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 0.0
+
+rotq 1.0 0.0 -20.0 0.0
+
+sca 0.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 0.0
+
+rotq 1.0 0.0 -30.0 0.0
+
+sca 0.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 0.0
+
+rotq 1.0 0.0 -100.0 0.0
+
+sca 0.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 0.0
+
+rotq 1.0 0.0 -200.0 0.0
+
+sca 0.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 0.0
+
+rotq 1.0 0.0 -300.0 0.0
+
+sca 0.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 0.0
+
+rotq 1.0 0.0 -10000.0 0.0
+
+sca 0.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 0.0
+
+rotq 1.0 0.0 -20000.0 0.0
+
+sca 0.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 0.0
+
+rotq 1.0 0.0 -30000.0 0.0
+
+sca 0.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 0.0
+
+rotq 1.0 0.0 -1000000.0 0.0
+
+sca 0.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 0.0
+
+rotq 1.0 0.0 -2000000.0 0.0
+
+sca 0.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 0.0
+
+rotq 1.0 0.0 -3000000.0 0.0
+
+sca 0.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1.0
+
+rotq 1.0 0.0 0.0 1.0
+
+sca 0.0 0.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.1
+
+rotq 1.0 0.0 0.0 0.1
+
+sca 0.0 0.0 0.1
+
+}
+
+.......................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.001
+
+rotq 1.0 0.0 0.0 0.001
+
+sca 0.0 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.0001
+
+rotq 1.0 0.0 0.0 0.0001
+
+sca 0.0 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2.0
+
+rotq 1.0 0.0 0.0 2.0
+
+sca 0.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3.0
+
+rotq 1.0 0.0 0.0 3.0
+
+sca 0.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10.0
+
+rotq 1.0 0.0 0.0 10.0
+
+sca 0.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20.0
+
+rotq 1.0 0.0 0.0 20.0
+
+sca 0.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30.0
+
+rotq 1.0 0.0 0.0 30.0
+
+sca 0.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 100.0
+
+rotq 1.0 0.0 0.0 100.0
+
+sca 0.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 200.0
+
+rotq 1.0 0.0 0.0 200.0
+
+sca 0.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 300.0
+
+rotq 1.0 0.0 0.0 300.0
+
+sca 0.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10000.0
+
+rotq 1.0 0.0 0.0 10000.0
+
+sca 0.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20000.0
+
+rotq 1.0 0.0 0.0 20000.0
+
+sca 0.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30000.0
+
+rotq 1.0 0.0 0.0 30000.0
+
+sca 0.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1000000.0
+
+rotq 1.0 0.0 0.0 1000000.0
+
+sca 0.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2000000.0
+
+rotq 1.0 0.0 0.0 2000000.0
+
+sca 0.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3000000.0
+
+rotq 1.0 0.0 0.0 3000000.0
+
+sca 0.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1.0
+
+rotq 1.0 0.0 0.0 -1.0
+
+sca 0.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.1
+
+rotq 1.0 0.0 0.0 -0.1
+
+sca 0.0 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.001
+
+rotq 1.0 0.0 0.0 -0.001
+
+sca 0.0 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.0001
+
+rotq 1.0 0.0 0.0 -0.0001
+
+sca 0.0 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2.0
+
+rotq 1.0 0.0 0.0 -2.0
+
+sca 0.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3.0
+
+rotq 1.0 0.0 0.0 -3.0
+
+sca 0.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10.0
+
+rotq 1.0 0.0 0.0 -10.0
+
+sca 0.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20.0
+
+rotq 1.0 0.0 0.0 -20.0
+
+sca 0.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30.0
+
+rotq 1.0 0.0 0.0 -30.0
+
+sca 0.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -100.0
+
+rotq 1.0 0.0 0.0 -100.0
+
+sca 0.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -200.0
+
+rotq 1.0 0.0 0.0 -200.0
+
+sca 0.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -300.0
+
+rotq 1.0 0.0 0.0 -300.0
+
+sca 0.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10000.0
+
+rotq 1.0 0.0 0.0 -10000.0
+
+sca 0.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20000.0
+
+rotq 1.0 0.0 0.0 -20000.0
+
+sca 0.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30000.0
+
+rotq 1.0 0.0 0.0 -30000.0
+
+sca 0.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1000000.0
+
+rotq 1.0 0.0 0.0 -1000000.0
+
+sca 0.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2000000.0
+
+rotq 1.0 0.0 0.0 -2000000.0
+
+sca 0.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3000000.0
+
+rotq 1.0 0.0 0.0 -3000000.0
+
+sca 0.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 0.0
+
+rotq 1.0 1.0 1.0 0.0
+
+sca 1.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.0
+
+rotq 1.0 0.1 0.1 0.0
+
+sca 0.1 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.001 0.0
+
+rotq 1.0 0.001 0.001 0.0
+
+sca 0.001 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0
+
+rotq 1.0 0.0001 0.0001 0.0
+
+sca 0.0001 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 0.0
+
+rotq 1.0 2.0 2.0 0.0
+
+sca 2.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 0.0
+
+rotq 1.0 3.0 3.0 0.0
+
+sca 3.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 0.0
+
+rotq 1.0 10.0 10.0 0.0
+
+sca 10.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 0.0
+
+rotq 1.0 20.0 20.0 0.0
+
+sca 20.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 0.0
+
+rotq 1.0 30.0 30.0 0.0
+
+sca 30.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 0.0
+
+rotq 1.0 100.0 100.0 0.0
+
+sca 100.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 0.0
+
+rotq 1.0 200.0 200.0 0.0
+
+sca 200.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 0.0
+
+rotq 1.0 300.0 300.0 0.0
+
+sca 300.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 0.0
+
+rotq 1.0 10000.0 10000.0 0.0
+
+sca 10000.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 0.0
+
+rotq 1.0 20000.0 20000.0 0.0
+
+sca 20000.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 0.0
+
+rotq 1.0 30000.0 30000.0 0.0
+
+sca 30000.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 0.0
+
+rotq 1.0 1000000.0 1000000.0 0.0
+
+sca 1000000.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 0.0
+
+rotq 1.0 2000000.0 2000000.0 0.0
+
+sca 2000000.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 0.0
+
+rotq 1.0 3000000.0 3000000.0 0.0
+
+sca 3000000.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 0.0
+
+rotq 1.0 -1.0 -1.0 0.0
+
+sca -1.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 0.0
+
+rotq 1.0 -0.1 -0.1 0.0
+
+sca -0.1 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 0.0
+
+rotq 1.0 -0.001 -0.001 0.0
+
+sca -0.001 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 0.0
+
+rotq 1.0 -0.0001 -0.0001 0.0
+
+sca -0.0001 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 0.0
+
+rotq 1.0 -2.0 -2.0 0.0
+
+sca -2.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 0.0
+
+rotq 1.0 -3.0 -3.0 0.0
+
+sca -3.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 0.0
+
+rotq 1.0 -10.0 -10.0 0.0
+
+sca -10.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 0.0
+
+rotq 1.0 -20.0 -20.0 0.0
+
+sca -20.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 0.0
+
+rotq 1.0 -30.0 -30.0 0.0
+
+sca -30.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 0.0
+
+rotq 1.0 -100.0 -100.0 0.0
+
+sca -100.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 0.0
+
+rotq 1.0 -200.0 -200.0 0.0
+
+sca -200.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 0.0
+
+rotq 1.0 -300.0 -300.0 0.0
+
+sca -300.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 0.0
+
+rotq 1.0 -10000.0 -10000.0 0.0
+
+sca -10000.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 0.0
+
+rotq 1.0 -20000.0 -20000.0 0.0
+
+sca -20000.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 0.0
+
+rotq 1.0 -30000.0 -30000.0 0.0
+
+sca -30000.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 0.0
+
+rotq 1.0 -1000000.0 -1000000.0 0.0
+
+sca -1000000.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 0.0
+
+rotq 1.0 -2000000.0 -2000000.0 0.0
+
+sca -2000000.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 0.0
+
+rotq 1.0 -3000000.0 -3000000.0 0.0
+
+sca -3000000.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 1.0
+
+rotq 1.0 1.0 0.0 1.0
+
+sca 1.0 0.0 1.0
+
+}
+
+.....................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.1
+
+rotq 1.0 0.1 0.0 0.1
+
+sca 0.1 0.0 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.001
+
+rotq 1.0 0.001 0.0 0.001
+
+sca 0.001 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0001
+
+rotq 1.0 0.0001 0.0 0.0001
+
+sca 0.0001 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 2.0
+
+rotq 1.0 2.0 0.0 2.0
+
+sca 2.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 3.0
+
+rotq 1.0 3.0 0.0 3.0
+
+sca 3.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 10.0
+
+rotq 1.0 10.0 0.0 10.0
+
+sca 10.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 20.0
+
+rotq 1.0 20.0 0.0 20.0
+
+sca 20.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 30.0
+
+rotq 1.0 30.0 0.0 30.0
+
+sca 30.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 100.0
+
+rotq 1.0 100.0 0.0 100.0
+
+sca 100.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 200.0
+
+rotq 1.0 200.0 0.0 200.0
+
+sca 200.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 0.0 300.0
+
+rotq 1.0 300.0 0.0 300.0
+
+sca 300.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 10000.0
+
+rotq 1.0 10000.0 0.0 10000.0
+
+sca 10000.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 20000.0
+
+rotq 1.0 20000.0 0.0 20000.0
+
+sca 20000.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 30000.0
+
+rotq 1.0 30000.0 0.0 30000.0
+
+sca 30000.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 1000000.0
+
+rotq 1.0 1000000.0 0.0 1000000.0
+
+sca 1000000.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 2000000.0
+
+rotq 1.0 2000000.0 0.0 2000000.0
+
+sca 2000000.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 3000000.0
+
+rotq 1.0 3000000.0 0.0 3000000.0
+
+sca 3000000.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 -1.0
+
+rotq 1.0 -1.0 0.0 -1.0
+
+sca -1.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 -0.1
+
+rotq 1.0 -0.1 0.0 -0.1
+
+sca -0.1 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 -0.001
+
+rotq 1.0 -0.001 0.0 -0.001
+
+sca -0.001 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 -0.0001
+
+rotq 1.0 -0.0001 0.0 -0.0001
+
+sca -0.0001 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 -2.0
+
+rotq 1.0 -2.0 0.0 -2.0
+
+sca -2.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 -3.0
+
+rotq 1.0 -3.0 0.0 -3.0
+
+sca -3.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 -10.0
+
+rotq 1.0 -10.0 0.0 -10.0
+
+sca -10.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 -20.0
+
+rotq 1.0 -20.0 0.0 -20.0
+
+sca -20.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 -30.0
+
+rotq 1.0 -30.0 0.0 -30.0
+
+sca -30.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 -100.0
+
+rotq 1.0 -100.0 0.0 -100.0
+
+sca -100.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 -200.0
+
+rotq 1.0 -200.0 0.0 -200.0
+
+sca -200.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 -300.0
+
+rotq 1.0 -300.0 0.0 -300.0
+
+sca -300.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 -10000.0
+
+rotq 1.0 -10000.0 0.0 -10000.0
+
+sca -10000.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 -20000.0
+
+rotq 1.0 -20000.0 0.0 -20000.0
+
+sca -20000.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 -30000.0
+
+rotq 1.0 -30000.0 0.0 -30000.0
+
+sca -30000.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 -1000000.0
+
+rotq 1.0 -1000000.0 0.0 -1000000.0
+
+sca -1000000.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 -2000000.0
+
+rotq 1.0 -2000000.0 0.0 -2000000.0
+
+sca -2000000.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 -3000000.0
+
+rotq 1.0 -3000000.0 0.0 -3000000.0
+
+sca -3000000.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 1.0
+
+rotq 1.0 0.0 1.0 1.0
+
+sca 0.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.1
+
+rotq 1.0 0.0 0.1 0.1
+
+sca 0.0 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.01 0.001
+
+rotq 1.0 0.0 0.01 0.001
+
+sca 0.0 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0001
+
+rotq 1.0 0.0 0.0001 0.0001
+
+sca 0.0 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 2.0
+
+rotq 1.0 0.0 2.0 2.0
+
+sca 0.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 3.0
+
+rotq 1.0 0.0 3.0 3.0
+
+sca 0.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 10.0
+
+rotq 1.0 0.0 10.0 10.0
+
+sca 0.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 20.0
+
+rotq 1.0 0.0 20.0 20.0
+
+sca 0.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 30.0
+
+rotq 1.0 0.0 30.0 30.0
+
+sca 0.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 100.0
+
+rotq 1.0 0.0 100.0 100.0
+
+sca 0.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 200.0
+
+rotq 1.0 0.0 200.0 200.0
+
+sca 0.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 300.0
+
+rotq 1.0 0.0 300.0 300.0
+
+sca 0.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 10000.0
+
+rotq 1.0 0.0 10000.0 10000.0
+
+sca 0.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 20000.0
+
+rotq 1.0 0.0 20000.0 20000.0
+
+sca 0.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 30000.0
+
+rotq 1.0 0.0 30000.0 30000.0
+
+sca 0.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 1000000.0
+
+rotq 1.0 0.0 1000000.0 1000000.0
+
+sca 0.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 2000000.0
+
+rotq 1.0 0.0 2000000.0 2000000.0
+
+sca 0.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 3000000.0
+
+rotq 1.0 0.0 3000000.0 3000000.0
+
+sca 0.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 -1.0
+
+rotq 1.0 0.0 -1.0 -1.0
+
+sca 0.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 -0.1
+
+rotq 1.0 0.0 -0.1 -0.1
+
+sca 0.0 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 -0.001
+
+rotq 1.0 0.0 -0.001 -0.001
+
+sca 0.0 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 -0.0001
+
+rotq 1.0 0.0 -0.0001 -0.0001
+
+sca 0.0 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 -2.0
+
+rotq 1.0 0.0 -2.0 -2.0
+
+sca 0.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 -3.0
+
+rotq 1.0 0.0 -3.0 -3.0
+
+sca 0.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 -10.0
+
+rotq 1.0 0.0 -10.0 -10.0
+
+sca 0.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 -20.0
+
+rotq 1.0 0.0 -20.0 -20.0
+
+sca 0.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 -30.0
+
+rotq 1.0 0.0 -30.0 -30.0
+
+sca 0.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 -100.0
+
+rotq 1.0 0.0 -100.0 -100.0
+
+sca 0.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 -200.0
+
+rotq 1.0 0.0 -200.0 -200.0
+
+sca 0.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 -300.0
+
+rotq 1.0 0.0 -300.0 -300.0
+
+sca 0.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 -10000.0
+
+rotq 1.0 0.0 -10000.0 -10000.0
+
+sca 0.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 -20000.0
+
+rotq 1.0 0.0 -20000.0 -20000.0
+
+sca 0.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 -30000.0
+
+rotq 1.0 0.0 -30000.0 -30000.0
+
+sca 0.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 -1000000.0
+
+rotq 1.0 0.0 -1000000.0 -1000000.0
+
+sca 0.0 -1000000.0 -1000000.0
+
+}
+
+.......................................
+
+======================================================================
+
+FAIL: test_WYAnimationBoneTestCase_get_animation_bone_kf_str_TC_NC_0012 (__main__.WYAnimationBoneTestCases_get_animation_bone_kf_str)
+
+----------------------------------------------------------------------
+
+Traceback (most recent call last):
+
+  File "C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py", line 573, in test_WYAnimationBoneTestCase_get_animation_bone_kf_str_TC_NC_0012
+
+    print(wyanimationbone.get_animation_bone_kf_str())
+
+AssertionError: False is not true
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.317s
+
+FAILED (failures=1)
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 -2000000.0
+
+rotq 1.0 0.0 -2000000.0 -2000000.0
+
+sca 0.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 -3000000.0
+
+rotq 1.0 0.0 -3000000.0 -3000000.0
+
+sca 0.0 -3000000.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 1.0
+
+rotq 1.0 1.0 1.0 1.0
+
+sca 1.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.1
+
+rotq 1.0 0.1 0.1 0.1
+
+sca 0.1 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.01 0.001
+
+rotq 1.0 0.001 0.01 0.001
+
+sca 0.001 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0001
+
+rotq 1.0 0.0001 0.0001 0.0001
+
+sca 0.0001 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 2.0
+
+rotq 1.0 2.0 2.0 2.0
+
+sca 2.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 3.0
+
+rotq 1.0 3.0 3.0 3.0
+
+sca 3.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 10.0
+
+rotq 1.0 10.0 10.0 10.0
+
+sca 10.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 20.0
+
+rotq 1.0 20.0 20.0 20.0
+
+sca 20.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 30.0
+
+rotq 1.0 30.0 30.0 30.0
+
+sca 30.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 100.0
+
+rotq 1.0 100.0 100.0 100.0
+
+sca 100.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 200.0
+
+rotq 1.0 200.0 200.0 200.0
+
+sca 200.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 300.0
+
+rotq 1.0 300.0 300.0 300.0
+
+sca 300.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 10000.0
+
+rotq 1.0 10000.0 10000.0 10000.0
+
+sca 10000.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 20000.0
+
+rotq 1.0 20000.0 20000.0 20000.0
+
+sca 20000.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 30000.0
+
+rotq 1.0 30000.0 30000.0 30000.0
+
+sca 30000.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 1000000.0
+
+rotq 1.0 1000000.0 1000000.0 1000000.0
+
+sca 1000000.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 2000000.0
+
+rotq 1.0 2000000.0 2000000.0 2000000.0
+
+sca 2000000.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 3000000.0
+
+rotq 1.0 3000000.0 3000000.0 3000000.0
+
+sca 3000000.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 -1.0
+
+rotq 1.0 -1.0 -1.0 -1.0
+
+sca -1.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 -0.1
+
+rotq 1.0 -0.1 -0.1 -0.1
+
+sca -0.1 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 -0.001
+
+rotq 1.0 -0.001 -0.001 -0.001
+
+sca -0.001 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 -0.0001
+
+rotq 1.0 -0.0001 -0.0001 -0.0001
+
+sca -0.0001 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 -2.0
+
+rotq 1.0 -2.0 -2.0 -2.0
+
+sca -2.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 -3.0
+
+rotq 1.0 -3.0 -3.0 -3.0
+
+sca -3.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 -10.0
+
+rotq 1.0 -10.0 -10.0 -10.0
+
+sca -10.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 -20.0
+
+rotq 1.0 -20.0 -20.0 -20.0
+
+sca -20.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 -30.0
+
+rotq 1.0 -30.0 -30.0 -30.0
+
+sca -30.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 -100.0
+
+rotq 1.0 -100.0 -100.0 -100.0
+
+sca -100.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 -200.0
+
+rotq 1.0 -200.0 -200.0 -200.0
+
+sca -200.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 -300.0
+
+rotq 1.0 -300.0 -300.0 -300.0
+
+sca -300.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 -10000.0
+
+rotq 1.0 -10000.0 -10000.0 -10000.0
+
+sca -10000.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 -20000.0
+
+rotq 1.0 -20000.0 -20000.0 -20000.0
+
+sca -20000.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 -30000.0
+
+rotq 1.0 -30000.0 -30000.0 -30000.0
+
+sca -30000.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 -1000000.0
+
+rotq 1.0 -1000000.0 -1000000.0 -1000000.0
+
+sca -1000000.0 -1000000.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 -2000000.0
+
+rotq 1.0 -2000000.0 -2000000.0 -2000000.0
+
+sca -2000000.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 -3000000.0
+
+rotq 1.0 -3000000.0 -3000000.0 -3000000.0
+
+sca -3000000.0 -3000000.0 -3000000.0
+
+}
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __init__ function                                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1Evr5szRkRrGS_CsO_QfVgdMvokKgk6EIs8Mpo-ZV7D4/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+...........
+
+----------------------------------------------------------------------
+
+Ran 11 tests in 0.007s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __eq__ function                                     ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tM5hJOL_N-idAqyFeGPV9TXJo4CicHV05ojmUxXIrNU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case result printed                :
+File "C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py", line 680
+
+    bpy.context.scene.frame_set(1+2)
+
+                                   ^
+
+IndentationError: unindent does not match any outer indentation level
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __str__ function                                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1nVYC0AHZQVhokETaYR9mhURDwV2uH8QRDQzmnDetxNY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.020s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_data function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19xo7frxkGlmwR9R3JatjE6TGCLgEd2Uy9ebB40Ssk0Y/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.009s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_name function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1zzW1SvoMP17Qj4WVPcbzbuAFUzHZzc5YhtMPV-MPaKk/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.006s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_parent_name function            ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1oJZ336DowM3uESYjphdnihghrfDU4wYR6Af1t42x6Ps/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.020s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_keyframe_arr_data function      ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19DqZR5CVFjswBro5Uf_365IcsAeGs9m24sYZxi5u1Qo/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.013s
+
+OK
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_abn_str function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1I65IT7mTVBcA2HQLfjlHpJ4c17Hi19yevhIfH-rppuU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+abn TestAnimaitonBoneName0001
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_apbn_str function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1yoIDh7e3EfGAm1SNXcwIRaGjinLUP6X97QSDRqTncsY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.023s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_kf_str function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1KqJYRbGf7ICCDor9rsgLcvt7GaDRlMW_D6ZlFiKdtCg/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+.........................................................................kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 0.0
+
+rotq 1.0 1.0 0.0 0.0
+
+sca 1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.0
+
+rotq 1.0 0.1 0.0 0.0
+
+sca 0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.0
+
+rotq 1.0 0.001 0.0 0.0
+
+sca 0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0
+
+rotq 1.0 0.0001 0.0 0.0
+
+sca 0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 0.0
+
+rotq 1.0 2.0 0.0 0.0
+
+sca 2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 0.0
+
+rotq 1.0 3.0 0.0 0.0
+
+sca 3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 0.0
+
+rotq 1.0 10.0 0.0 0.0
+
+sca 10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 0.0
+
+rotq 1.0 20.0 0.0 0.0
+
+sca 20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 0.0
+
+rotq 1.0 30.0 0.0 0.0
+
+sca 30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 0.0
+
+rotq 1.0 100.0 0.0 0.0
+
+sca 100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 0.0
+
+rotq 1.0 200.0 0.0 0.0
+
+sca 200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 0.0 0.0
+
+rotq 1.0 300.0 0.0 0.0
+
+sca 300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 0.0
+
+rotq 1.0 10000.0 0.0 0.0
+
+sca 10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 0.0
+
+rotq 1.0 20000.0 0.0 0.0
+
+sca 20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 0.0
+
+rotq 1.0 30000.0 0.0 0.0
+
+sca 30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 0.0
+
+rotq 1.0 1000000.0 0.0 0.0
+
+sca 1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 0.0
+
+rotq 1.0 2000000.0 0.0 0.0
+
+sca 2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 0.0
+
+rotq 1.0 3000000.0 0.0 0.0
+
+sca 3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 0.0
+
+rotq 1.0 -1.0 0.0 0.0
+
+sca -1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 0.0
+
+rotq 1.0 -0.1 0.0 0.0
+
+sca -0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 0.0
+
+rotq 1.0 -0.001 0.0 0.0
+
+sca -0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 0.0
+
+rotq 1.0 -0.0001 0.0 0.0
+
+sca -0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 0.0
+
+rotq 1.0 -2.0 0.0 0.0
+
+sca -2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 0.0
+
+rotq 1.0 -3.0 0.0 0.0
+
+sca -3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 0.0
+
+rotq 1.0 -10.0 0.0 0.0
+
+sca -10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 0.0
+
+rotq 1.0 -20.0 0.0 0.0
+
+sca -20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 0.0
+
+rotq 1.0 -30.0 0.0 0.0
+
+sca -30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 0.0
+
+rotq 1.0 -100.0 0.0 0.0
+
+sca -100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 0.0
+
+rotq 1.0 -200.0 0.0 0.0
+
+sca -200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 0.0
+
+rotq 1.0 -300.0 0.0 0.0
+
+sca -300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 0.0
+
+rotq 1.0 -10000.0 0.0 0.0
+
+sca -10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 0.0
+
+rotq 1.0 -20000.0 0.0 0.0
+
+sca -20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 0.0
+
+rotq 1.0 -30000.0 0.0 0.0
+
+sca -30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 0.0
+
+rotq 1.0 -1000000.0 0.0 0.0
+
+sca -1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 0.0
+
+rotq 1.0 -2000000.0 0.0 0.0
+
+sca -2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 0.0
+
+rotq 1.0 -3000000.0 0.0 0.0
+
+sca -3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 0.0
+
+rotq 1.0 0.0 1.0 0.0
+
+sca 0.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.0
+
+rotq 1.0 0.0 0.1 0.0
+
+sca 0.0 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.001 0.0
+
+rotq 1.0 0.0 0.001 0.0
+
+sca 0.0 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0
+
+rotq 1.0 0.0 0.0001 0.0
+
+sca 0.0 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 0.0
+
+rotq 1.0 0.0 2.0 0.0
+
+sca 0.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 0.0
+
+rotq 1.0 0.0 3.0 0.0
+
+sca 0.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 0.0
+
+rotq 1.0 0.0 10.0 0.0
+
+sca 0.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 0.0
+
+rotq 1.0 0.0 20.0 0.0
+
+sca 0.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 0.0
+
+rotq 1.0 0.0 30.0 0.0
+
+sca 0.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 0.0
+
+rotq 1.0 0.0 100.0 0.0
+
+sca 0.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 0.0
+
+rotq 1.0 0.0 200.0 0.0
+
+sca 0.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 0.0
+
+rotq 1.0 0.0 300.0 0.0
+
+sca 0.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 0.0
+
+rotq 1.0 0.0 10000.0 0.0
+
+sca 0.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 0.0
+
+rotq 1.0 0.0 20000.0 0.0
+
+sca 0.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 0.0
+
+rotq 1.0 0.0 30000.0 0.0
+
+sca 0.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 0.0
+
+rotq 1.0 0.0 1000000.0 0.0
+
+sca 0.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 0.0
+
+rotq 1.0 0.0 2000000.0 0.0
+
+sca 0.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 0.0
+
+rotq 1.0 0.0 3000000.0 0.0
+
+sca 0.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 0.0
+
+rotq 1.0 0.0 -1.0 0.0
+
+sca 0.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 0.0
+
+rotq 1.0 0.0 -0.1 0.0
+
+sca 0.0 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 0.0
+
+rotq 1.0 0.0 -0.001 0.0
+
+sca 0.0 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 0.0
+
+rotq 1.0 0.0 -0.0001 0.0
+
+sca 0.0 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 0.0
+
+rotq 1.0 0.0 -2.0 0.0
+
+sca 0.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 0.0
+
+rotq 1.0 0.0 -3.0 0.0
+
+sca 0.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 0.0
+
+rotq 1.0 0.0 -10.0 0.0
+
+sca 0.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 0.0
+
+rotq 1.0 0.0 -20.0 0.0
+
+sca 0.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 0.0
+
+rotq 1.0 0.0 -30.0 0.0
+
+sca 0.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 0.0
+
+rotq 1.0 0.0 -100.0 0.0
+
+sca 0.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 0.0
+
+rotq 1.0 0.0 -200.0 0.0
+
+sca 0.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 0.0
+
+rotq 1.0 0.0 -300.0 0.0
+
+sca 0.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 0.0
+
+rotq 1.0 0.0 -10000.0 0.0
+
+sca 0.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 0.0
+
+rotq 1.0 0.0 -20000.0 0.0
+
+sca 0.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 0.0
+
+rotq 1.0 0.0 -30000.0 0.0
+
+sca 0.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 0.0
+
+rotq 1.0 0.0 -1000000.0 0.0
+
+sca 0.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 0.0
+
+rotq 1.0 0.0 -2000000.0 0.0
+
+sca 0.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 0.0
+
+rotq 1.0 0.0 -3000000.0 0.0
+
+sca 0.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1.0
+
+rotq 1.0 0.0 0.0 1.0
+
+sca 0.0 0.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.1
+
+rotq 1.0 0.0 0.0 0.1
+
+sca 0.0 0.0 0.1
+
+}
+
+.......................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.001
+
+rotq 1.0 0.0 0.0 0.001
+
+sca 0.0 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.0001
+
+rotq 1.0 0.0 0.0 0.0001
+
+sca 0.0 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2.0
+
+rotq 1.0 0.0 0.0 2.0
+
+sca 0.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3.0
+
+rotq 1.0 0.0 0.0 3.0
+
+sca 0.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10.0
+
+rotq 1.0 0.0 0.0 10.0
+
+sca 0.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20.0
+
+rotq 1.0 0.0 0.0 20.0
+
+sca 0.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30.0
+
+rotq 1.0 0.0 0.0 30.0
+
+sca 0.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 100.0
+
+rotq 1.0 0.0 0.0 100.0
+
+sca 0.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 200.0
+
+rotq 1.0 0.0 0.0 200.0
+
+sca 0.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 300.0
+
+rotq 1.0 0.0 0.0 300.0
+
+sca 0.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10000.0
+
+rotq 1.0 0.0 0.0 10000.0
+
+sca 0.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20000.0
+
+rotq 1.0 0.0 0.0 20000.0
+
+sca 0.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30000.0
+
+rotq 1.0 0.0 0.0 30000.0
+
+sca 0.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1000000.0
+
+rotq 1.0 0.0 0.0 1000000.0
+
+sca 0.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2000000.0
+
+rotq 1.0 0.0 0.0 2000000.0
+
+sca 0.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3000000.0
+
+rotq 1.0 0.0 0.0 3000000.0
+
+sca 0.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1.0
+
+rotq 1.0 0.0 0.0 -1.0
+
+sca 0.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.1
+
+rotq 1.0 0.0 0.0 -0.1
+
+sca 0.0 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.001
+
+rotq 1.0 0.0 0.0 -0.001
+
+sca 0.0 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.0001
+
+rotq 1.0 0.0 0.0 -0.0001
+
+sca 0.0 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2.0
+
+rotq 1.0 0.0 0.0 -2.0
+
+sca 0.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3.0
+
+rotq 1.0 0.0 0.0 -3.0
+
+sca 0.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10.0
+
+rotq 1.0 0.0 0.0 -10.0
+
+sca 0.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20.0
+
+rotq 1.0 0.0 0.0 -20.0
+
+sca 0.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30.0
+
+rotq 1.0 0.0 0.0 -30.0
+
+sca 0.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -100.0
+
+rotq 1.0 0.0 0.0 -100.0
+
+sca 0.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -200.0
+
+rotq 1.0 0.0 0.0 -200.0
+
+sca 0.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -300.0
+
+rotq 1.0 0.0 0.0 -300.0
+
+sca 0.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10000.0
+
+rotq 1.0 0.0 0.0 -10000.0
+
+sca 0.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20000.0
+
+rotq 1.0 0.0 0.0 -20000.0
+
+sca 0.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30000.0
+
+rotq 1.0 0.0 0.0 -30000.0
+
+sca 0.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1000000.0
+
+rotq 1.0 0.0 0.0 -1000000.0
+
+sca 0.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2000000.0
+
+rotq 1.0 0.0 0.0 -2000000.0
+
+sca 0.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3000000.0
+
+rotq 1.0 0.0 0.0 -3000000.0
+
+sca 0.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 0.0
+
+rotq 1.0 1.0 1.0 0.0
+
+sca 1.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.0
+
+rotq 1.0 0.1 0.1 0.0
+
+sca 0.1 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.001 0.0
+
+rotq 1.0 0.001 0.001 0.0
+
+sca 0.001 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0
+
+rotq 1.0 0.0001 0.0001 0.0
+
+sca 0.0001 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 0.0
+
+rotq 1.0 2.0 2.0 0.0
+
+sca 2.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 0.0
+
+rotq 1.0 3.0 3.0 0.0
+
+sca 3.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 0.0
+
+rotq 1.0 10.0 10.0 0.0
+
+sca 10.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 0.0
+
+rotq 1.0 20.0 20.0 0.0
+
+sca 20.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 0.0
+
+rotq 1.0 30.0 30.0 0.0
+
+sca 30.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 0.0
+
+rotq 1.0 100.0 100.0 0.0
+
+sca 100.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 0.0
+
+rotq 1.0 200.0 200.0 0.0
+
+sca 200.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 0.0
+
+rotq 1.0 300.0 300.0 0.0
+
+sca 300.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 0.0
+
+rotq 1.0 10000.0 10000.0 0.0
+
+sca 10000.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 0.0
+
+rotq 1.0 20000.0 20000.0 0.0
+
+sca 20000.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 0.0
+
+rotq 1.0 30000.0 30000.0 0.0
+
+sca 30000.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 0.0
+
+rotq 1.0 1000000.0 1000000.0 0.0
+
+sca 1000000.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 0.0
+
+rotq 1.0 2000000.0 2000000.0 0.0
+
+sca 2000000.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 0.0
+
+rotq 1.0 3000000.0 3000000.0 0.0
+
+sca 3000000.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 0.0
+
+rotq 1.0 -1.0 -1.0 0.0
+
+sca -1.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 0.0
+
+rotq 1.0 -0.1 -0.1 0.0
+
+sca -0.1 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 0.0
+
+rotq 1.0 -0.001 -0.001 0.0
+
+sca -0.001 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 0.0
+
+rotq 1.0 -0.0001 -0.0001 0.0
+
+sca -0.0001 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 0.0
+
+rotq 1.0 -2.0 -2.0 0.0
+
+sca -2.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 0.0
+
+rotq 1.0 -3.0 -3.0 0.0
+
+sca -3.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 0.0
+
+rotq 1.0 -10.0 -10.0 0.0
+
+sca -10.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 0.0
+
+rotq 1.0 -20.0 -20.0 0.0
+
+sca -20.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 0.0
+
+rotq 1.0 -30.0 -30.0 0.0
+
+sca -30.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 0.0
+
+rotq 1.0 -100.0 -100.0 0.0
+
+sca -100.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 0.0
+
+rotq 1.0 -200.0 -200.0 0.0
+
+sca -200.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 0.0
+
+rotq 1.0 -300.0 -300.0 0.0
+
+sca -300.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 0.0
+
+rotq 1.0 -10000.0 -10000.0 0.0
+
+sca -10000.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 0.0
+
+rotq 1.0 -20000.0 -20000.0 0.0
+
+sca -20000.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 0.0
+
+rotq 1.0 -30000.0 -30000.0 0.0
+
+sca -30000.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 0.0
+
+rotq 1.0 -1000000.0 -1000000.0 0.0
+
+sca -1000000.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 0.0
+
+rotq 1.0 -2000000.0 -2000000.0 0.0
+
+sca -2000000.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 0.0
+
+rotq 1.0 -3000000.0 -3000000.0 0.0
+
+sca -3000000.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 1.0
+
+rotq 1.0 1.0 0.0 1.0
+
+sca 1.0 0.0 1.0
+
+}
+
+.....................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.1
+
+rotq 1.0 0.1 0.0 0.1
+
+sca 0.1 0.0 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.001
+
+rotq 1.0 0.001 0.0 0.001
+
+sca 0.001 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0001
+
+rotq 1.0 0.0001 0.0 0.0001
+
+sca 0.0001 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 2.0
+
+rotq 1.0 2.0 0.0 2.0
+
+sca 2.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 3.0
+
+rotq 1.0 3.0 0.0 3.0
+
+sca 3.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 10.0
+
+rotq 1.0 10.0 0.0 10.0
+
+sca 10.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 20.0
+
+rotq 1.0 20.0 0.0 20.0
+
+sca 20.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 30.0
+
+rotq 1.0 30.0 0.0 30.0
+
+sca 30.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 100.0
+
+rotq 1.0 100.0 0.0 100.0
+
+sca 100.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 200.0
+
+rotq 1.0 200.0 0.0 200.0
+
+sca 200.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 0.0 300.0
+
+rotq 1.0 300.0 0.0 300.0
+
+sca 300.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 10000.0
+
+rotq 1.0 10000.0 0.0 10000.0
+
+sca 10000.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 20000.0
+
+rotq 1.0 20000.0 0.0 20000.0
+
+sca 20000.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 30000.0
+
+rotq 1.0 30000.0 0.0 30000.0
+
+sca 30000.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 1000000.0
+
+rotq 1.0 1000000.0 0.0 1000000.0
+
+sca 1000000.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 2000000.0
+
+rotq 1.0 2000000.0 0.0 2000000.0
+
+sca 2000000.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 3000000.0
+
+rotq 1.0 3000000.0 0.0 3000000.0
+
+sca 3000000.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 -1.0
+
+rotq 1.0 -1.0 0.0 -1.0
+
+sca -1.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 -0.1
+
+rotq 1.0 -0.1 0.0 -0.1
+
+sca -0.1 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 -0.001
+
+rotq 1.0 -0.001 0.0 -0.001
+
+sca -0.001 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 -0.0001
+
+rotq 1.0 -0.0001 0.0 -0.0001
+
+sca -0.0001 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 -2.0
+
+rotq 1.0 -2.0 0.0 -2.0
+
+sca -2.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 -3.0
+
+rotq 1.0 -3.0 0.0 -3.0
+
+sca -3.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 -10.0
+
+rotq 1.0 -10.0 0.0 -10.0
+
+sca -10.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 -20.0
+
+rotq 1.0 -20.0 0.0 -20.0
+
+sca -20.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 -30.0
+
+rotq 1.0 -30.0 0.0 -30.0
+
+sca -30.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 -100.0
+
+rotq 1.0 -100.0 0.0 -100.0
+
+sca -100.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 -200.0
+
+rotq 1.0 -200.0 0.0 -200.0
+
+sca -200.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 -300.0
+
+rotq 1.0 -300.0 0.0 -300.0
+
+sca -300.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 -10000.0
+
+rotq 1.0 -10000.0 0.0 -10000.0
+
+sca -10000.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 -20000.0
+
+rotq 1.0 -20000.0 0.0 -20000.0
+
+sca -20000.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 -30000.0
+
+rotq 1.0 -30000.0 0.0 -30000.0
+
+sca -30000.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 -1000000.0
+
+rotq 1.0 -1000000.0 0.0 -1000000.0
+
+sca -1000000.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 -2000000.0
+
+rotq 1.0 -2000000.0 0.0 -2000000.0
+
+sca -2000000.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 -3000000.0
+
+rotq 1.0 -3000000.0 0.0 -3000000.0
+
+sca -3000000.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 1.0
+
+rotq 1.0 0.0 1.0 1.0
+
+sca 0.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.1
+
+rotq 1.0 0.0 0.1 0.1
+
+sca 0.0 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.01 0.001
+
+rotq 1.0 0.0 0.01 0.001
+
+sca 0.0 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0001
+
+rotq 1.0 0.0 0.0001 0.0001
+
+sca 0.0 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 2.0
+
+rotq 1.0 0.0 2.0 2.0
+
+sca 0.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 3.0
+
+rotq 1.0 0.0 3.0 3.0
+
+sca 0.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 10.0
+
+rotq 1.0 0.0 10.0 10.0
+
+sca 0.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 20.0
+
+rotq 1.0 0.0 20.0 20.0
+
+sca 0.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 30.0
+
+rotq 1.0 0.0 30.0 30.0
+
+sca 0.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 100.0
+
+rotq 1.0 0.0 100.0 100.0
+
+sca 0.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 200.0
+
+rotq 1.0 0.0 200.0 200.0
+
+sca 0.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 300.0
+
+rotq 1.0 0.0 300.0 300.0
+
+sca 0.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 10000.0
+
+rotq 1.0 0.0 10000.0 10000.0
+
+sca 0.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 20000.0
+
+rotq 1.0 0.0 20000.0 20000.0
+
+sca 0.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 30000.0
+
+rotq 1.0 0.0 30000.0 30000.0
+
+sca 0.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 1000000.0
+
+rotq 1.0 0.0 1000000.0 1000000.0
+
+sca 0.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 2000000.0
+
+rotq 1.0 0.0 2000000.0 2000000.0
+
+sca 0.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 3000000.0
+
+rotq 1.0 0.0 3000000.0 3000000.0
+
+sca 0.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 -1.0
+
+rotq 1.0 0.0 -1.0 -1.0
+
+sca 0.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 -0.1
+
+rotq 1.0 0.0 -0.1 -0.1
+
+sca 0.0 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 -0.001
+
+rotq 1.0 0.0 -0.001 -0.001
+
+sca 0.0 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 -0.0001
+
+rotq 1.0 0.0 -0.0001 -0.0001
+
+sca 0.0 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 -2.0
+
+rotq 1.0 0.0 -2.0 -2.0
+
+sca 0.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 -3.0
+
+rotq 1.0 0.0 -3.0 -3.0
+
+sca 0.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 -10.0
+
+rotq 1.0 0.0 -10.0 -10.0
+
+sca 0.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 -20.0
+
+rotq 1.0 0.0 -20.0 -20.0
+
+sca 0.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 -30.0
+
+rotq 1.0 0.0 -30.0 -30.0
+
+sca 0.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 -100.0
+
+rotq 1.0 0.0 -100.0 -100.0
+
+sca 0.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 -200.0
+
+rotq 1.0 0.0 -200.0 -200.0
+
+sca 0.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 -300.0
+
+rotq 1.0 0.0 -300.0 -300.0
+
+sca 0.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 -10000.0
+
+rotq 1.0 0.0 -10000.0 -10000.0
+
+sca 0.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 -20000.0
+
+rotq 1.0 0.0 -20000.0 -20000.0
+
+sca 0.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 -30000.0
+
+rotq 1.0 0.0 -30000.0 -30000.0
+
+sca 0.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 -1000000.0
+
+rotq 1.0 0.0 -1000000.0 -1000000.0
+
+sca 0.0 -1000000.0 -1000000.0
+
+}
+
+.......................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.437s
+
+OK
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 -2000000.0
+
+rotq 1.0 0.0 -2000000.0 -2000000.0
+
+sca 0.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 -3000000.0
+
+rotq 1.0 0.0 -3000000.0 -3000000.0
+
+sca 0.0 -3000000.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 1.0
+
+rotq 1.0 1.0 1.0 1.0
+
+sca 1.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.1
+
+rotq 1.0 0.1 0.1 0.1
+
+sca 0.1 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.01 0.001
+
+rotq 1.0 0.001 0.01 0.001
+
+sca 0.001 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0001
+
+rotq 1.0 0.0001 0.0001 0.0001
+
+sca 0.0001 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 2.0
+
+rotq 1.0 2.0 2.0 2.0
+
+sca 2.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 3.0
+
+rotq 1.0 3.0 3.0 3.0
+
+sca 3.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 10.0
+
+rotq 1.0 10.0 10.0 10.0
+
+sca 10.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 20.0
+
+rotq 1.0 20.0 20.0 20.0
+
+sca 20.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 30.0
+
+rotq 1.0 30.0 30.0 30.0
+
+sca 30.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 100.0
+
+rotq 1.0 100.0 100.0 100.0
+
+sca 100.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 200.0
+
+rotq 1.0 200.0 200.0 200.0
+
+sca 200.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 300.0
+
+rotq 1.0 300.0 300.0 300.0
+
+sca 300.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 10000.0
+
+rotq 1.0 10000.0 10000.0 10000.0
+
+sca 10000.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 20000.0
+
+rotq 1.0 20000.0 20000.0 20000.0
+
+sca 20000.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 30000.0
+
+rotq 1.0 30000.0 30000.0 30000.0
+
+sca 30000.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 1000000.0
+
+rotq 1.0 1000000.0 1000000.0 1000000.0
+
+sca 1000000.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 2000000.0
+
+rotq 1.0 2000000.0 2000000.0 2000000.0
+
+sca 2000000.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 3000000.0
+
+rotq 1.0 3000000.0 3000000.0 3000000.0
+
+sca 3000000.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 -1.0
+
+rotq 1.0 -1.0 -1.0 -1.0
+
+sca -1.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 -0.1
+
+rotq 1.0 -0.1 -0.1 -0.1
+
+sca -0.1 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 -0.001
+
+rotq 1.0 -0.001 -0.001 -0.001
+
+sca -0.001 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 -0.0001
+
+rotq 1.0 -0.0001 -0.0001 -0.0001
+
+sca -0.0001 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 -2.0
+
+rotq 1.0 -2.0 -2.0 -2.0
+
+sca -2.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 -3.0
+
+rotq 1.0 -3.0 -3.0 -3.0
+
+sca -3.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 -10.0
+
+rotq 1.0 -10.0 -10.0 -10.0
+
+sca -10.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 -20.0
+
+rotq 1.0 -20.0 -20.0 -20.0
+
+sca -20.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 -30.0
+
+rotq 1.0 -30.0 -30.0 -30.0
+
+sca -30.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 -100.0
+
+rotq 1.0 -100.0 -100.0 -100.0
+
+sca -100.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 -200.0
+
+rotq 1.0 -200.0 -200.0 -200.0
+
+sca -200.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 -300.0
+
+rotq 1.0 -300.0 -300.0 -300.0
+
+sca -300.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 -10000.0
+
+rotq 1.0 -10000.0 -10000.0 -10000.0
+
+sca -10000.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 -20000.0
+
+rotq 1.0 -20000.0 -20000.0 -20000.0
+
+sca -20000.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 -30000.0
+
+rotq 1.0 -30000.0 -30000.0 -30000.0
+
+sca -30000.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 -1000000.0
+
+rotq 1.0 -1000000.0 -1000000.0 -1000000.0
+
+sca -1000000.0 -1000000.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 -2000000.0
+
+rotq 1.0 -2000000.0 -2000000.0 -2000000.0
+
+sca -2000000.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 -3000000.0
+
+rotq 1.0 -3000000.0 -3000000.0 -3000000.0
+
+sca -3000000.0 -3000000.0 -3000000.0
+
+}
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __init__ function                                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1Evr5szRkRrGS_CsO_QfVgdMvokKgk6EIs8Mpo-ZV7D4/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+...........
+
+----------------------------------------------------------------------
+
+Ran 11 tests in 0.006s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __eq__ function                                     ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tM5hJOL_N-idAqyFeGPV9TXJo4CicHV05ojmUxXIrNU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case result printed                :
+File "C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py", line 680
+
+    bpy.context.scene.frame_set(1+2)
+
+                                   ^
+
+IndentationError: unindent does not match any outer indentation level
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __str__ function                                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1nVYC0AHZQVhokETaYR9mhURDwV2uH8QRDQzmnDetxNY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.019s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_data function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19xo7frxkGlmwR9R3JatjE6TGCLgEd2Uy9ebB40Ssk0Y/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_name function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1zzW1SvoMP17Qj4WVPcbzbuAFUzHZzc5YhtMPV-MPaKk/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.024s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_parent_name function            ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1oJZ336DowM3uESYjphdnihghrfDU4wYR6Af1t42x6Ps/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.006s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_keyframe_arr_data function      ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19DqZR5CVFjswBro5Uf_365IcsAeGs9m24sYZxi5u1Qo/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.011s
+
+OK
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+True
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_abn_str function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1I65IT7mTVBcA2HQLfjlHpJ4c17Hi19yevhIfH-rppuU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+abn TestAnimaitonBoneName0001
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_apbn_str function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1yoIDh7e3EfGAm1SNXcwIRaGjinLUP6X97QSDRqTncsY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.022s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_kf_str function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1KqJYRbGf7ICCDor9rsgLcvt7GaDRlMW_D6ZlFiKdtCg/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+.........................................................................kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 0.0
+
+rotq 1.0 1.0 0.0 0.0
+
+sca 1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.0
+
+rotq 1.0 0.1 0.0 0.0
+
+sca 0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.0
+
+rotq 1.0 0.001 0.0 0.0
+
+sca 0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0
+
+rotq 1.0 0.0001 0.0 0.0
+
+sca 0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 0.0
+
+rotq 1.0 2.0 0.0 0.0
+
+sca 2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 0.0
+
+rotq 1.0 3.0 0.0 0.0
+
+sca 3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 0.0
+
+rotq 1.0 10.0 0.0 0.0
+
+sca 10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 0.0
+
+rotq 1.0 20.0 0.0 0.0
+
+sca 20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 0.0
+
+rotq 1.0 30.0 0.0 0.0
+
+sca 30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 0.0
+
+rotq 1.0 100.0 0.0 0.0
+
+sca 100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 0.0
+
+rotq 1.0 200.0 0.0 0.0
+
+sca 200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 0.0 0.0
+
+rotq 1.0 300.0 0.0 0.0
+
+sca 300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 0.0
+
+rotq 1.0 10000.0 0.0 0.0
+
+sca 10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 0.0
+
+rotq 1.0 20000.0 0.0 0.0
+
+sca 20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 0.0
+
+rotq 1.0 30000.0 0.0 0.0
+
+sca 30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 0.0
+
+rotq 1.0 1000000.0 0.0 0.0
+
+sca 1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 0.0
+
+rotq 1.0 2000000.0 0.0 0.0
+
+sca 2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 0.0
+
+rotq 1.0 3000000.0 0.0 0.0
+
+sca 3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 0.0
+
+rotq 1.0 -1.0 0.0 0.0
+
+sca -1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 0.0
+
+rotq 1.0 -0.1 0.0 0.0
+
+sca -0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 0.0
+
+rotq 1.0 -0.001 0.0 0.0
+
+sca -0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 0.0
+
+rotq 1.0 -0.0001 0.0 0.0
+
+sca -0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 0.0
+
+rotq 1.0 -2.0 0.0 0.0
+
+sca -2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 0.0
+
+rotq 1.0 -3.0 0.0 0.0
+
+sca -3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 0.0
+
+rotq 1.0 -10.0 0.0 0.0
+
+sca -10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 0.0
+
+rotq 1.0 -20.0 0.0 0.0
+
+sca -20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 0.0
+
+rotq 1.0 -30.0 0.0 0.0
+
+sca -30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 0.0
+
+rotq 1.0 -100.0 0.0 0.0
+
+sca -100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 0.0
+
+rotq 1.0 -200.0 0.0 0.0
+
+sca -200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 0.0
+
+rotq 1.0 -300.0 0.0 0.0
+
+sca -300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 0.0
+
+rotq 1.0 -10000.0 0.0 0.0
+
+sca -10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 0.0
+
+rotq 1.0 -20000.0 0.0 0.0
+
+sca -20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 0.0
+
+rotq 1.0 -30000.0 0.0 0.0
+
+sca -30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 0.0
+
+rotq 1.0 -1000000.0 0.0 0.0
+
+sca -1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 0.0
+
+rotq 1.0 -2000000.0 0.0 0.0
+
+sca -2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 0.0
+
+rotq 1.0 -3000000.0 0.0 0.0
+
+sca -3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 0.0
+
+rotq 1.0 0.0 1.0 0.0
+
+sca 0.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.0
+
+rotq 1.0 0.0 0.1 0.0
+
+sca 0.0 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.001 0.0
+
+rotq 1.0 0.0 0.001 0.0
+
+sca 0.0 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0
+
+rotq 1.0 0.0 0.0001 0.0
+
+sca 0.0 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 0.0
+
+rotq 1.0 0.0 2.0 0.0
+
+sca 0.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 0.0
+
+rotq 1.0 0.0 3.0 0.0
+
+sca 0.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 0.0
+
+rotq 1.0 0.0 10.0 0.0
+
+sca 0.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 0.0
+
+rotq 1.0 0.0 20.0 0.0
+
+sca 0.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 0.0
+
+rotq 1.0 0.0 30.0 0.0
+
+sca 0.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 0.0
+
+rotq 1.0 0.0 100.0 0.0
+
+sca 0.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 0.0
+
+rotq 1.0 0.0 200.0 0.0
+
+sca 0.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 0.0
+
+rotq 1.0 0.0 300.0 0.0
+
+sca 0.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 0.0
+
+rotq 1.0 0.0 10000.0 0.0
+
+sca 0.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 0.0
+
+rotq 1.0 0.0 20000.0 0.0
+
+sca 0.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 0.0
+
+rotq 1.0 0.0 30000.0 0.0
+
+sca 0.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 0.0
+
+rotq 1.0 0.0 1000000.0 0.0
+
+sca 0.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 0.0
+
+rotq 1.0 0.0 2000000.0 0.0
+
+sca 0.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 0.0
+
+rotq 1.0 0.0 3000000.0 0.0
+
+sca 0.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 0.0
+
+rotq 1.0 0.0 -1.0 0.0
+
+sca 0.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 0.0
+
+rotq 1.0 0.0 -0.1 0.0
+
+sca 0.0 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 0.0
+
+rotq 1.0 0.0 -0.001 0.0
+
+sca 0.0 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 0.0
+
+rotq 1.0 0.0 -0.0001 0.0
+
+sca 0.0 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 0.0
+
+rotq 1.0 0.0 -2.0 0.0
+
+sca 0.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 0.0
+
+rotq 1.0 0.0 -3.0 0.0
+
+sca 0.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 0.0
+
+rotq 1.0 0.0 -10.0 0.0
+
+sca 0.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 0.0
+
+rotq 1.0 0.0 -20.0 0.0
+
+sca 0.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 0.0
+
+rotq 1.0 0.0 -30.0 0.0
+
+sca 0.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 0.0
+
+rotq 1.0 0.0 -100.0 0.0
+
+sca 0.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 0.0
+
+rotq 1.0 0.0 -200.0 0.0
+
+sca 0.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 0.0
+
+rotq 1.0 0.0 -300.0 0.0
+
+sca 0.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 0.0
+
+rotq 1.0 0.0 -10000.0 0.0
+
+sca 0.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 0.0
+
+rotq 1.0 0.0 -20000.0 0.0
+
+sca 0.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 0.0
+
+rotq 1.0 0.0 -30000.0 0.0
+
+sca 0.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 0.0
+
+rotq 1.0 0.0 -1000000.0 0.0
+
+sca 0.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 0.0
+
+rotq 1.0 0.0 -2000000.0 0.0
+
+sca 0.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 0.0
+
+rotq 1.0 0.0 -3000000.0 0.0
+
+sca 0.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1.0
+
+rotq 1.0 0.0 0.0 1.0
+
+sca 0.0 0.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.1
+
+rotq 1.0 0.0 0.0 0.1
+
+sca 0.0 0.0 0.1
+
+}
+
+.......................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.001
+
+rotq 1.0 0.0 0.0 0.001
+
+sca 0.0 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.0001
+
+rotq 1.0 0.0 0.0 0.0001
+
+sca 0.0 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2.0
+
+rotq 1.0 0.0 0.0 2.0
+
+sca 0.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3.0
+
+rotq 1.0 0.0 0.0 3.0
+
+sca 0.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10.0
+
+rotq 1.0 0.0 0.0 10.0
+
+sca 0.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20.0
+
+rotq 1.0 0.0 0.0 20.0
+
+sca 0.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30.0
+
+rotq 1.0 0.0 0.0 30.0
+
+sca 0.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 100.0
+
+rotq 1.0 0.0 0.0 100.0
+
+sca 0.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 200.0
+
+rotq 1.0 0.0 0.0 200.0
+
+sca 0.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 300.0
+
+rotq 1.0 0.0 0.0 300.0
+
+sca 0.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10000.0
+
+rotq 1.0 0.0 0.0 10000.0
+
+sca 0.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20000.0
+
+rotq 1.0 0.0 0.0 20000.0
+
+sca 0.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30000.0
+
+rotq 1.0 0.0 0.0 30000.0
+
+sca 0.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1000000.0
+
+rotq 1.0 0.0 0.0 1000000.0
+
+sca 0.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2000000.0
+
+rotq 1.0 0.0 0.0 2000000.0
+
+sca 0.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3000000.0
+
+rotq 1.0 0.0 0.0 3000000.0
+
+sca 0.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1.0
+
+rotq 1.0 0.0 0.0 -1.0
+
+sca 0.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.1
+
+rotq 1.0 0.0 0.0 -0.1
+
+sca 0.0 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.001
+
+rotq 1.0 0.0 0.0 -0.001
+
+sca 0.0 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.0001
+
+rotq 1.0 0.0 0.0 -0.0001
+
+sca 0.0 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2.0
+
+rotq 1.0 0.0 0.0 -2.0
+
+sca 0.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3.0
+
+rotq 1.0 0.0 0.0 -3.0
+
+sca 0.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10.0
+
+rotq 1.0 0.0 0.0 -10.0
+
+sca 0.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20.0
+
+rotq 1.0 0.0 0.0 -20.0
+
+sca 0.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30.0
+
+rotq 1.0 0.0 0.0 -30.0
+
+sca 0.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -100.0
+
+rotq 1.0 0.0 0.0 -100.0
+
+sca 0.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -200.0
+
+rotq 1.0 0.0 0.0 -200.0
+
+sca 0.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -300.0
+
+rotq 1.0 0.0 0.0 -300.0
+
+sca 0.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10000.0
+
+rotq 1.0 0.0 0.0 -10000.0
+
+sca 0.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20000.0
+
+rotq 1.0 0.0 0.0 -20000.0
+
+sca 0.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30000.0
+
+rotq 1.0 0.0 0.0 -30000.0
+
+sca 0.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1000000.0
+
+rotq 1.0 0.0 0.0 -1000000.0
+
+sca 0.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2000000.0
+
+rotq 1.0 0.0 0.0 -2000000.0
+
+sca 0.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3000000.0
+
+rotq 1.0 0.0 0.0 -3000000.0
+
+sca 0.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 0.0
+
+rotq 1.0 1.0 1.0 0.0
+
+sca 1.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.0
+
+rotq 1.0 0.1 0.1 0.0
+
+sca 0.1 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.001 0.0
+
+rotq 1.0 0.001 0.001 0.0
+
+sca 0.001 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0
+
+rotq 1.0 0.0001 0.0001 0.0
+
+sca 0.0001 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 0.0
+
+rotq 1.0 2.0 2.0 0.0
+
+sca 2.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 0.0
+
+rotq 1.0 3.0 3.0 0.0
+
+sca 3.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 0.0
+
+rotq 1.0 10.0 10.0 0.0
+
+sca 10.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 0.0
+
+rotq 1.0 20.0 20.0 0.0
+
+sca 20.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 0.0
+
+rotq 1.0 30.0 30.0 0.0
+
+sca 30.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 0.0
+
+rotq 1.0 100.0 100.0 0.0
+
+sca 100.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 0.0
+
+rotq 1.0 200.0 200.0 0.0
+
+sca 200.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 0.0
+
+rotq 1.0 300.0 300.0 0.0
+
+sca 300.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 0.0
+
+rotq 1.0 10000.0 10000.0 0.0
+
+sca 10000.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 0.0
+
+rotq 1.0 20000.0 20000.0 0.0
+
+sca 20000.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 0.0
+
+rotq 1.0 30000.0 30000.0 0.0
+
+sca 30000.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 0.0
+
+rotq 1.0 1000000.0 1000000.0 0.0
+
+sca 1000000.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 0.0
+
+rotq 1.0 2000000.0 2000000.0 0.0
+
+sca 2000000.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 0.0
+
+rotq 1.0 3000000.0 3000000.0 0.0
+
+sca 3000000.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 0.0
+
+rotq 1.0 -1.0 -1.0 0.0
+
+sca -1.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 0.0
+
+rotq 1.0 -0.1 -0.1 0.0
+
+sca -0.1 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 0.0
+
+rotq 1.0 -0.001 -0.001 0.0
+
+sca -0.001 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 0.0
+
+rotq 1.0 -0.0001 -0.0001 0.0
+
+sca -0.0001 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 0.0
+
+rotq 1.0 -2.0 -2.0 0.0
+
+sca -2.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 0.0
+
+rotq 1.0 -3.0 -3.0 0.0
+
+sca -3.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 0.0
+
+rotq 1.0 -10.0 -10.0 0.0
+
+sca -10.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 0.0
+
+rotq 1.0 -20.0 -20.0 0.0
+
+sca -20.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 0.0
+
+rotq 1.0 -30.0 -30.0 0.0
+
+sca -30.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 0.0
+
+rotq 1.0 -100.0 -100.0 0.0
+
+sca -100.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 0.0
+
+rotq 1.0 -200.0 -200.0 0.0
+
+sca -200.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 0.0
+
+rotq 1.0 -300.0 -300.0 0.0
+
+sca -300.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 0.0
+
+rotq 1.0 -10000.0 -10000.0 0.0
+
+sca -10000.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 0.0
+
+rotq 1.0 -20000.0 -20000.0 0.0
+
+sca -20000.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 0.0
+
+rotq 1.0 -30000.0 -30000.0 0.0
+
+sca -30000.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 0.0
+
+rotq 1.0 -1000000.0 -1000000.0 0.0
+
+sca -1000000.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 0.0
+
+rotq 1.0 -2000000.0 -2000000.0 0.0
+
+sca -2000000.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 0.0
+
+rotq 1.0 -3000000.0 -3000000.0 0.0
+
+sca -3000000.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 1.0
+
+rotq 1.0 1.0 0.0 1.0
+
+sca 1.0 0.0 1.0
+
+}
+
+.....................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.1
+
+rotq 1.0 0.1 0.0 0.1
+
+sca 0.1 0.0 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.001
+
+rotq 1.0 0.001 0.0 0.001
+
+sca 0.001 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0001
+
+rotq 1.0 0.0001 0.0 0.0001
+
+sca 0.0001 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 2.0
+
+rotq 1.0 2.0 0.0 2.0
+
+sca 2.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 3.0
+
+rotq 1.0 3.0 0.0 3.0
+
+sca 3.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 10.0
+
+rotq 1.0 10.0 0.0 10.0
+
+sca 10.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 20.0
+
+rotq 1.0 20.0 0.0 20.0
+
+sca 20.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 30.0
+
+rotq 1.0 30.0 0.0 30.0
+
+sca 30.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 100.0
+
+rotq 1.0 100.0 0.0 100.0
+
+sca 100.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 200.0
+
+rotq 1.0 200.0 0.0 200.0
+
+sca 200.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 0.0 300.0
+
+rotq 1.0 300.0 0.0 300.0
+
+sca 300.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 10000.0
+
+rotq 1.0 10000.0 0.0 10000.0
+
+sca 10000.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 20000.0
+
+rotq 1.0 20000.0 0.0 20000.0
+
+sca 20000.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 30000.0
+
+rotq 1.0 30000.0 0.0 30000.0
+
+sca 30000.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 1000000.0
+
+rotq 1.0 1000000.0 0.0 1000000.0
+
+sca 1000000.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 2000000.0
+
+rotq 1.0 2000000.0 0.0 2000000.0
+
+sca 2000000.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 3000000.0
+
+rotq 1.0 3000000.0 0.0 3000000.0
+
+sca 3000000.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 -1.0
+
+rotq 1.0 -1.0 0.0 -1.0
+
+sca -1.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 -0.1
+
+rotq 1.0 -0.1 0.0 -0.1
+
+sca -0.1 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 -0.001
+
+rotq 1.0 -0.001 0.0 -0.001
+
+sca -0.001 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 -0.0001
+
+rotq 1.0 -0.0001 0.0 -0.0001
+
+sca -0.0001 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 -2.0
+
+rotq 1.0 -2.0 0.0 -2.0
+
+sca -2.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 -3.0
+
+rotq 1.0 -3.0 0.0 -3.0
+
+sca -3.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 -10.0
+
+rotq 1.0 -10.0 0.0 -10.0
+
+sca -10.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 -20.0
+
+rotq 1.0 -20.0 0.0 -20.0
+
+sca -20.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 -30.0
+
+rotq 1.0 -30.0 0.0 -30.0
+
+sca -30.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 -100.0
+
+rotq 1.0 -100.0 0.0 -100.0
+
+sca -100.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 -200.0
+
+rotq 1.0 -200.0 0.0 -200.0
+
+sca -200.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 -300.0
+
+rotq 1.0 -300.0 0.0 -300.0
+
+sca -300.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 -10000.0
+
+rotq 1.0 -10000.0 0.0 -10000.0
+
+sca -10000.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 -20000.0
+
+rotq 1.0 -20000.0 0.0 -20000.0
+
+sca -20000.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 -30000.0
+
+rotq 1.0 -30000.0 0.0 -30000.0
+
+sca -30000.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 -1000000.0
+
+rotq 1.0 -1000000.0 0.0 -1000000.0
+
+sca -1000000.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 -2000000.0
+
+rotq 1.0 -2000000.0 0.0 -2000000.0
+
+sca -2000000.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 -3000000.0
+
+rotq 1.0 -3000000.0 0.0 -3000000.0
+
+sca -3000000.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 1.0
+
+rotq 1.0 0.0 1.0 1.0
+
+sca 0.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.1
+
+rotq 1.0 0.0 0.1 0.1
+
+sca 0.0 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.01 0.001
+
+rotq 1.0 0.0 0.01 0.001
+
+sca 0.0 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0001
+
+rotq 1.0 0.0 0.0001 0.0001
+
+sca 0.0 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 2.0
+
+rotq 1.0 0.0 2.0 2.0
+
+sca 0.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 3.0
+
+rotq 1.0 0.0 3.0 3.0
+
+sca 0.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 10.0
+
+rotq 1.0 0.0 10.0 10.0
+
+sca 0.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 20.0
+
+rotq 1.0 0.0 20.0 20.0
+
+sca 0.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 30.0
+
+rotq 1.0 0.0 30.0 30.0
+
+sca 0.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 100.0
+
+rotq 1.0 0.0 100.0 100.0
+
+sca 0.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 200.0
+
+rotq 1.0 0.0 200.0 200.0
+
+sca 0.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 300.0
+
+rotq 1.0 0.0 300.0 300.0
+
+sca 0.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 10000.0
+
+rotq 1.0 0.0 10000.0 10000.0
+
+sca 0.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 20000.0
+
+rotq 1.0 0.0 20000.0 20000.0
+
+sca 0.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 30000.0
+
+rotq 1.0 0.0 30000.0 30000.0
+
+sca 0.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 1000000.0
+
+rotq 1.0 0.0 1000000.0 1000000.0
+
+sca 0.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 2000000.0
+
+rotq 1.0 0.0 2000000.0 2000000.0
+
+sca 0.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 3000000.0
+
+rotq 1.0 0.0 3000000.0 3000000.0
+
+sca 0.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 -1.0
+
+rotq 1.0 0.0 -1.0 -1.0
+
+sca 0.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 -0.1
+
+rotq 1.0 0.0 -0.1 -0.1
+
+sca 0.0 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 -0.001
+
+rotq 1.0 0.0 -0.001 -0.001
+
+sca 0.0 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 -0.0001
+
+rotq 1.0 0.0 -0.0001 -0.0001
+
+sca 0.0 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 -2.0
+
+rotq 1.0 0.0 -2.0 -2.0
+
+sca 0.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 -3.0
+
+rotq 1.0 0.0 -3.0 -3.0
+
+sca 0.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 -10.0
+
+rotq 1.0 0.0 -10.0 -10.0
+
+sca 0.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 -20.0
+
+rotq 1.0 0.0 -20.0 -20.0
+
+sca 0.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 -30.0
+
+rotq 1.0 0.0 -30.0 -30.0
+
+sca 0.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 -100.0
+
+rotq 1.0 0.0 -100.0 -100.0
+
+sca 0.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 -200.0
+
+rotq 1.0 0.0 -200.0 -200.0
+
+sca 0.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 -300.0
+
+rotq 1.0 0.0 -300.0 -300.0
+
+sca 0.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 -10000.0
+
+rotq 1.0 0.0 -10000.0 -10000.0
+
+sca 0.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 -20000.0
+
+rotq 1.0 0.0 -20000.0 -20000.0
+
+sca 0.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 -30000.0
+
+rotq 1.0 0.0 -30000.0 -30000.0
+
+sca 0.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 -1000000.0
+
+rotq 1.0 0.0 -1000000.0 -1000000.0
+
+sca 0.0 -1000000.0 -1000000.0
+
+}
+
+.......................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.422s
+
+OK
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 -2000000.0
+
+rotq 1.0 0.0 -2000000.0 -2000000.0
+
+sca 0.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 -3000000.0
+
+rotq 1.0 0.0 -3000000.0 -3000000.0
+
+sca 0.0 -3000000.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 1.0
+
+rotq 1.0 1.0 1.0 1.0
+
+sca 1.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.1
+
+rotq 1.0 0.1 0.1 0.1
+
+sca 0.1 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.01 0.001
+
+rotq 1.0 0.001 0.01 0.001
+
+sca 0.001 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0001
+
+rotq 1.0 0.0001 0.0001 0.0001
+
+sca 0.0001 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 2.0
+
+rotq 1.0 2.0 2.0 2.0
+
+sca 2.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 3.0
+
+rotq 1.0 3.0 3.0 3.0
+
+sca 3.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 10.0
+
+rotq 1.0 10.0 10.0 10.0
+
+sca 10.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 20.0
+
+rotq 1.0 20.0 20.0 20.0
+
+sca 20.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 30.0
+
+rotq 1.0 30.0 30.0 30.0
+
+sca 30.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 100.0
+
+rotq 1.0 100.0 100.0 100.0
+
+sca 100.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 200.0
+
+rotq 1.0 200.0 200.0 200.0
+
+sca 200.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 300.0
+
+rotq 1.0 300.0 300.0 300.0
+
+sca 300.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 10000.0
+
+rotq 1.0 10000.0 10000.0 10000.0
+
+sca 10000.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 20000.0
+
+rotq 1.0 20000.0 20000.0 20000.0
+
+sca 20000.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 30000.0
+
+rotq 1.0 30000.0 30000.0 30000.0
+
+sca 30000.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 1000000.0
+
+rotq 1.0 1000000.0 1000000.0 1000000.0
+
+sca 1000000.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 2000000.0
+
+rotq 1.0 2000000.0 2000000.0 2000000.0
+
+sca 2000000.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 3000000.0
+
+rotq 1.0 3000000.0 3000000.0 3000000.0
+
+sca 3000000.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 -1.0
+
+rotq 1.0 -1.0 -1.0 -1.0
+
+sca -1.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 -0.1
+
+rotq 1.0 -0.1 -0.1 -0.1
+
+sca -0.1 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 -0.001
+
+rotq 1.0 -0.001 -0.001 -0.001
+
+sca -0.001 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 -0.0001
+
+rotq 1.0 -0.0001 -0.0001 -0.0001
+
+sca -0.0001 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 -2.0
+
+rotq 1.0 -2.0 -2.0 -2.0
+
+sca -2.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 -3.0
+
+rotq 1.0 -3.0 -3.0 -3.0
+
+sca -3.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 -10.0
+
+rotq 1.0 -10.0 -10.0 -10.0
+
+sca -10.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 -20.0
+
+rotq 1.0 -20.0 -20.0 -20.0
+
+sca -20.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 -30.0
+
+rotq 1.0 -30.0 -30.0 -30.0
+
+sca -30.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 -100.0
+
+rotq 1.0 -100.0 -100.0 -100.0
+
+sca -100.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 -200.0
+
+rotq 1.0 -200.0 -200.0 -200.0
+
+sca -200.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 -300.0
+
+rotq 1.0 -300.0 -300.0 -300.0
+
+sca -300.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 -10000.0
+
+rotq 1.0 -10000.0 -10000.0 -10000.0
+
+sca -10000.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 -20000.0
+
+rotq 1.0 -20000.0 -20000.0 -20000.0
+
+sca -20000.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 -30000.0
+
+rotq 1.0 -30000.0 -30000.0 -30000.0
+
+sca -30000.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 -1000000.0
+
+rotq 1.0 -1000000.0 -1000000.0 -1000000.0
+
+sca -1000000.0 -1000000.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 -2000000.0
+
+rotq 1.0 -2000000.0 -2000000.0 -2000000.0
+
+sca -2000000.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 -3000000.0
+
+rotq 1.0 -3000000.0 -3000000.0 -3000000.0
+
+sca -3000000.0 -3000000.0 -3000000.0
+
+}
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __init__ function                                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1Evr5szRkRrGS_CsO_QfVgdMvokKgk6EIs8Mpo-ZV7D4/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___init__\WYAnimationBoneTestCases___init__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+...........
+
+----------------------------------------------------------------------
+
+Ran 11 tests in 0.172s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __eq__ function                                     ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1tM5hJOL_N-idAqyFeGPV9TXJo4CicHV05ojmUxXIrNU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py
+Unit test case result printed                :
+File "C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___eq__\WYAnimationBoneTestCases___eq__.py", line 680
+
+    bpy.context.scene.frame_set(1+2)
+
+                                   ^
+
+IndentationError: unindent does not match any outer indentation level
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone __str__ function                                    ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1nVYC0AHZQVhokETaYR9mhURDwV2uH8QRDQzmnDetxNY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases___str__\WYAnimationBoneTestCases___str__.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.056s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_data function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19xo7frxkGlmwR9R3JatjE6TGCLgEd2Uy9ebB40Ssk0Y/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_data\WYAnimationBoneTestCases_init_animation_bone_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.123s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_name function                   ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1zzW1SvoMP17Qj4WVPcbzbuAFUzHZzc5YhtMPV-MPaKk/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_name\WYAnimationBoneTestCases_init_animation_bone_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.013s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_parent_name function            ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1oJZ336DowM3uESYjphdnihghrfDU4wYR6Af1t42x6Ps/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_parent_name\WYAnimationBoneTestCases_init_animation_bone_parent_name.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.008s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone init_animation_bone_keyframe_arr_data function      ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/19DqZR5CVFjswBro5Uf_365IcsAeGs9m24sYZxi5u1Qo/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data\WYAnimationBoneTestCases_init_animation_bone_keyframe_arr_data.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.015s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_abn_str function                 ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1I65IT7mTVBcA2HQLfjlHpJ4c17Hi19yevhIfH-rppuU/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_abn_str\WYAnimationBoneTestCases_get_animation_bone_abn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.007s
+
+OK
+
+abn TestAnimaitonBoneName0001
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_apbn_str function                ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1yoIDh7e3EfGAm1SNXcwIRaGjinLUP6X97QSDRqTncsY/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_apbn_str\WYAnimationBoneTestCases_get_animation_bone_apbn_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.009s
+
+OK
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+OAuth test case generator title  :  [ WYAnimationBone get_animation_bone_kf_str function                  ]
+Google Spreadssheet URL          :  https://docs.google.com/spreadsheets/d/1KqJYRbGf7ICCDor9rsgLcvt7GaDRlMW_D6ZlFiKdtCg/edit#gid=0
+Google Spreadhsheet feed name    :  Sheet1!
+OAUth client application name    :  WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT
+OAUth client secret file         :  client_secret.json
+Unit test case Pydoc HTML file generated     :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case executed                      :C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYAnimationBoneTestCases_get_animation_bone_kf_str\WYAnimationBoneTestCases_get_animation_bone_kf_str.py
+Unit test case result printed                :
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+.........................................................................kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 0.0
+
+rotq 1.0 1.0 0.0 0.0
+
+sca 1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.0
+
+rotq 1.0 0.1 0.0 0.0
+
+sca 0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.0
+
+rotq 1.0 0.001 0.0 0.0
+
+sca 0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0
+
+rotq 1.0 0.0001 0.0 0.0
+
+sca 0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 0.0
+
+rotq 1.0 2.0 0.0 0.0
+
+sca 2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 0.0
+
+rotq 1.0 3.0 0.0 0.0
+
+sca 3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 0.0
+
+rotq 1.0 10.0 0.0 0.0
+
+sca 10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 0.0
+
+rotq 1.0 20.0 0.0 0.0
+
+sca 20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 0.0
+
+rotq 1.0 30.0 0.0 0.0
+
+sca 30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 0.0
+
+rotq 1.0 100.0 0.0 0.0
+
+sca 100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 0.0
+
+rotq 1.0 200.0 0.0 0.0
+
+sca 200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 0.0 0.0
+
+rotq 1.0 300.0 0.0 0.0
+
+sca 300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 0.0
+
+rotq 1.0 10000.0 0.0 0.0
+
+sca 10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 0.0
+
+rotq 1.0 20000.0 0.0 0.0
+
+sca 20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 0.0
+
+rotq 1.0 30000.0 0.0 0.0
+
+sca 30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 0.0
+
+rotq 1.0 1000000.0 0.0 0.0
+
+sca 1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 0.0
+
+rotq 1.0 2000000.0 0.0 0.0
+
+sca 2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 0.0
+
+rotq 1.0 3000000.0 0.0 0.0
+
+sca 3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 0.0
+
+rotq 1.0 -1.0 0.0 0.0
+
+sca -1.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 0.0
+
+rotq 1.0 -0.1 0.0 0.0
+
+sca -0.1 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 0.0
+
+rotq 1.0 -0.001 0.0 0.0
+
+sca -0.001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 0.0
+
+rotq 1.0 -0.0001 0.0 0.0
+
+sca -0.0001 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 0.0
+
+rotq 1.0 -2.0 0.0 0.0
+
+sca -2.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 0.0
+
+rotq 1.0 -3.0 0.0 0.0
+
+sca -3.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 0.0
+
+rotq 1.0 -10.0 0.0 0.0
+
+sca -10.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 0.0
+
+rotq 1.0 -20.0 0.0 0.0
+
+sca -20.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 0.0
+
+rotq 1.0 -30.0 0.0 0.0
+
+sca -30.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 0.0
+
+rotq 1.0 -100.0 0.0 0.0
+
+sca -100.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 0.0
+
+rotq 1.0 -200.0 0.0 0.0
+
+sca -200.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 0.0
+
+rotq 1.0 -300.0 0.0 0.0
+
+sca -300.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 0.0
+
+rotq 1.0 -10000.0 0.0 0.0
+
+sca -10000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 0.0
+
+rotq 1.0 -20000.0 0.0 0.0
+
+sca -20000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 0.0
+
+rotq 1.0 -30000.0 0.0 0.0
+
+sca -30000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 0.0
+
+rotq 1.0 -1000000.0 0.0 0.0
+
+sca -1000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 0.0
+
+rotq 1.0 -2000000.0 0.0 0.0
+
+sca -2000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 0.0
+
+rotq 1.0 -3000000.0 0.0 0.0
+
+sca -3000000.0 0.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 0.0
+
+rotq 1.0 0.0 1.0 0.0
+
+sca 0.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.0
+
+rotq 1.0 0.0 0.1 0.0
+
+sca 0.0 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.001 0.0
+
+rotq 1.0 0.0 0.001 0.0
+
+sca 0.0 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0
+
+rotq 1.0 0.0 0.0001 0.0
+
+sca 0.0 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 0.0
+
+rotq 1.0 0.0 2.0 0.0
+
+sca 0.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 0.0
+
+rotq 1.0 0.0 3.0 0.0
+
+sca 0.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 0.0
+
+rotq 1.0 0.0 10.0 0.0
+
+sca 0.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 0.0
+
+rotq 1.0 0.0 20.0 0.0
+
+sca 0.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 0.0
+
+rotq 1.0 0.0 30.0 0.0
+
+sca 0.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 0.0
+
+rotq 1.0 0.0 100.0 0.0
+
+sca 0.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 0.0
+
+rotq 1.0 0.0 200.0 0.0
+
+sca 0.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 0.0
+
+rotq 1.0 0.0 300.0 0.0
+
+sca 0.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 0.0
+
+rotq 1.0 0.0 10000.0 0.0
+
+sca 0.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 0.0
+
+rotq 1.0 0.0 20000.0 0.0
+
+sca 0.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 0.0
+
+rotq 1.0 0.0 30000.0 0.0
+
+sca 0.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 0.0
+
+rotq 1.0 0.0 1000000.0 0.0
+
+sca 0.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 0.0
+
+rotq 1.0 0.0 2000000.0 0.0
+
+sca 0.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 0.0
+
+rotq 1.0 0.0 3000000.0 0.0
+
+sca 0.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 0.0
+
+rotq 1.0 0.0 -1.0 0.0
+
+sca 0.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 0.0
+
+rotq 1.0 0.0 -0.1 0.0
+
+sca 0.0 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 0.0
+
+rotq 1.0 0.0 -0.001 0.0
+
+sca 0.0 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 0.0
+
+rotq 1.0 0.0 -0.0001 0.0
+
+sca 0.0 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 0.0
+
+rotq 1.0 0.0 -2.0 0.0
+
+sca 0.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 0.0
+
+rotq 1.0 0.0 -3.0 0.0
+
+sca 0.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 0.0
+
+rotq 1.0 0.0 -10.0 0.0
+
+sca 0.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 0.0
+
+rotq 1.0 0.0 -20.0 0.0
+
+sca 0.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 0.0
+
+rotq 1.0 0.0 -30.0 0.0
+
+sca 0.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 0.0
+
+rotq 1.0 0.0 -100.0 0.0
+
+sca 0.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 0.0
+
+rotq 1.0 0.0 -200.0 0.0
+
+sca 0.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 0.0
+
+rotq 1.0 0.0 -300.0 0.0
+
+sca 0.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 0.0
+
+rotq 1.0 0.0 -10000.0 0.0
+
+sca 0.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 0.0
+
+rotq 1.0 0.0 -20000.0 0.0
+
+sca 0.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 0.0
+
+rotq 1.0 0.0 -30000.0 0.0
+
+sca 0.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 0.0
+
+rotq 1.0 0.0 -1000000.0 0.0
+
+sca 0.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 0.0
+
+rotq 1.0 0.0 -2000000.0 0.0
+
+sca 0.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 0.0
+
+rotq 1.0 0.0 -3000000.0 0.0
+
+sca 0.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1.0
+
+rotq 1.0 0.0 0.0 1.0
+
+sca 0.0 0.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.1
+
+rotq 1.0 0.0 0.0 0.1
+
+sca 0.0 0.0 0.1
+
+}
+
+.......................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.001
+
+rotq 1.0 0.0 0.0 0.001
+
+sca 0.0 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 0.0001
+
+rotq 1.0 0.0 0.0 0.0001
+
+sca 0.0 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2.0
+
+rotq 1.0 0.0 0.0 2.0
+
+sca 0.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3.0
+
+rotq 1.0 0.0 0.0 3.0
+
+sca 0.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10.0
+
+rotq 1.0 0.0 0.0 10.0
+
+sca 0.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20.0
+
+rotq 1.0 0.0 0.0 20.0
+
+sca 0.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30.0
+
+rotq 1.0 0.0 0.0 30.0
+
+sca 0.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 100.0
+
+rotq 1.0 0.0 0.0 100.0
+
+sca 0.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 200.0
+
+rotq 1.0 0.0 0.0 200.0
+
+sca 0.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 300.0
+
+rotq 1.0 0.0 0.0 300.0
+
+sca 0.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 10000.0
+
+rotq 1.0 0.0 0.0 10000.0
+
+sca 0.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 20000.0
+
+rotq 1.0 0.0 0.0 20000.0
+
+sca 0.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 30000.0
+
+rotq 1.0 0.0 0.0 30000.0
+
+sca 0.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 1000000.0
+
+rotq 1.0 0.0 0.0 1000000.0
+
+sca 0.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 2000000.0
+
+rotq 1.0 0.0 0.0 2000000.0
+
+sca 0.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 3000000.0
+
+rotq 1.0 0.0 0.0 3000000.0
+
+sca 0.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1.0
+
+rotq 1.0 0.0 0.0 -1.0
+
+sca 0.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.1
+
+rotq 1.0 0.0 0.0 -0.1
+
+sca 0.0 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.001
+
+rotq 1.0 0.0 0.0 -0.001
+
+sca 0.0 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -0.0001
+
+rotq 1.0 0.0 0.0 -0.0001
+
+sca 0.0 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2.0
+
+rotq 1.0 0.0 0.0 -2.0
+
+sca 0.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3.0
+
+rotq 1.0 0.0 0.0 -3.0
+
+sca 0.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10.0
+
+rotq 1.0 0.0 0.0 -10.0
+
+sca 0.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20.0
+
+rotq 1.0 0.0 0.0 -20.0
+
+sca 0.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30.0
+
+rotq 1.0 0.0 0.0 -30.0
+
+sca 0.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -100.0
+
+rotq 1.0 0.0 0.0 -100.0
+
+sca 0.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -200.0
+
+rotq 1.0 0.0 0.0 -200.0
+
+sca 0.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -300.0
+
+rotq 1.0 0.0 0.0 -300.0
+
+sca 0.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -10000.0
+
+rotq 1.0 0.0 0.0 -10000.0
+
+sca 0.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -20000.0
+
+rotq 1.0 0.0 0.0 -20000.0
+
+sca 0.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -30000.0
+
+rotq 1.0 0.0 0.0 -30000.0
+
+sca 0.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -1000000.0
+
+rotq 1.0 0.0 0.0 -1000000.0
+
+sca 0.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -2000000.0
+
+rotq 1.0 0.0 0.0 -2000000.0
+
+sca 0.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0 -3000000.0
+
+rotq 1.0 0.0 0.0 -3000000.0
+
+sca 0.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 0.0
+
+rotq 1.0 1.0 1.0 0.0
+
+sca 1.0 1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.0
+
+rotq 1.0 0.1 0.1 0.0
+
+sca 0.1 0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.001 0.0
+
+rotq 1.0 0.001 0.001 0.0
+
+sca 0.001 0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0
+
+rotq 1.0 0.0001 0.0001 0.0
+
+sca 0.0001 0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 0.0
+
+rotq 1.0 2.0 2.0 0.0
+
+sca 2.0 2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 0.0
+
+rotq 1.0 3.0 3.0 0.0
+
+sca 3.0 3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 0.0
+
+rotq 1.0 10.0 10.0 0.0
+
+sca 10.0 10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 0.0
+
+rotq 1.0 20.0 20.0 0.0
+
+sca 20.0 20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 0.0
+
+rotq 1.0 30.0 30.0 0.0
+
+sca 30.0 30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 0.0
+
+rotq 1.0 100.0 100.0 0.0
+
+sca 100.0 100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 0.0
+
+rotq 1.0 200.0 200.0 0.0
+
+sca 200.0 200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 0.0
+
+rotq 1.0 300.0 300.0 0.0
+
+sca 300.0 300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 0.0
+
+rotq 1.0 10000.0 10000.0 0.0
+
+sca 10000.0 10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 0.0
+
+rotq 1.0 20000.0 20000.0 0.0
+
+sca 20000.0 20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 0.0
+
+rotq 1.0 30000.0 30000.0 0.0
+
+sca 30000.0 30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 0.0
+
+rotq 1.0 1000000.0 1000000.0 0.0
+
+sca 1000000.0 1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 0.0
+
+rotq 1.0 2000000.0 2000000.0 0.0
+
+sca 2000000.0 2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 0.0
+
+rotq 1.0 3000000.0 3000000.0 0.0
+
+sca 3000000.0 3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 0.0
+
+rotq 1.0 -1.0 -1.0 0.0
+
+sca -1.0 -1.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 0.0
+
+rotq 1.0 -0.1 -0.1 0.0
+
+sca -0.1 -0.1 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 0.0
+
+rotq 1.0 -0.001 -0.001 0.0
+
+sca -0.001 -0.001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 0.0
+
+rotq 1.0 -0.0001 -0.0001 0.0
+
+sca -0.0001 -0.0001 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 0.0
+
+rotq 1.0 -2.0 -2.0 0.0
+
+sca -2.0 -2.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 0.0
+
+rotq 1.0 -3.0 -3.0 0.0
+
+sca -3.0 -3.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 0.0
+
+rotq 1.0 -10.0 -10.0 0.0
+
+sca -10.0 -10.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 0.0
+
+rotq 1.0 -20.0 -20.0 0.0
+
+sca -20.0 -20.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 0.0
+
+rotq 1.0 -30.0 -30.0 0.0
+
+sca -30.0 -30.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 0.0
+
+rotq 1.0 -100.0 -100.0 0.0
+
+sca -100.0 -100.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 0.0
+
+rotq 1.0 -200.0 -200.0 0.0
+
+sca -200.0 -200.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 0.0
+
+rotq 1.0 -300.0 -300.0 0.0
+
+sca -300.0 -300.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 0.0
+
+rotq 1.0 -10000.0 -10000.0 0.0
+
+sca -10000.0 -10000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 0.0
+
+rotq 1.0 -20000.0 -20000.0 0.0
+
+sca -20000.0 -20000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 0.0
+
+rotq 1.0 -30000.0 -30000.0 0.0
+
+sca -30000.0 -30000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 0.0
+
+rotq 1.0 -1000000.0 -1000000.0 0.0
+
+sca -1000000.0 -1000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 0.0
+
+rotq 1.0 -2000000.0 -2000000.0 0.0
+
+sca -2000000.0 -2000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 0.0
+
+rotq 1.0 -3000000.0 -3000000.0 0.0
+
+sca -3000000.0 -3000000.0 0.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 1.0
+
+rotq 1.0 1.0 0.0 1.0
+
+sca 1.0 0.0 1.0
+
+}
+
+.....................................................................
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.0 0.1
+
+rotq 1.0 0.1 0.0 0.1
+
+sca 0.1 0.0 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.0 0.001
+
+rotq 1.0 0.001 0.0 0.001
+
+sca 0.001 0.0 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0 0.0001
+
+rotq 1.0 0.0001 0.0 0.0001
+
+sca 0.0001 0.0 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 2.0
+
+rotq 1.0 2.0 0.0 2.0
+
+sca 2.0 0.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 3.0
+
+rotq 1.0 3.0 0.0 3.0
+
+sca 3.0 0.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 10.0
+
+rotq 1.0 10.0 0.0 10.0
+
+sca 10.0 0.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 0.0 20.0
+
+rotq 1.0 20.0 0.0 20.0
+
+sca 20.0 0.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 0.0 30.0
+
+rotq 1.0 30.0 0.0 30.0
+
+sca 30.0 0.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 0.0 100.0
+
+rotq 1.0 100.0 0.0 100.0
+
+sca 100.0 0.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 0.0 200.0
+
+rotq 1.0 200.0 0.0 200.0
+
+sca 200.0 0.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 0.0 300.0
+
+rotq 1.0 300.0 0.0 300.0
+
+sca 300.0 0.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 0.0 10000.0
+
+rotq 1.0 10000.0 0.0 10000.0
+
+sca 10000.0 0.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 0.0 20000.0
+
+rotq 1.0 20000.0 0.0 20000.0
+
+sca 20000.0 0.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 0.0 30000.0
+
+rotq 1.0 30000.0 0.0 30000.0
+
+sca 30000.0 0.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 0.0 1000000.0
+
+rotq 1.0 1000000.0 0.0 1000000.0
+
+sca 1000000.0 0.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 0.0 2000000.0
+
+rotq 1.0 2000000.0 0.0 2000000.0
+
+sca 2000000.0 0.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 0.0 3000000.0
+
+rotq 1.0 3000000.0 0.0 3000000.0
+
+sca 3000000.0 0.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 0.0 -1.0
+
+rotq 1.0 -1.0 0.0 -1.0
+
+sca -1.0 0.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 0.0 -0.1
+
+rotq 1.0 -0.1 0.0 -0.1
+
+sca -0.1 0.0 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 0.0 -0.001
+
+rotq 1.0 -0.001 0.0 -0.001
+
+sca -0.001 0.0 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 0.0 -0.0001
+
+rotq 1.0 -0.0001 0.0 -0.0001
+
+sca -0.0001 0.0 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 0.0 -2.0
+
+rotq 1.0 -2.0 0.0 -2.0
+
+sca -2.0 0.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 0.0 -3.0
+
+rotq 1.0 -3.0 0.0 -3.0
+
+sca -3.0 0.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 0.0 -10.0
+
+rotq 1.0 -10.0 0.0 -10.0
+
+sca -10.0 0.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 0.0 -20.0
+
+rotq 1.0 -20.0 0.0 -20.0
+
+sca -20.0 0.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 0.0 -30.0
+
+rotq 1.0 -30.0 0.0 -30.0
+
+sca -30.0 0.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 0.0 -100.0
+
+rotq 1.0 -100.0 0.0 -100.0
+
+sca -100.0 0.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 0.0 -200.0
+
+rotq 1.0 -200.0 0.0 -200.0
+
+sca -200.0 0.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 0.0 -300.0
+
+rotq 1.0 -300.0 0.0 -300.0
+
+sca -300.0 0.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 0.0 -10000.0
+
+rotq 1.0 -10000.0 0.0 -10000.0
+
+sca -10000.0 0.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 0.0 -20000.0
+
+rotq 1.0 -20000.0 0.0 -20000.0
+
+sca -20000.0 0.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 0.0 -30000.0
+
+rotq 1.0 -30000.0 0.0 -30000.0
+
+sca -30000.0 0.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 0.0 -1000000.0
+
+rotq 1.0 -1000000.0 0.0 -1000000.0
+
+sca -1000000.0 0.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 0.0 -2000000.0
+
+rotq 1.0 -2000000.0 0.0 -2000000.0
+
+sca -2000000.0 0.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 0.0 -3000000.0
+
+rotq 1.0 -3000000.0 0.0 -3000000.0
+
+sca -3000000.0 0.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1.0 1.0
+
+rotq 1.0 0.0 1.0 1.0
+
+sca 0.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.1 0.1
+
+rotq 1.0 0.0 0.1 0.1
+
+sca 0.0 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.01 0.001
+
+rotq 1.0 0.0 0.01 0.001
+
+sca 0.0 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 0.0001 0.0001
+
+rotq 1.0 0.0 0.0001 0.0001
+
+sca 0.0 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2.0 2.0
+
+rotq 1.0 0.0 2.0 2.0
+
+sca 0.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3.0 3.0
+
+rotq 1.0 0.0 3.0 3.0
+
+sca 0.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10.0 10.0
+
+rotq 1.0 0.0 10.0 10.0
+
+sca 0.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20.0 20.0
+
+rotq 1.0 0.0 20.0 20.0
+
+sca 0.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30.0 30.0
+
+rotq 1.0 0.0 30.0 30.0
+
+sca 0.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 100.0 100.0
+
+rotq 1.0 0.0 100.0 100.0
+
+sca 0.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 200.0 200.0
+
+rotq 1.0 0.0 200.0 200.0
+
+sca 0.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 300.0 300.0
+
+rotq 1.0 0.0 300.0 300.0
+
+sca 0.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 10000.0 10000.0
+
+rotq 1.0 0.0 10000.0 10000.0
+
+sca 0.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 20000.0 20000.0
+
+rotq 1.0 0.0 20000.0 20000.0
+
+sca 0.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 30000.0 30000.0
+
+rotq 1.0 0.0 30000.0 30000.0
+
+sca 0.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 1000000.0 1000000.0
+
+rotq 1.0 0.0 1000000.0 1000000.0
+
+sca 0.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 2000000.0 2000000.0
+
+rotq 1.0 0.0 2000000.0 2000000.0
+
+sca 0.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 3000000.0 3000000.0
+
+rotq 1.0 0.0 3000000.0 3000000.0
+
+sca 0.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1.0 -1.0
+
+rotq 1.0 0.0 -1.0 -1.0
+
+sca 0.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.1 -0.1
+
+rotq 1.0 0.0 -0.1 -0.1
+
+sca 0.0 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.001 -0.001
+
+rotq 1.0 0.0 -0.001 -0.001
+
+sca 0.0 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -0.0001 -0.0001
+
+rotq 1.0 0.0 -0.0001 -0.0001
+
+sca 0.0 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2.0 -2.0
+
+rotq 1.0 0.0 -2.0 -2.0
+
+sca 0.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3.0 -3.0
+
+rotq 1.0 0.0 -3.0 -3.0
+
+sca 0.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10.0 -10.0
+
+rotq 1.0 0.0 -10.0 -10.0
+
+sca 0.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20.0 -20.0
+
+rotq 1.0 0.0 -20.0 -20.0
+
+sca 0.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30.0 -30.0
+
+rotq 1.0 0.0 -30.0 -30.0
+
+sca 0.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -100.0 -100.0
+
+rotq 1.0 0.0 -100.0 -100.0
+
+sca 0.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -200.0 -200.0
+
+rotq 1.0 0.0 -200.0 -200.0
+
+sca 0.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -300.0 -300.0
+
+rotq 1.0 0.0 -300.0 -300.0
+
+sca 0.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -10000.0 -10000.0
+
+rotq 1.0 0.0 -10000.0 -10000.0
+
+sca 0.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -20000.0 -20000.0
+
+rotq 1.0 0.0 -20000.0 -20000.0
+
+sca 0.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -30000.0 -30000.0
+
+rotq 1.0 0.0 -30000.0 -30000.0
+
+sca 0.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -1000000.0 -1000000.0
+
+rotq 1.0 0.0 -1000000.0 -1000000.0
+
+sca 0.0 -1000000.0 -1000000.0
+
+}
+
+.......................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 0.316s
+
+OK
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -2000000.0 -2000000.0
+
+rotq 1.0 0.0 -2000000.0 -2000000.0
+
+sca 0.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0 -3000000.0 -3000000.0
+
+rotq 1.0 0.0 -3000000.0 -3000000.0
+
+sca 0.0 -3000000.0 -3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 1.0 1.0
+
+rotq 1.0 1.0 1.0 1.0
+
+sca 1.0 1.0 1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.1 0.1 0.1
+
+rotq 1.0 0.1 0.1 0.1
+
+sca 0.1 0.1 0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.001 0.01 0.001
+
+rotq 1.0 0.001 0.01 0.001
+
+sca 0.001 0.01 0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 0.0001 0.0001 0.0001
+
+rotq 1.0 0.0001 0.0001 0.0001
+
+sca 0.0001 0.0001 0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 2.0 2.0
+
+rotq 1.0 2.0 2.0 2.0
+
+sca 2.0 2.0 2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 3.0 3.0
+
+rotq 1.0 3.0 3.0 3.0
+
+sca 3.0 3.0 3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 10.0 10.0
+
+rotq 1.0 10.0 10.0 10.0
+
+sca 10.0 10.0 10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20.0 20.0 20.0
+
+rotq 1.0 20.0 20.0 20.0
+
+sca 20.0 20.0 20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30.0 30.0 30.0
+
+rotq 1.0 30.0 30.0 30.0
+
+sca 30.0 30.0 30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 100.0 100.0 100.0
+
+rotq 1.0 100.0 100.0 100.0
+
+sca 100.0 100.0 100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 200.0 200.0 200.0
+
+rotq 1.0 200.0 200.0 200.0
+
+sca 200.0 200.0 200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 300.0 300.0 300.0
+
+rotq 1.0 300.0 300.0 300.0
+
+sca 300.0 300.0 300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10000.0 10000.0 10000.0
+
+rotq 1.0 10000.0 10000.0 10000.0
+
+sca 10000.0 10000.0 10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 20000.0 20000.0 20000.0
+
+rotq 1.0 20000.0 20000.0 20000.0
+
+sca 20000.0 20000.0 20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 30000.0 30000.0 30000.0
+
+rotq 1.0 30000.0 30000.0 30000.0
+
+sca 30000.0 30000.0 30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1000000.0 1000000.0 1000000.0
+
+rotq 1.0 1000000.0 1000000.0 1000000.0
+
+sca 1000000.0 1000000.0 1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2000000.0 2000000.0 2000000.0
+
+rotq 1.0 2000000.0 2000000.0 2000000.0
+
+sca 2000000.0 2000000.0 2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3000000.0 3000000.0 3000000.0
+
+rotq 1.0 3000000.0 3000000.0 3000000.0
+
+sca 3000000.0 3000000.0 3000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1.0 -1.0 -1.0
+
+rotq 1.0 -1.0 -1.0 -1.0
+
+sca -1.0 -1.0 -1.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.1 -0.1 -0.1
+
+rotq 1.0 -0.1 -0.1 -0.1
+
+sca -0.1 -0.1 -0.1
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.001 -0.001 -0.001
+
+rotq 1.0 -0.001 -0.001 -0.001
+
+sca -0.001 -0.001 -0.001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -0.0001 -0.0001 -0.0001
+
+rotq 1.0 -0.0001 -0.0001 -0.0001
+
+sca -0.0001 -0.0001 -0.0001
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2.0 -2.0 -2.0
+
+rotq 1.0 -2.0 -2.0 -2.0
+
+sca -2.0 -2.0 -2.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3.0 -3.0 -3.0
+
+rotq 1.0 -3.0 -3.0 -3.0
+
+sca -3.0 -3.0 -3.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10.0 -10.0 -10.0
+
+rotq 1.0 -10.0 -10.0 -10.0
+
+sca -10.0 -10.0 -10.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20.0 -20.0 -20.0
+
+rotq 1.0 -20.0 -20.0 -20.0
+
+sca -20.0 -20.0 -20.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30.0 -30.0 -30.0
+
+rotq 1.0 -30.0 -30.0 -30.0
+
+sca -30.0 -30.0 -30.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -100.0 -100.0 -100.0
+
+rotq 1.0 -100.0 -100.0 -100.0
+
+sca -100.0 -100.0 -100.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -200.0 -200.0 -200.0
+
+rotq 1.0 -200.0 -200.0 -200.0
+
+sca -200.0 -200.0 -200.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -300.0 -300.0 -300.0
+
+rotq 1.0 -300.0 -300.0 -300.0
+
+sca -300.0 -300.0 -300.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -10000.0 -10000.0 -10000.0
+
+rotq 1.0 -10000.0 -10000.0 -10000.0
+
+sca -10000.0 -10000.0 -10000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -20000.0 -20000.0 -20000.0
+
+rotq 1.0 -20000.0 -20000.0 -20000.0
+
+sca -20000.0 -20000.0 -20000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -30000.0 -30000.0 -30000.0
+
+rotq 1.0 -30000.0 -30000.0 -30000.0
+
+sca -30000.0 -30000.0 -30000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -1000000.0 -1000000.0 -1000000.0
+
+rotq 1.0 -1000000.0 -1000000.0 -1000000.0
+
+sca -1000000.0 -1000000.0 -1000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -2000000.0 -2000000.0 -2000000.0
+
+rotq 1.0 -2000000.0 -2000000.0 -2000000.0
+
+sca -2000000.0 -2000000.0 -2000000.0
+
+}
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc -3000000.0 -3000000.0 -3000000.0
+
+rotq 1.0 -3000000.0 -3000000.0 -3000000.0
+
+sca -3000000.0 -3000000.0 -3000000.0
+
+}
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
+

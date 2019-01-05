@@ -1,0 +1,12 @@
+ann TestArmatureObject0007
+abc 1
+CU Z
+CF Y
+abn TestAnimaitonBoneName0007
+kf 0 {
+abh 1.0 0.0 0.0
+abt 0.0 0.0 0.0
+loc 1.0 0.0 0.0
+rotq 1.0 1.0 0.0 0.0
+sca 1.0 0.0 0.0
+}

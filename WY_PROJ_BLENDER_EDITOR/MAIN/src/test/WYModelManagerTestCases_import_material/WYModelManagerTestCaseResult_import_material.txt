@@ -1,0 +1,311 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.048s
+
+OK
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0001.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0001
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0002.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0002
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0003.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0003
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0004.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0004
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0005.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0005
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0006.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0006
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0007.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0007
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0008.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0008
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0009.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0009
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+------------------------------------------------------------------------------
+
+Loading WYMaterial from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_material\Test0010.wym
+
+------------------------------------------------------------------------------
+
+mtl_material_name : TestMaterial0010
+
+mtl_mirror_color : [0.0, 0.0, 0.0]
+
+mtl_ambient : 1.0
+
+mtl_diffuse_color : [0.0, 0.0, 0.0]
+
+mtl_diffuse_intensity : 0.8
+
+mtl_specular_color : [0.0, 0.0, 0.0]
+
+mtl_specular_intensity : 0.5
+
+mtl_specular_hardness : 97.847358
+
+mtl_emit : 0.0
+
+mtl_alpha : 1.0
+
+mtl_raytrace_transparency_ior : 1.0
+
+mtl_texture_map_image_path : NULL
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

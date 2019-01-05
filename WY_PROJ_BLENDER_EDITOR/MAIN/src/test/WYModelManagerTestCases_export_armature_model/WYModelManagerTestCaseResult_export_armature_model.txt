@@ -1,0 +1,77 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+...........
+
+----------------------------------------------------------------------
+
+Ran 11 tests in 0.081s
+
+OK
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_export_armature_model\TestFile0011.wya
+
+------------------------------------------------------------------------------
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

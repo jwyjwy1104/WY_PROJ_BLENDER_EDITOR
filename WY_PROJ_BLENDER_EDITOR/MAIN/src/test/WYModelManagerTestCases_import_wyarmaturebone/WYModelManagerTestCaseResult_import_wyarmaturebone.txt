@@ -1,0 +1,1523 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+......................................................................................................
+
+bn : TestArmatureBoneName0001
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0002
+
+bh : (0.1, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0003
+
+bh : (0.001, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0004
+
+bh : (0.0001, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0005
+
+bh : (2.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0006
+
+bh : (3.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0007
+
+bh : (10.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0008
+
+bh : (20.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0009
+
+bh : (30.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0010
+
+bh : (100.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0011
+
+bh : (200.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0012
+
+bh : (300.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0013
+
+bh : (10000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0014
+
+bh : (20000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0015
+
+bh : (30000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0016
+
+bh : (1000000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0017
+
+bh : (2000000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0018
+
+bh : (3000000.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0019
+
+bh : (0.0, 1.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0020
+
+bh : (0.0, 0.1, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0021
+
+bh : (0.0, 0.001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0022
+
+bh : (0.0, 0.0001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0023
+
+bh : (0.0, 2.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0024
+
+bh : (0.0, 3.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0025
+
+bh : (0.0, 10.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0026
+
+bh : (0.0, 20.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0027
+
+bh : (0.0, 30.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0028
+
+bh : (0.0, 100.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0029
+
+bh : (0.0, 200.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0030
+
+bh : (0.0, 300.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0031
+
+bh : (0.0, 10000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0032
+
+bh : (0.0, 20000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0033
+
+bh : (0.0, 30000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0034
+
+bh : (0.0, 1000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0035
+
+bh : (0.0, 2000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0036
+
+bh : (0.0, 3000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0037
+
+bh : (0.0, 0.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0038
+
+bh : (0.0, 0.0, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0039
+
+bh : (0.0, 0.0, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0040
+
+bh : (0.0, 0.0, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0041
+
+bh : (0.0, 0.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0042
+
+bh : (0.0, 0.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0043
+
+bh : (0.0, 0.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0044
+
+bh : (0.0, 0.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0045
+
+bh : (0.0, 0.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0046
+
+bh : (0.0, 0.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0047
+
+bh : (0.0, 0.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0048
+
+bh : (0.0, 0.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0049
+
+bh : (0.0, 0.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0050
+
+bh : (0.0, 0.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0051
+
+bh : (0.0, 0.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0052
+
+bh : (0.0, 0.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0053
+
+bh : (0.0, 0.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0054
+
+bh : (0.0, 0.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0055
+
+bh : (1.0, 1.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0056
+
+bh : (0.1, 0.1, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0057
+
+bh : (0.001, 0.001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0058
+
+bh : (0.0001, 0.0001, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0059
+
+bh : (2.0, 2.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0060
+
+bh : (3.0, 3.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0061
+
+bh : (10.0, 10.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0062
+
+bh : (20.0, 20.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0063
+
+bh : (30.0, 30.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0064
+
+bh : (100.0, 100.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0065
+
+bh : (200.0, 200.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0066
+
+bh : (300.0, 300.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0067
+
+bh : (10000.0, 10000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0068
+
+bh : (20000.0, 20000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0069
+
+bh : (30000.0, 30000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0070
+
+bh : (1000000.0, 1000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0071
+
+bh : (2000000.0, 2000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0072
+
+bh : (3000000.0, 3000000.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0073
+
+bh : (1.0, 0.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0074
+
+bh : (0.1, 0.0, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0075
+
+bh : (0.001, 0.0, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0076
+
+bh : (0.0001, 0.0, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0077
+
+bh : (2.0, 0.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0078
+
+bh : (3.0, 0.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0079
+
+bh : (10.0, 0.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0080
+
+bh : (20.0, 0.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0081
+
+bh : (30.0, 0.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0082
+
+bh : (100.0, 0.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0083
+
+bh : (200.0, 0.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0084
+
+bh : (300.0, 0.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0085
+
+bh : (10000.0, 0.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0086
+
+bh : (20000.0, 0.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0087
+
+bh : (30000.0, 0.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0088
+
+bh : (1000000.0, 0.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0089
+
+bh : (2000000.0, 0.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0090
+
+bh : (3000000.0, 0.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0091
+
+bh : (0.0, 1.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0092
+
+bh : (0.0, 0.1, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0093
+
+bh : (0.0, 0.01, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0094
+
+bh : (0.0, 0.0001, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0095
+
+bh : (0.0, 2.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0096
+
+bh : (0.0, 3.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0097
+
+bh : (0.0, 10.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0098
+
+bh : (0.0, 20.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0099
+
+bh : (0.0, 30.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0100
+
+bh : (0.0, 100.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0101
+
+bh : (0.0, 200.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0102
+
+bh : (0.0, 300.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0103.....................................................................................................
+
+bh : (0.0, 10000.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0104
+
+bh : (0.0, 20000.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0105
+
+bh : (0.0, 30000.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0106
+
+bh : (0.0, 1000000.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0107
+
+bh : (0.0, 2000000.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0108
+
+bh : (0.0, 3000000.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0109
+
+bh : (1.0, 1.0, 1.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0110
+
+bh : (0.1, 0.1, 0.1)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0111
+
+bh : (0.001, 0.01, 0.001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0112
+
+bh : (0.0001, 0.0001, 0.0001)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0113
+
+bh : (2.0, 2.0, 2.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0114
+
+bh : (3.0, 3.0, 3.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0115
+
+bh : (10.0, 10.0, 10.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0116
+
+bh : (20.0, 20.0, 20.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0117
+
+bh : (30.0, 30.0, 30.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0118
+
+bh : (100.0, 100.0, 100.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0119
+
+bh : (200.0, 200.0, 200.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0120
+
+bh : (300.0, 300.0, 300.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0121
+
+bh : (10000.0, 10000.0, 10000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0122
+
+bh : (20000.0, 20000.0, 20000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0123
+
+bh : (30000.0, 30000.0, 30000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0124
+
+bh : (1000000.0, 1000000.0, 1000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0125
+
+bh : (2000000.0, 2000000.0, 2000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0126
+
+bh : (3000000.0, 3000000.0, 3000000.0)
+
+bt : (0.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0127
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0128
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.0, 0.0)
+
+bn : TestArmatureBoneName0129
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.0, 0.0)
+
+bn : TestArmatureBoneName0130
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0, 0.0)
+
+bn : TestArmatureBoneName0131
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0132
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0133
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0134
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0135
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0136
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0137
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0138
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0139
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0140
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0141
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0142
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0143
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0144
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 0.0, 0.0)
+
+bn : TestArmatureBoneName0145
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1.0, 0.0)
+
+bn : TestArmatureBoneName0146
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.1, 0.0)
+
+bn : TestArmatureBoneName0147
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.001, 0.0)
+
+bn : TestArmatureBoneName0148
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0001, 0.0)
+
+bn : TestArmatureBoneName0149
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2.0, 0.0)
+
+bn : TestArmatureBoneName0150
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3.0, 0.0)
+
+bn : TestArmatureBoneName0151
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10.0, 0.0)
+
+bn : TestArmatureBoneName0152
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20.0, 0.0)
+
+bn : TestArmatureBoneName0153
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30.0, 0.0)
+
+bn : TestArmatureBoneName0154
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 100.0, 0.0)
+
+bn : TestArmatureBoneName0155
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 200.0, 0.0)
+
+bn : TestArmatureBoneName0156
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 300.0, 0.0)
+
+bn : TestArmatureBoneName0157
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10000.0, 0.0)
+
+bn : TestArmatureBoneName0158
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20000.0, 0.0)
+
+bn : TestArmatureBoneName0159
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30000.0, 0.0)
+
+bn : TestArmatureBoneName0160
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1000000.0, 0.0)
+
+bn : TestArmatureBoneName0161
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2000000.0, 0.0)
+
+bn : TestArmatureBoneName0162
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3000000.0, 0.0)
+
+bn : TestArmatureBoneName0163
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 1.0)
+
+bn : TestArmatureBoneName0164
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.1)
+
+bn : TestArmatureBoneName0165
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.001)
+
+bn : TestArmatureBoneName0166
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0001)
+
+bn : TestArmatureBoneName0167
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 2.0)
+
+bn : TestArmatureBoneName0168
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 3.0)
+
+bn : TestArmatureBoneName0169
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 10.0)
+
+bn : TestArmatureBoneName0170
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 20.0)
+
+bn : TestArmatureBoneName0171
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 30.0)
+
+bn : TestArmatureBoneName0172
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 100.0)
+
+bn : TestArmatureBoneName0173
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 200.0)
+
+bn : TestArmatureBoneName0174
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 300.0)
+
+bn : TestArmatureBoneName0175
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 10000.0)
+
+bn : TestArmatureBoneName0176
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 20000.0)
+
+bn : TestArmatureBoneName0177
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 30000.0)
+
+bn : TestArmatureBoneName0178
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 1000000.0)
+
+bn : TestArmatureBoneName0179
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 2000000.0)
+
+bn : TestArmatureBoneName0180
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 3000000.0)
+
+bn : TestArmatureBoneName0181
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 1.0, 0.0)
+
+bn : TestArmatureBoneName0182
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.1, 0.0)
+
+bn : TestArmatureBoneName0183
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.001, 0.0)
+
+bn : TestArmatureBoneName0184
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0001, 0.0)
+
+bn : TestArmatureBoneName0185
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 2.0, 0.0)
+
+bn : TestArmatureBoneName0186
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 3.0, 0.0)
+
+bn : TestArmatureBoneName0187
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 10.0, 0.0)
+
+bn : TestArmatureBoneName0188
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 20.0, 0.0)
+
+bn : TestArmatureBoneName0189
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 30.0, 0.0)
+
+bn : TestArmatureBoneName0190
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 100.0, 0.0)
+
+bn : TestArmatureBoneName0191
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 200.0, 0.0)
+
+bn : TestArmatureBoneName0192
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 300.0, 0.0)
+
+bn : TestArmatureBoneName0193
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 10000.0, 0.0)
+
+bn : TestArmatureBoneName0194
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 20000.0, 0.0)
+
+bn : TestArmatureBoneName0195
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 30000.0, 0.0)
+
+bn : TestArmatureBoneName0196
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 1000000.0, 0.0)
+
+bn : TestArmatureBoneName0197
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 2000000.0, 0.0)
+
+bn : TestArmatureBoneName0198
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 3000000.0, 0.0)
+
+bn : TestArmatureBoneName0199
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 0.0, 1.0)
+
+bn : TestArmatureBoneName0200
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.0, 0.1)
+
+bn : TestArmatureBoneName0201
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.0, 0.001)
+
+bn : TestArmatureBoneName0202
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0, 0.0001)
+
+bn : TestArmatureBoneName0203
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 0.0, 2.0)
+
+bn : TestArmatureBoneName0204.................................................
+
+----------------------------------------------------------------------
+
+Ran 252 tests in 1.929s
+
+OK
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 0.0, 3.0)
+
+bn : TestArmatureBoneName0205
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 0.0, 10.0)
+
+bn : TestArmatureBoneName0206
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 0.0, 20.0)
+
+bn : TestArmatureBoneName0207
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 0.0, 30.0)
+
+bn : TestArmatureBoneName0208
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 0.0, 100.0)
+
+bn : TestArmatureBoneName0209
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 0.0, 200.0)
+
+bn : TestArmatureBoneName0210
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 0.0, 300.0)
+
+bn : TestArmatureBoneName0211
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 0.0, 10000.0)
+
+bn : TestArmatureBoneName0212
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 0.0, 20000.0)
+
+bn : TestArmatureBoneName0213
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 0.0, 30000.0)
+
+bn : TestArmatureBoneName0214
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 0.0, 1000000.0)
+
+bn : TestArmatureBoneName0215
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 0.0, 2000000.0)
+
+bn : TestArmatureBoneName0216
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 0.0, 3000000.0)
+
+bn : TestArmatureBoneName0217
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1.0, 1.0)
+
+bn : TestArmatureBoneName0218
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.1, 0.1)
+
+bn : TestArmatureBoneName0219
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.01, 0.001)
+
+bn : TestArmatureBoneName0220
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 0.0001, 0.0001)
+
+bn : TestArmatureBoneName0221
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2.0, 2.0)
+
+bn : TestArmatureBoneName0222
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3.0, 3.0)
+
+bn : TestArmatureBoneName0223
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10.0, 10.0)
+
+bn : TestArmatureBoneName0224
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20.0, 20.0)
+
+bn : TestArmatureBoneName0225
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30.0, 30.0)
+
+bn : TestArmatureBoneName0226
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 100.0, 100.0)
+
+bn : TestArmatureBoneName0227
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 200.0, 200.0)
+
+bn : TestArmatureBoneName0228
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 300.0, 300.0)
+
+bn : TestArmatureBoneName0229
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 10000.0, 10000.0)
+
+bn : TestArmatureBoneName0230
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 20000.0, 20000.0)
+
+bn : TestArmatureBoneName0231
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 30000.0, 30000.0)
+
+bn : TestArmatureBoneName0232
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 1000000.0, 1000000.0)
+
+bn : TestArmatureBoneName0233
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 2000000.0, 2000000.0)
+
+bn : TestArmatureBoneName0234
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0, 3000000.0, 3000000.0)
+
+bn : TestArmatureBoneName0235
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1.0, 1.0, 1.0)
+
+bn : TestArmatureBoneName0236
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.1, 0.1, 0.1)
+
+bn : TestArmatureBoneName0237
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.001, 0.01, 0.001)
+
+bn : TestArmatureBoneName0238
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (0.0001, 0.0001, 0.0001)
+
+bn : TestArmatureBoneName0239
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2.0, 2.0, 2.0)
+
+bn : TestArmatureBoneName0240
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3.0, 3.0, 3.0)
+
+bn : TestArmatureBoneName0241
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10.0, 10.0, 10.0)
+
+bn : TestArmatureBoneName0242
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20.0, 20.0, 20.0)
+
+bn : TestArmatureBoneName0243
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30.0, 30.0, 30.0)
+
+bn : TestArmatureBoneName0244
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (100.0, 100.0, 100.0)
+
+bn : TestArmatureBoneName0245
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (200.0, 200.0, 200.0)
+
+bn : TestArmatureBoneName0246
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (300.0, 300.0, 300.0)
+
+bn : TestArmatureBoneName0247
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (10000.0, 10000.0, 10000.0)
+
+bn : TestArmatureBoneName0248
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (20000.0, 20000.0, 20000.0)
+
+bn : TestArmatureBoneName0249
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (30000.0, 30000.0, 30000.0)
+
+bn : TestArmatureBoneName0250
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (1000000.0, 1000000.0, 1000000.0)
+
+bn : TestArmatureBoneName0251
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (2000000.0, 2000000.0, 2000000.0)
+
+bn : TestArmatureBoneName0252
+
+bh : (0.0, 0.0, 0.0)
+
+bt : (3000000.0, 3000000.0, 3000000.0)
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

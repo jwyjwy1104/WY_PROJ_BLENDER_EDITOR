@@ -1,0 +1,91 @@
+all:
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone __init__ function                                   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Evr5szRkRrGS_CsO_QfVgdMvokKgk6EIs8Mpo-ZV7D4/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone __init__ function                                   ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone __eq__ function                                     ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1tM5hJOL_N-idAqyFeGPV9TXJo4CicHV05ojmUxXIrNU/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone __eq__ function                                     ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone __str__ function                                    ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1nVYC0AHZQVhokETaYR9mhURDwV2uH8QRDQzmnDetxNY/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone __str__ function                                    ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone init_animation_bone_data function                   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/19xo7frxkGlmwR9R3JatjE6TGCLgEd2Uy9ebB40Ssk0Y/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone init_animation_bone_data function                   ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone init_animation_bone_name function                   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1zzW1SvoMP17Qj4WVPcbzbuAFUzHZzc5YhtMPV-MPaKk/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone init_animation_bone_name function                   ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone init_animation_bone_parent_name function            ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1oJZ336DowM3uESYjphdnihghrfDU4wYR6Af1t42x6Ps/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone init_animation_bone_parent_name function            ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone init_animation_bone_keyframe_arr_data function      ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/19DqZR5CVFjswBro5Uf_365IcsAeGs9m24sYZxi5u1Qo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone init_animation_bone_keyframe_arr_data function      ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone get_animation_bone_abn_str function                 ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1I65IT7mTVBcA2HQLfjlHpJ4c17Hi19yevhIfH-rppuU/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone get_animation_bone_abn_str function                 ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone get_animation_bone_apbn_str function                ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1yoIDh7e3EfGAm1SNXcwIRaGjinLUP6X97QSDRqTncsY/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone get_animation_bone_apbn_str function                ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYAnimationBone get_animation_bone_kf_str function                  ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1KqJYRbGf7ICCDor9rsgLcvt7GaDRlMW_D6ZlFiKdtCg/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYAnimationBoneTestCaseResults.txt
+	@echo [ WYAnimationBone get_animation_bone_kf_str function                  ] >> data_generated_WYAnimationBone.txt
+	if exist data_terminated.txt (exit 1)
+	

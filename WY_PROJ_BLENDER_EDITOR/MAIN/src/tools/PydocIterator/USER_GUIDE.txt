@@ -1,0 +1,60 @@
+================================================================================
+                                   USER GUIDE
+================================================================================
+Project name: 
+    - PydocIterator.
+
+Objectives:
+    - To generate Pydoc HTML pages for all the Python files I needed a tool to
+      iterate over a folder and finds the ".py" extension files and generate the 
+      Pydoc HTML pages.
+
+Staff:
+    - Lead programmer   : Samil Chai.
+    - Junior programmer : Nick Jang.
+    - [ Copy right to Samil Chai ]
+
+Start date: 2017-11-20
+End date  : 2017-11-20
+
+Environment:
+    - Python version	    : 3.6.2
+    - Python pip version    : 9.0.1
+    - Blender version: 2.78 (sub 0), branch: master, commit date: 2017-02-24.
+    - Microsoft Windows 10 Boot Camp with Macbook:
+	- MacBook Pro 12,1 (Retina, 13-inch, Early 2015):
+	    - System type   : 64-bit operating system, x64-based processor.
+	    - Processor     : Intel(R) Core(TM) i5-5287U CPU @ 2.90GHz 2.90.
+	    - Installed RAM : 8.00 GB.
+	    - Graphics card : Intel(R0 Iris(TM) Graphics 6100.
+    - Boot Camp assistant version:	
+	- Version  : Boot Camp Assistant 6.1.0, Copyright © 2016 Apple Inc. 
+		     All rights reserved.
+	- Created  : Friday, July 15, 2016 at 11:04 PM.
+	- Capacity : 250GB.
+	- Bootcamp Microsoft Windows 10 64 bits Home.
+
+Techique used:
+    - Python/Argparse/Python subprocess/
+    - Pydoc/OAuth 2.0/Google Developer Console/
+
+Project documents Google Drive folder:
+    - Google drive : [ https://drive.google.com/drive/folders/
+		       0B8vIEi2xiwB4RGxkVHhxWlIzMTQ ].
+
+Project document headquarter:
+    - Google docs : [ https://docs.google.com/document/d/
+		      1cJZ_oUeUo8GUkbYIRbQfX-5pHTvovKU1wq_U0l9Lelw/edit# ]. 
+
+================================================================================
+				User guide
+================================================================================
+(0) This tool is for developers. 
+(1) Double click "pydoc_iterator.pyw" file.
+    --> Browse or prompt the directory path onto the given text box.
+    --> Click "Choose" button to generate Pydoc HTML pages for all the ".py" 
+	extension files found inside the given directory path.
+
+
+
+

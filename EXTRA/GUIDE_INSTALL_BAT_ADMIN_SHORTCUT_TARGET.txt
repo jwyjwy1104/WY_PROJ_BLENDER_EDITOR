@@ -1,0 +1,60 @@
+================================================================================
+			Project install.bat file guide
+================================================================================
+Description: 
+   This file is to summarize the steps generating the main installation 
+   batch file to run in administrator mode, but when batch file is ran in admin 
+   mode the directory changes to "C:/Windows/System32" automatically, this 
+   guide also explains how to change directory when batch file is executed in 
+   admin mode.
+
+0) Main project installation shortcut files:
+    - install_win10_x64
+
+   Note: This files are the shortcutc to the main batch file inside EXTRA 
+	 folder.
+	 This shortcuts files are created to execute the main batch files in
+	 administrator mode in order to access the system environment PATH 
+	 variables directly.
+   
+1) How to create this shortcuts:
+    Purpose) 
+       - Run batch file in administrator mode.
+       - Run batch file in administrator mode but in the same directory
+	 instead of C:/Windows/System32.
+
+    A) Right click on the batch file (eg. install.bat) 
+       --> Send to --> Desktop (Shortcut)
+    B) Can see the shortcut file is generated in the Desktop 
+       (eg. install.bat - Shortcut)
+    C) Right click the shortcut file (eg. install.bat - Shortcut)
+       --> Properties --> Advanced --> Check "Run as administrator" option.
+       
+       Now this shortcut file executes the connected batch file in 
+       administrator mode which pops the User Account Control window
+       asking "Do you want to allow this app to make changes to you computer?"
+       If user click "yes" then the batch file is executed in admin mode,
+       if user click "no" then the batch file terminates.
+
+    D) But the problem here is that when batch file is executed in admin mode
+       the current working directory is automatically changed to 
+       "C:/Windows/System32" which can causes errors so I needed to change the 
+       directory manualy:
+       
+       Right click the shortcut file (eg. install.bat - Shortcut)
+       --> Target section 
+       --> Change the code:
+       (eg. C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\EXTRA\	
+	    install_win10_x64.bat)
+       --> Into this code:
+       (eg. C:\Windows\System32\cmd.exe /k cd C:\Users\Nickj\Desktop\
+	    WY_PROJ_BLENDER_EDITOR\EXTRA && install_win10_x64.bat)
+
+    *****IMPORTANT*****
+    Change shortcut property "Target" to:
+    C:\Windows\System32\cmd.exe /k cd C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\EXTRA && install_win10_x64.bat
+    
+
+    E) This way even though the batch file is executed in admin mode, the 
+       batch file is executed in directory indicated in the target cd section
+       (eg. cd C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\EXTRA)

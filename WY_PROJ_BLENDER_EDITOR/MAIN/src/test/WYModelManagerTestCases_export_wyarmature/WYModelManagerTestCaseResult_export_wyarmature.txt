@@ -1,0 +1,171 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+..........
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.079s
+
+OK
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0001
+
+bc 1
+
+bn TestArmatureBoneName0001
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0002
+
+bc 1
+
+bn TestArmatureBoneName0002
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0003
+
+bc 1
+
+bn TestArmatureBoneName0003
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0004
+
+bc 1
+
+bn TestArmatureBoneName0004
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0005
+
+bc 1
+
+bn TestArmatureBoneName0005
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0006
+
+bc 1
+
+bn TestArmatureBoneName0006
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0007
+
+bc 1
+
+bn TestArmatureBoneName0007
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0008
+
+bc 1
+
+bn TestArmatureBoneName0008
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0009
+
+bc 1
+
+bn TestArmatureBoneName0009
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+------------------------------------------------------------------------------
+
+Writing armature to :  ..\..\test\WYModelManagerTestCases_export_wyarmature\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+an TestArmatureObject0010
+
+bc 1
+
+bn TestArmatureBoneName0010
+
+bh 1.0 0.0 0.0
+
+bt 0.0 0.0 0.0
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB

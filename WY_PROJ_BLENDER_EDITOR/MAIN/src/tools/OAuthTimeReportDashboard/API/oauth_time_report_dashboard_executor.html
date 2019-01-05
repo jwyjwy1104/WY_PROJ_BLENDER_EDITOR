@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module oauth_time_report_dashboard_executor</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>oauth_time_report_dashboard_executor</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Cnickj%5Cdesktop%5Cwy_proj_blender_directx%5Cwy_proj_blender_editor%5Cmesh_mat_exporter%5Coauthtimereportdashboard%5Coauth_time_report_dashboard_executor.py">c:\users\nickj\desktop\wy_proj_blender_directx\wy_proj_blender_editor\mesh_mat_exporter\oauthtimereportdashboard\oauth_time_report_dashboard_executor.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="errno.html">errno</a><br>
+</td><td width="25%" valign=top><a href="os.html">os</a><br>
+</td><td width="25%" valign=top><a href="subprocess.html">subprocess</a><br>
+</td><td width="25%" valign=top><a href="sys.html">sys</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-find_element_in_list_with_key_in_lists"><strong>find_element_in_list_with_key_in_lists</strong></a>(lists, finding_elem, key)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;help&nbsp;processing&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;data&nbsp;into&nbsp;<br>
+Python&nbsp;list&nbsp;format.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::process_google_spreadsheet_time_report_data_into_amchart_data()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;iterates&nbsp;through&nbsp;the&nbsp;provided&nbsp;list&nbsp;and&nbsp;finds&nbsp;the&nbsp;provided&nbsp;<br>
+element&nbsp;with&nbsp;provided&nbsp;key&nbsp;and&nbsp;return&nbsp;the&nbsp;found&nbsp;element&nbsp;else&nbsp;return&nbsp;None.<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;used&nbsp;to&nbsp;find&nbsp;the&nbsp;same&nbsp;time&nbsp;report&nbsp;data&nbsp;which&nbsp;has&nbsp;the&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;same&nbsp;date&nbsp;so&nbsp;the&nbsp;data&nbsp;won't&nbsp;be&nbsp;duplicated&nbsp;in&nbsp;the&nbsp;data&nbsp;structure.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-find_element_in_list_with_key_in_lists">find_element_in_list_with_key_in_lists</a>([{date:"10/07"},{date:"10/08"},{date:"10/09"}],&nbsp;{date:&nbsp;"10/17"},&nbsp;"date")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;--&gt;&nbsp;Return&nbsp;{date:"10/07"}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-find_element_in_list_with_key_in_lists">find_element_in_list_with_key_in_lists</a>([{date:"10/07"},{date:"10/08"},{date:"10/09"}],&nbsp;{date:&nbsp;"10/17"},"date")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;--&gt;&nbsp;Return&nbsp;None<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;lists:&nbsp;Main&nbsp;data&nbsp;structure&nbsp;to&nbsp;find&nbsp;the&nbsp;element&nbsp;with.<br>
+:type&nbsp;&nbsp;lists:&nbsp;[{},{},{}&nbsp;...&nbsp;]<br>
+:param&nbsp;finding_elem:&nbsp;Element&nbsp;value&nbsp;to&nbsp;find&nbsp;inside&nbsp;the&nbsp;data&nbsp;structure.<br>
+:type&nbsp;&nbsp;finding_elem:&nbsp;{}<br>
+:param&nbsp;key:&nbsp;String&nbsp;key&nbsp;value&nbsp;to&nbsp;find&nbsp;the&nbsp;matching&nbsp;element.<br>
+:type&nbsp;&nbsp;key:&nbsp;String<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return&nbsp;None:&nbsp;If&nbsp;element&nbsp;is&nbsp;not&nbsp;found&nbsp;in&nbsp;the&nbsp;list&nbsp;with&nbsp;provided&nbsp;key.<br>
+:rtype&nbsp;&nbsp;None:&nbsp;None<br>
+:return&nbsp;list_elem:&nbsp;The&nbsp;element&nbsp;found&nbsp;in&nbsp;the&nbsp;list&nbsp;with&nbsp;provided&nbsp;key.<br>
+:rtype&nbsp;&nbsp;list_elem:&nbsp;{}</tt></dd></dl>
+ <dl><dt><a name="-load_list_from_file"><strong>load_list_from_file</strong></a>(file_path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;load&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;from&nbsp;the&nbsp;text&nbsp;file&nbsp;with&nbsp;<br>
+byte&nbsp;codes.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;with&nbsp;the&nbsp;file&nbsp;path&nbsp;given&nbsp;and&nbsp;load&nbsp;the&nbsp;list&nbsp;<br>
+data&nbsp;structure&nbsp;read&nbsp;as&nbsp;byte&nbsp;code&nbsp;from&nbsp;the&nbsp;file&nbsp;path&nbsp;provided,&nbsp;the&nbsp;file&nbsp;is<br>
+opened&nbsp;up&nbsp;with&nbsp;"rb"&nbsp;where&nbsp;'b'&nbsp;indicates&nbsp;"byte"&nbsp;and&nbsp;"r"&nbsp;indicates&nbsp;"read".<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;created&nbsp;to&nbsp;merge&nbsp;the&nbsp;multiple&nbsp;list&nbsp;data&nbsp;structure&nbsp;data&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;generating&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;for&nbsp;multiple&nbsp;Google&nbsp;Spreadsheet&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;time&nbsp;reports,&nbsp;so&nbsp;I&nbsp;can&nbsp;merge&nbsp;the&nbsp;data&nbsp;with&nbsp;2&nbsp;different&nbsp;execution&nbsp;call.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;file_path:&nbsp;File&nbsp;path&nbsp;to&nbsp;load&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;byte&nbsp;codes&nbsp;from.<br>
+:type&nbsp;&nbsp;file_path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-mkdir_p"><strong>mkdir_p</strong></a>(path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Sub&nbsp;function&nbsp;to&nbsp;create&nbsp;the&nbsp;directory&nbsp;if&nbsp;given&nbsp;file&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_util::<a href="#-safe_open_w">safe_open_w</a>()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;a&nbsp;file&nbsp;with&nbsp;provided&nbsp;file&nbsp;path,&nbsp;but&nbsp;if&nbsp;the&nbsp;directory<br>
+containing&nbsp;current&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;i&nbsp;create&nbsp;the&nbsp;directory&nbsp;and&nbsp;then&nbsp;<br>
+opens&nbsp;up&nbsp;the&nbsp;file.<br>
+&nbsp;<br>
+In&nbsp;this&nbsp;way,&nbsp;I&nbsp;can&nbsp;safely&nbsp;open&nbsp;up&nbsp;any&nbsp;file&nbsp;path&nbsp;given&nbsp;even&nbsp;though&nbsp;the&nbsp;<br>
+directory&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from&nbsp;https://stackoverflow.com/a/600612/119527<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;path:&nbsp;File&nbsp;path&nbsp;to&nbsp;open&nbsp;with.<br>
+:type&nbsp;&nbsp;path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-oauth_time_report_dashboard_executor"><strong>oauth_time_report_dashboard_executor</strong></a>(time_report_dashboard_html_file_abs_path)</dt><dd><tt>OAuth&nbsp;test&nbsp;case&nbsp;generator&nbsp;executor<br>
+&nbsp;<br>
+This&nbsp;script&nbsp;is&nbsp;to&nbsp;generate&nbsp;the&nbsp;Pydoc&nbsp;HTML&nbsp;document&nbsp;page&nbsp;of&nbsp;the&nbsp;unit&nbsp;test&nbsp;<br>
+case&nbsp;is&nbsp;generated&nbsp;through&nbsp;this&nbsp;OAuth&nbsp;test&nbsp;case&nbsp;generator&nbsp;algorithm<br>
+and&nbsp;then&nbsp;execute&nbsp;the&nbsp;unit&nbsp;test&nbsp;case&nbsp;to&nbsp;get&nbsp;the&nbsp;result&nbsp;of&nbsp;the&nbsp;tests&nbsp;and&nbsp;<br>
+write&nbsp;the&nbsp;result&nbsp;into&nbsp;a&nbsp;log&nbsp;file&nbsp;to&nbsp;keep&nbsp;the&nbsp;in&nbsp;local&nbsp;folder.<br>
+&nbsp;<br>
+:param&nbsp;test_case_file_abs_path&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Absolute&nbsp;file&nbsp;path&nbsp;of&nbsp;the&nbsp;final&nbsp;unit&nbsp;test&nbsp;case&nbsp;file&nbsp;to&nbsp;execute&nbsp;with.<br>
+:param&nbsp;final_oauth_test_case_generator_command:&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Final&nbsp;OAuth&nbsp;test&nbsp;case&nbsp;generator&nbsp;execute&nbsp;command&nbsp;to&nbsp;be&nbsp;stored&nbsp;into&nbsp;each<br>
+&nbsp;&nbsp;&nbsp;&nbsp;unit&nbsp;test&nbsp;case&nbsp;folders'&nbsp;makefile,&nbsp;so&nbsp;i&nbsp;can&nbsp;execute&nbsp;them&nbsp;independently.</tt></dd></dl>
+ <dl><dt><a name="-safe_open_w"><strong>safe_open_w</strong></a>(path)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;create&nbsp;the&nbsp;directory&nbsp;if&nbsp;given&nbsp;file&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;a&nbsp;file&nbsp;with&nbsp;provided&nbsp;file&nbsp;path,&nbsp;but&nbsp;if&nbsp;the&nbsp;directory<br>
+containing&nbsp;current&nbsp;file&nbsp;does&nbsp;not&nbsp;exist&nbsp;then&nbsp;i&nbsp;create&nbsp;the&nbsp;directory&nbsp;and&nbsp;then&nbsp;<br>
+opens&nbsp;up&nbsp;the&nbsp;file.<br>
+&nbsp;<br>
+In&nbsp;this&nbsp;way,&nbsp;I&nbsp;can&nbsp;safely&nbsp;open&nbsp;up&nbsp;any&nbsp;file&nbsp;path&nbsp;given&nbsp;even&nbsp;though&nbsp;the&nbsp;<br>
+directory&nbsp;path&nbsp;does&nbsp;not&nbsp;exist.<br>
+------------------------------------------------------------------------<br>
+Resources:<br>
+------------------------------------------------------------------------<br>
+Code&nbsp;brought&nbsp;from&nbsp;https://stackoverflow.com/a/600612/119527<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;path:&nbsp;File&nbsp;path&nbsp;to&nbsp;open&nbsp;with.<br>
+:type&nbsp;&nbsp;path:&nbsp;string</tt></dd></dl>
+ <dl><dt><a name="-save_list_to_file"><strong>save_list_to_file</strong></a>(file_path, saving_list)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;save&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;into&nbsp;text&nbsp;file&nbsp;with&nbsp;<br>
+byte&nbsp;codes.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;opens&nbsp;up&nbsp;with&nbsp;the&nbsp;file&nbsp;path&nbsp;given&nbsp;and&nbsp;write&nbsp;the&nbsp;provided&nbsp;list&nbsp;<br>
+data&nbsp;structure&nbsp;into&nbsp;the&nbsp;file&nbsp;as&nbsp;byte&nbsp;code&nbsp;opened&nbsp;up&nbsp;with&nbsp;"wb"&nbsp;where&nbsp;'b'&nbsp;<br>
+indicates&nbsp;"byte"&nbsp;and&nbsp;"w"&nbsp;indicates&nbsp;"write".<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;function&nbsp;is&nbsp;created&nbsp;to&nbsp;merge&nbsp;the&nbsp;multiple&nbsp;list&nbsp;data&nbsp;structure&nbsp;data&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;when&nbsp;generating&nbsp;time&nbsp;report&nbsp;dashboard&nbsp;for&nbsp;multiple&nbsp;Google&nbsp;Spreadsheet&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;time&nbsp;reports,&nbsp;so&nbsp;i&nbsp;can&nbsp;merge&nbsp;the&nbsp;data&nbsp;with&nbsp;2&nbsp;different&nbsp;execution&nbsp;call.<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;file_path:&nbsp;File&nbsp;path&nbsp;to&nbsp;export&nbsp;the&nbsp;list&nbsp;data&nbsp;structure&nbsp;into&nbsp;byte&nbsp;codes.<br>
+:type&nbsp;&nbsp;file_path:&nbsp;string<br>
+:param&nbsp;saving_list:&nbsp;List&nbsp;data&nbsp;structure&nbsp;to&nbsp;save&nbsp;as&nbsp;byte&nbsp;code&nbsp;into&nbsp;a&nbsp;text&nbsp;file.<br>
+:type&nbsp;&nbsp;saving_list:&nbsp;[]</tt></dd></dl>
+ <dl><dt><a name="-validate_date_string_format"><strong>validate_date_string_format</strong></a>(date_text)</dt><dd><tt>------------------------------------------------------------------------<br>
+Title:<br>
+------------------------------------------------------------------------<br>
+Utility&nbsp;function&nbsp;to&nbsp;help&nbsp;validating&nbsp;the&nbsp;Google&nbsp;Spreadsheet&nbsp;cell&nbsp;string&nbsp;is<br>
+matching&nbsp;date&nbsp;value&nbsp;format&nbsp;"0000/00/00"<br>
+&nbsp;<br>
+Called&nbsp;by&nbsp;function:&nbsp;oauth_time_report_dashboard_generator::process_google_spreadsheet_time_report_data_into_amchart_data()<br>
+------------------------------------------------------------------------<br>
+Description:<br>
+------------------------------------------------------------------------<br>
+This&nbsp;function&nbsp;checks&nbsp;whether&nbsp;the&nbsp;string&nbsp;value&nbsp;passed&nbsp;in&nbsp;as&nbsp;parameter&nbsp;is&nbsp;<br>
+matching&nbsp;date&nbsp;value&nbsp;format&nbsp;"0000/00/00"<br>
+&nbsp;<br>
+Example:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017/10/11")&nbsp;--&gt;&nbsp;Return&nbsp;True<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017/10-11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017-10-11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#-validate_date_string_format">validate_date_string_format</a>("2017.10.11")&nbsp;--&gt;&nbsp;Return&nbsp;False<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+------------------------------------------------------------------------<br>
+Parameters:<br>
+------------------------------------------------------------------------<br>
+:param&nbsp;date_text:&nbsp;String&nbsp;value&nbsp;to&nbsp;test&nbsp;the&nbsp;format&nbsp;with.<br>
+:type&nbsp;&nbsp;date_text:&nbsp;string<br>
+&nbsp;<br>
+------------------------------------------------------------------------<br>
+Return:<br>
+------------------------------------------------------------------------<br>
+:return:&nbsp;True&nbsp;if&nbsp;string&nbsp;matches&nbsp;the&nbsp;date&nbsp;format&nbsp;"0000/00/00".<br>
+:return:&nbsp;False&nbsp;if&nbsp;string&nbsp;does&nbsp;not&nbsp;matches&nbsp;the&nbsp;date&nbsp;format&nbsp;"0000/00/00".</tt></dd></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>__warningregistry__</strong> = {'version': 0, ("unclosed file &lt;_io.TextIOWrapper name='oauth_tim...rt_dashboard_util.py' mode='r' encoding='cp1252'&gt;", &lt;class 'ResourceWarning'&gt;, 5): True}<br>
+<strong>filename</strong> = 'oauth_time_report_dashboard_util.py'</td></tr></table>
+</body></html>

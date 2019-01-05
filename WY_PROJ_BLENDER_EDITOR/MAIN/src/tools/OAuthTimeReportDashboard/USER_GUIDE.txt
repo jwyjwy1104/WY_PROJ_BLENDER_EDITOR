@@ -1,0 +1,253 @@
+================================================================================
+                                   USER GUIDE
+================================================================================
+Project name: 
+    - OAuthTimeReportDashboard.
+
+Objectives:
+    - To analyze my risk management and time mangement I needed a tool to 
+      observe my daily process by checking work efficiency, total working 
+      time and final working time in graph state which is the best way to 
+      visualize a process in certain period of time.
+      Using OAuth to retrieve the data from Google Spreadsheet time reports 
+      and generate a HTML page which shows a graph which time reports data 
+      are pushed into the graph, and this graph is drawn with external 
+      Javascript library called amChart.js.
+
+Staff:
+    - Lead programmer   : Samil Chai.
+    - Junior programmer : Nick Jang.
+    - [ Copy right to Samil Chai ]
+
+Start date: 2017-10-08
+End date  : 2017-10-09
+
+Environment:
+    - Blender version: 2.78 (sub 0), branch: master, commit date: 2017-02-24.
+    - Microsoft Windows 10 Boot Camp with Macbook:
+	- MacBook Pro 12,1 (Retina, 13-inch, Early 2015):
+	    - System type   : 64-bit operating system, x64-based processor.
+	    - Processor     : Intel(R) Core(TM) i5-5287U CPU @ 2.90GHz 2.90.
+	    - Installed RAM : 8.00 GB.
+	    - Graphics card : Intel(R0 Iris(TM) Graphics 6100.
+    - Boot Camp assistant version:	
+	- Version  : Boot Camp Assistant 6.1.0, Copyright © 2016 Apple Inc. 
+		     All rights reserved.
+	- Created  : Friday, July 15, 2016 at 11:04 PM.
+	- Capacity : 250GB.
+	- Bootcamp Microsoft Windows 10 64 bits Home.
+
+Techique used:
+    - HTML5/Javascript/amChart/
+    - Python/Argparse/Python subprocess/
+    - Pydoc/OAuth 2.0/Google Developer Console.
+
+Project documents Google Drive folder:
+    - Google drive : [ https://drive.google.com/drive/folders/
+		       0B8vIEi2xiwB4RGxkVHhxWlIzMTQ ].
+
+Project document headquarter:
+    - Google docs : [ https://docs.google.com/document/d/
+		      1cJZ_oUeUo8GUkbYIRbQfX-5pHTvovKU1wq_U0l9Lelw/edit# ]. 
+================================================================================
+				User guide
+================================================================================
+(0) This tool is for developers. 
+    This tool is connected with Google Developer API which I need the 
+    credential + client_secret.json file to connect the Google Developer 
+    Console to access the private Google Spreadsheet which has the time 
+    report data to generate the dashboard amChart.
+
+(1) Open command prompt:
+	Caution: These are sample commands, which means the file path 
+	         need to be adjusted when ported.
+	$ cd C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_DIRECTX
+	       \WY_PROJ_BLENDER_EDITOR\MESH_MAT_EXPORTER\
+	       OAuthTimeReportDashboard
+	$ make
+
+	*****All the Google Spreadsheet time report data URL will be 
+	     organized  here inside the makefile and are executed to 
+	     perform following processes:
+		- Generate the time report dashboard amChart HTML page
+		with provided file path.
+		- Open the dashboard HTML page when finished generating.
+		- If dashboards are generated in multiple commands with 
+		multiple spreadsheet URLs but with same HTML page
+		file path, the data are merged into single chart data
+		so the multiple spreadsheet time report will be shown 
+		in a single dashboard.
+
+(2) Implement the time report inside Google Spreadsheet, must 
+    matching the test case data spreadsheet template format:
+	[ oauth_time_report_dashboard_spreadsheet_template.xlsx ]
+
+	This time report dashboard shows all these values in the chart:
+	 	Blue square 		
+			- Final work durations 
+			(Total work duration * Work efficiency)
+		Yellow line square bullet 	
+			- Total work durations
+		Green line triangle up bullet 	
+			- Work efficiency average percentage
+
+
+(3) Add the time report dashboard generator code into the "./makefile" 
+    file providing the followings as command line arguments:
+	- OAuth client application name
+	- OAuth client secret JSON file path
+	- Google Spreadsheet URL just created
+	- Exporting HTML page dashboard file path
+
+    This is the sample code:
+	WYCOORDSYS_TESTCASE_FINAL_RESULT_FILE_PATH := ${CURDIR}/../
+					WYCoordsys/WYCoordsysTestCaseResults.txt
+    all:
+	python oauth_time_report_dashboard_manager.py \
+	-title "[ WY_PROJ_BLENDER_EDITOR_01_20170914_20170919_TIME_REPORT ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/
+		       1Teg5qWBgj0zLlwy8z4Upi4kEMIiyd8n3onzt2tuYc50/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	-filepath ".\oauth_time_report_dashboard.html"
+	cd ${CURDIR} & start oauth_time_report_dashboard.html
+
+	Note: Last line is to automatically open the dashboard amChart HTML page     
+	      when generated, "start" command is only for Windows and can only 
+  	      open with file name where relative file path, absolute file path 
+	      doesn't work so I navigated to the folder to open the page.
+    **********************************************************************
+    IMPORTANT!!! 
+    **********************************************************************
+    If I generate multiple time report dashboard with 
+    multiple commands appended like above, the time report dashboard will 
+    be generated onto each given file paths, but when I provide same file 
+    path to all the time report dashboard generating commands, for example:
+	python oauth_time_report_dashboard_manager.py \
+	-title "[ WY_PROJ_BLENDER_EDITOR_01_20170914_20170919_TIME_REPORT ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/
+		       1Teg5qWBgj0zLlwy8z4Upi4kEMIiyd8n3onzt2tuYc50/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	-filepath ".\oauth_time_report_dashboard.html"
+	cd ${CURDIR} & start oauth_time_report_dashboard.html
+
+	python oauth_time_report_dashboard_manager.py \
+	-title "[ WY_PROJ_BLENDER_EDITOR_05_20171004_20171007_TIME_REPORT ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/
+		       1gfK3k5pRZ90hTjVGyoLRa5-0dXa6wT5olaiRwDUwnys/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	-filepath ".\oauth_time_report_dashboard.html"
+	cd ${CURDIR} & start oauth_time_report_dashboard.html
+
+    Different spreadsheet URLs but same export file path, then I will have 
+    all the different spreadsheet data merged into one, so the generated
+    amChart will show all the data merged from multiple different spreadsheet
+    what this means is that time report for "10/07" is inside first spreadsheet
+    with work duration 2 hours but also in second spreadsheet with work duration
+    6 hours, they have different URLs, but this tool will automatically detect 
+    and find the data which has the same date and merge them together resulting
+    the final dashboard amChart shows 8 hours on "10/07"!!!
+    **********************************************************************
+    Note:
+	Make sure the indentation 
+	    "\t" tab characters ,
+	    " " space characters and
+            "/" proceed to next line characters
+	are properly prompted since makefile is sensitive 
+	on these characters.
+
+	">" is used for overwriting the text to the file.
+	">>" is used for appending the text to the file.
+
+	Command line arguments:
+	"-title"     This is the title for current unit test cases.
+	"-ssurl"     This is the Google Spreadsheet URL to generate 
+	 	     the unit test cases with.
+	"-feed"      This is the name of the feed which contains all 
+	  	     the test cases data in the Google Spreadsheet URL
+		     provided.
+	"-app"	     This is the OAuth client application name used to 
+		     authorize the Google Developer Console 
+		     credential with.
+	"-filepath"  This is the final time report dashboard HTML page
+		     file path when generated.
+
+    What is this command doing:
+	This command let you connect to the Google Developer Console 
+	authorizing the credential using the OAuth application name 
+	and the OAuth client secret file to access the private 
+	Google Spreadsheet.
+	
+	Then generate the time report dashboard using the data indicated 
+	in the Google Spreadsheet URL, also generates the Pydoc HTML page
+	for current tool scripts to view the API through web browser. 
+	And the time report dashboard HTML page onto given file path.
+	
+	Finally execute the time report dashboard HTML page generated 
+	with "start" command which opens up the web browser for us.
+
+(4) Check the time report dashboard HTML page is generated on provided 
+    file path.
+
+(Summary) 
+    These are the summarized steps which I need to generate the 
+    time report dashboard using the main OAuth time report 
+    dashboard generator:
+	(a) Go to [ OAuthTimeReportDashboard/ ]
+	    Example:
+	    	$ cd C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_DIRECTX\
+			WY_PROJ_BLENDER_EDITOR\mesh_mat_exporter\
+			OAuthTimeReportDashboard
+	(b) Adjust or append the compiling code to the makefile
+	    and give the proper Google Spreadsheet URL, OAuth 
+	    client application name and OAuth client secret to 
+	    proper command line arugment options at the end 
+	    of the code:
+	    Open "makefile" [ makefile ]
+	    --> Using notepad or $ nano makefile
+	    --> Add this lines of code to the end of file and match 
+		the indentation:
+
+	(Following 6 lines of code must be in 6 line 
+	 since using "\" new line character)
+    Example:
+	python oauth_time_report_dashboard_manager.py \
+	-title "[ WY_PROJ_BLENDER_EDITOR_06_20171008_20171010_TIME_REPORT ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/
+		       1ur-DnfW33Nb9iySsvpyhN_mOajdO8ZDNEavJfv5UI9A/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	-filepath ".\oauth_time_report_dashboard.html"
+
+	(c) Create and implement the Google Spreadsheet time report to 
+	    to generate the time report dashboard with:
+	    Example URL:
+		https://docs.google.com/spreadsheets/d/
+		        1E0NlrEKegFmiFqvOzV09CB8DRSArCfFB9UfZzCwPly8/edit#gid=0
+	(d) Compile and run the OAuth time report dashboard generator:
+	    Example:
+		$ make
+
+	(e) Check the files are properlly generated to each 
+	    correct destinations:
+    For example with this command:
+	python oauth_time_report_dashboard_manager.py \
+	-title "[ WY_PROJ_BLENDER_EDITOR_06_20171008_20171010_TIME_REPORT ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/
+		       1ur-DnfW33Nb9iySsvpyhN_mOajdO8ZDNEavJfv5UI9A/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	-filepath ".\oauth_time_report_dashboard.html"
+	    Time report dashboard HTML page is generated in current directory as
+	    "oauth_time_report_dashboard.html"
+	    which the time report data is from 
+	    "https://docs.google.com/spreadsheets/d/
+	     1ur-DnfW33Nb9iySsvpyhN_mOajdO8ZDNEavJfv5UI9A/edit#gid=0"
+
+	
+
+
+
+

@@ -1,0 +1,7 @@
+an TestArmatureObject0003
+bc 1
+CU Z
+CF Y
+bn TestArmatureBoneName0003
+bh 3.0 0.0 0.0
+bt 0.0 0.0 0.0

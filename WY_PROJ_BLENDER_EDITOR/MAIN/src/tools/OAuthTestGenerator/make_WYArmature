@@ -1,0 +1,109 @@
+all:
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature init_armature_name function                 ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1j_0Bb6v08GwHndVXvH0H9hoCP_QVW8JAz23_9CF2JLQ/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature init_armature_name function                 ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature init_armature_model_relfile_path function   ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1SnJ5P0u3mfEWuFZi8-r1Sw9BSQbFD4pCbEB-dNXZ29I/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature init_armature_model_relfile_path function   ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature init_num_armature_bones_data function       ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/18ZIAqIe-XNVwOsrJamaUTLla_mcjqEsFJAAMdbPB-AU/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature init_num_armature_bones_data function       ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature get_armature_an_str function                ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1EL0eoTF1CsUc72wNqHdIXY4eP6uKQlUwkbPbxQVDFZM/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature get_armature_an_str function                ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature get_armature_mdllib_str function            ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1XEkJjPkHlFYKQnajLX_rOnbBBOIp2YL2Wri-K7BLFXg/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature get_armature_mdllib_str function            ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature get_armature_bc_str function                ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Tjeg2R777EJQeLVBwQE6wwx2PeAKDhcv_mW05LEzO4o/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature get_armature_bc_str function                ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature get_armature_bones_arr_str function         ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1Z0LKluFQm49hXg7yUn_3VfbN_qiAkkRjgembplmS64g/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature get_armature_bones_arr_str function         ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature init_wyarmature_elements function           ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1N2vJ2eguUNoHJ_lZeFMSagqpznPxQxvK0dy3g_5IY0s/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature init_wyarmature_elements function           ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature init_armature_data function                 ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1DmSdjMtm3QyNMiQiuuhKM_7bLPigjxlSpAOJdcQ79as/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature init_armature_data function                 ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature __init__ function                           ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1MiAcCRWtAKITO0tm7pKn6G4BK6NDzNiQii1iMd-hfx8/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature __init__ function                           ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature __eq__ function                             ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/1kAtOhmvu98mD7TiUrRy-w9pMIQ-Rt8TlN2PmWrWDOgo/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature __eq__ function                             ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	
+	python oauth_test_case_generator_manager.py \
+	-title "[ WYArmature __str__ function                            ]" \
+	-ssurl https://docs.google.com/spreadsheets/d/174uX6l_fOWWv5soRMHriS8VOkojVRpnp6o9bw3Nkj48/edit#gid=0 \
+	-feed Sheet1 \
+	-app WY_PROJ_BLENDER_EDITOR_OAUTH_CLIENT \
+	>> C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\WYArmatureTestCaseResults.txt
+	@echo [ WYArmature __str__ function                            ] >> data_generated_WYArmature.txt
+	if exist data_terminated.txt (exit 1)
+	

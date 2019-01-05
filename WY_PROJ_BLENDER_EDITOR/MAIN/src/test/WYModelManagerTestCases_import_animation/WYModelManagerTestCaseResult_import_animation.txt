@@ -1,0 +1,1091 @@
+AL lib: (EE) UpdateDeviceParams: Failed to set 44100hz, got 48000hz instead
+
+...
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0001.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0001.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0001
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0001
+
+abc : 1
+
+abn : TestAnimationBoneName0001
+
+abh (1.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (1.0, 0.0, 0.0)
+
+rotq (1.0, 1.0, 0.0, 0.0)
+
+sca (1.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0001.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0001
+
+bc : 1
+
+bn : TestAnimationBoneName0001
+
+bh : (1.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0001
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0001
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0001
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 0.0
+
+rotq 1.0 1.0 0.0 0.0
+
+sca 1.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0001
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0001
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0001
+
+kf 0 {
+
+abh 1.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 1.0 0.0 0.0
+
+rotq 1.0 1.0 0.0 0.0
+
+sca 1.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0002.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0002.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0002
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0002
+
+abc : 1
+
+abn : TestAnimationBoneName0002
+
+abh (2.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (2.0, 0.0, 0.0)
+
+rotq (2.0, 2.0, 0.0, 0.0)
+
+sca (2.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0002.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0002
+
+bc : 1
+
+bn : TestAnimationBoneName0002
+
+bh : (2.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0002
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0002
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0002
+
+kf 0 {
+
+abh 2.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 0.0
+
+rotq 2.0 2.0 0.0 0.0
+
+sca 2.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0002
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0002
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0002
+
+kf 0 {
+
+abh 2.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 2.0 0.0 0.0
+
+rotq 2.0 2.0 0.0 0.0
+
+sca 2.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0003.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0003.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0003
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0003
+
+abc : 1
+
+abn : TestAnimationBoneName0003
+
+abh (3.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (3.0, 0.0, 0.0)
+
+rotq (3.0, 3.0, 0.0, 0.0)
+
+sca (3.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0003.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0003
+
+bc : 1
+
+bn : TestAnimationBoneName0003
+
+bh : (3.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0003
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0003
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0003
+
+kf 0 {
+
+abh 3.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 0.0
+
+rotq 3.0 3.0 0.0 0.0
+
+sca 3.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0003
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0003
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0003
+
+kf 0 {
+
+abh 3.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 3.0 0.0 0.0
+
+rotq 3.0 3.0 0.0 0.0
+
+sca 3.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0004.wyan
+
+------------------------------------------------------------------------------...
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0004.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0004
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0004
+
+abc : 1
+
+abn : TestAnimationBoneName0004
+
+abh (4.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (4.0, 0.0, 0.0)
+
+rotq (4.0, 4.0, 0.0, 0.0)
+
+sca (4.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0004.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0004
+
+bc : 1
+
+bn : TestAnimationBoneName0004
+
+bh : (4.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0004
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0004
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0004
+
+kf 0 {
+
+abh 4.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 4.0 0.0 0.0
+
+rotq 4.0 4.0 0.0 0.0
+
+sca 4.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0004
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0004
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0004
+
+kf 0 {
+
+abh 4.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 4.0 0.0 0.0
+
+rotq 4.0 4.0 0.0 0.0
+
+sca 4.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0005.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0005.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0005
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0005
+
+abc : 1
+
+abn : TestAnimationBoneName0005
+
+abh (5.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (5.0, 0.0, 0.0)
+
+rotq (5.0, 5.0, 0.0, 0.0)
+
+sca (5.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0005.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0005
+
+bc : 1
+
+bn : TestAnimationBoneName0005
+
+bh : (5.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0005
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0005
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0005
+
+kf 0 {
+
+abh 5.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 5.0 0.0 0.0
+
+rotq 5.0 5.0 0.0 0.0
+
+sca 5.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0005
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0005
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0005
+
+kf 0 {
+
+abh 5.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 5.0 0.0 0.0
+
+rotq 5.0 5.0 0.0 0.0
+
+sca 5.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0006.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0006.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0006
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0006
+
+abc : 1
+
+abn : TestAnimationBoneName0006
+
+abh (6.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (6.0, 0.0, 0.0)
+
+rotq (6.0, 6.0, 0.0, 0.0)
+
+sca (6.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0006.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0006
+
+bc : 1
+
+bn : TestAnimationBoneName0006
+
+bh : (6.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0006
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0006
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0006
+
+kf 0 {
+
+abh 6.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 6.0 0.0 0.0
+
+rotq 6.0 6.0 0.0 0.0
+
+sca 6.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0006
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0006
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0006
+
+kf 0 {
+
+abh 6.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 6.0 0.0 0.0
+
+rotq 6.0 6.0 0.0 0.0
+
+sca 6.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0007.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0007.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0007
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0007
+
+abc : 1
+
+abn : TestAnimationBoneName0007
+
+abh (7.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (7.0, 0.0, 0.0)
+
+rotq (7.0, 7.0, 0.0, 0.0)
+
+sca (7.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------...
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0007.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0007
+
+bc : 1
+
+bn : TestAnimationBoneName0007
+
+bh : (7.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0007
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0007
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0007
+
+kf 0 {
+
+abh 7.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 7.0 0.0 0.0
+
+rotq 7.0 7.0 0.0 0.0
+
+sca 7.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0007
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0007
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0007
+
+kf 0 {
+
+abh 7.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 7.0 0.0 0.0
+
+rotq 7.0 7.0 0.0 0.0
+
+sca 7.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0008.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0008.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0008
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0008
+
+abc : 1
+
+abn : TestAnimationBoneName0008
+
+abh (8.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (8.0, 0.0, 0.0)
+
+rotq (8.0, 8.0, 0.0, 0.0)
+
+sca (8.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0008.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0008
+
+bc : 1
+
+bn : TestAnimationBoneName0008
+
+bh : (8.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0008
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0008
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0008
+
+kf 0 {
+
+abh 8.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 8.0 0.0 0.0
+
+rotq 8.0 8.0 0.0 0.0
+
+sca 8.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0008
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0008
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0008
+
+kf 0 {
+
+abh 8.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 8.0 0.0 0.0
+
+rotq 8.0 8.0 0.0 0.0
+
+sca 8.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0009.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0009.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0009
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0009
+
+abc : 1
+
+abn : TestAnimationBoneName0009
+
+abh (9.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (9.0, 0.0, 0.0)
+
+rotq (9.0, 9.0, 0.0, 0.0)
+
+sca (9.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0009.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0009
+
+bc : 1
+
+bn : TestAnimationBoneName0009
+
+bh : (9.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0009
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0009
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0009
+
+kf 0 {
+
+abh 9.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 9.0 0.0 0.0
+
+rotq 9.0 9.0 0.0 0.0
+
+sca 9.0 0.0 0.0
+
+}
+
+]
+
+2[ann TestArmatureObject0009
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0009
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0009
+
+kf 0 {
+
+abh 9.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 9.0 0.0 0.0
+
+rotq 9.0 9.0 0.0 0.0
+
+sca 9.0 0.0 0.0
+
+}
+
+]
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Writing armature to :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0010.wyan
+
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+Loading from :  ..\..\test\WYModelManagerTestCases_import_animation\TestFile0010.wyan
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0010
+
+mamlib : C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0010
+
+abc : 1
+
+abn : TestAnimationBoneName0010
+
+abh (10.0, 0.0, 0.0)
+
+abt (0.0, 0.0, 0.0)
+
+loc (10.0, 0.0, 0.0)
+
+rotq (10.0, 10.0, 0.0, 0.0)
+
+sca (10.0, 0.0, 0.0)
+
+------------------------------------------------------------------------------
+
+Loading from :  C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0010.wya
+
+------------------------------------------------------------------------------
+
+an : TestArmatureObject0010
+
+bc : 1
+
+bn : TestAnimationBoneName0010
+
+bh : (10.0, 0.0, 0.0)
+
+bt : (0.0, 0.0, 0.0)
+
+1[ann TestArmatureObject0010
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0010
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0010
+
+kf 0 {
+
+abh 10.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 0.0
+
+rotq 10.0 10.0 0.0 0.0
+
+sca 10.0 0.0 0.0
+
+}
+
+].
+
+----------------------------------------------------------------------
+
+Ran 10 tests in 0.252s
+
+OK
+
+2[ann TestArmatureObject0010
+
+mamlib C:\Users\Nickj\Desktop\WY_PROJ_BLENDER_EDITOR\WY_PROJ_BLENDER_EDITOR\MAIN\src\tools\OAuthTestGenerator\..\..\test\WYModelManagerTestCases_import_animation\TestFile0010
+
+abc 1
+
+CU Z
+
+CF Y
+
+abn TestAnimationBoneName0010
+
+kf 0 {
+
+abh 10.0 0.0 0.0
+
+abt 0.0 0.0 0.0
+
+loc 10.0 0.0 0.0
+
+rotq 10.0 10.0 0.0 0.0
+
+sca 10.0 0.0 0.0
+
+}
+
+]
+
+Error: Not freed memory blocks: 8, total unfreed memory 0.008392 MB
